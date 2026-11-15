@@ -250,7 +250,7 @@
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/7400_NS_443_package_bottom.jpg/120px-7400_NS_443_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c1/7400_NS_443_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/7400_NS_443_package_top.jpg/120px-7400_NS_443_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/6e/7400_NS_443_package_top.jpg)
 
-### 7400 SW 7413
+### 7400 Stewart-Warner 7413
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/7400_SW_7413_die_120nmpp.jpg/120px-7400_SW_7413_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/2e/7400_SW_7413_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/7400_SW_7413_package_bottom.jpg/120px-7400_SW_7413_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/7f/7400_SW_7413_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/7400_SW_7413_package_top.jpg/120px-7400_SW_7413_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/9f/7400_SW_7413_package_top.jpg)
@@ -267,7 +267,7 @@
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/7405_TI_7130_package_bottom.jpg/120px-7405_TI_7130_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/66/7405_TI_7130_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/7405_TI_7130_package_top.jpg/120px-7405_TI_7130_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/7f/7405_TI_7130_package_top.jpg)
 
-### 7407 SW 7405
+### 7407 Stewart-Warner 7405
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/7407_SW_7405_die_120nmpp.jpg/120px-7407_SW_7405_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/cc/7407_SW_7405_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/7407_SW_7405_package_bottom.jpg/120px-7407_SW_7405_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/2a/7407_SW_7405_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/7407_SW_7405_package_top.jpg/120px-7407_SW_7405_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/01/7407_SW_7405_package_top.jpg)
@@ -331,7 +331,7 @@
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/7481_ITT_7238_package_top.jpg/120px-7481_ITT_7238_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/04/7481_ITT_7238_package_top.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/7481_ITT_7238_schematic.png/120px-7481_ITT_7238_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/5/5d/7481_ITT_7238_schematic.png)
 
-### 7490 SW 7142
+### 7490 Stewart-Warner 7142
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/7490_SW_7142_die_325nmpp.jpg/120px-7490_SW_7142_die_325nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/f1/7490_SW_7142_die_325nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/7490_SW_7142_package_bottom.jpg/120px-7490_SW_7142_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/02/7490_SW_7142_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/7490_SW_7142_package_top.jpg/120px-7490_SW_7142_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/9a/7490_SW_7142_package_top.jpg)
