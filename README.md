@@ -2,7 +2,7 @@
 
 ## Devices
 
-### 5400 NS 8838
+### 5400 National Semiconductor 8838
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/5400_NS_8838_schematic.png/120px-5400_NS_8838_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/c/cb/5400_NS_8838_schematic.png)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dm5400j-pack_bottom.jpg/120px-Dm5400j-pack_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/7e/Dm5400j-pack_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Dm5400j-pack_top.jpg/120px-Dm5400j-pack_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/6c/Dm5400j-pack_top.jpg)
@@ -30,7 +30,7 @@
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/5406_TI_8615_package_top.jpg/120px-5406_TI_8615_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b6/5406_TI_8615_package_top.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/5406_TI_8615_schematic.png/120px-5406_TI_8615_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/5/59/5406_TI_8615_schematic.png)
 
-### 5408 NS 9911
+### 5408 National Semiconductor 9911
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/5408_NS_9911_die_120nmpp.jpg/120px-5408_NS_9911_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/29/5408_NS_9911_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/5408_NS_9911_package_bottom.jpg/120px-5408_NS_9911_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/84/5408_NS_9911_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/5408_NS_9911_package_top.jpg/120px-5408_NS_9911_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/94/5408_NS_9911_package_top.jpg)
@@ -62,7 +62,7 @@
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/54163_TI_0423_schematic.png/120px-54163_TI_0423_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/7/7b/54163_TI_0423_schematic.png)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/54163_TI_0423_sm.jpg/120px-54163_TI_0423_sm.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b0/54163_TI_0423_sm.jpg)
 
-### 5420 NS 8830
+### 5420 National Semiconductor 8830
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/5420_NS_8830_die_120nmpp.jpg/120px-5420_NS_8830_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b3/5420_NS_8830_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/5420_NS_8830_package_bottom.jpg/120px-5420_NS_8830_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/83/5420_NS_8830_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/5420_NS_8830_package_top.jpg/120px-5420_NS_8830_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/21/5420_NS_8830_package_top.jpg)
@@ -138,7 +138,7 @@
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/54AS867_TI_8748_package_bottom.jpg/120px-54AS867_TI_8748_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/66/54AS867_TI_8748_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/54AS867_TI_8748_package_top.jpg/120px-54AS867_TI_8748_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c0/54AS867_TI_8748_package_top.jpg)
 
-### 54HC00 NS 8632
+### 54HC00 National Semiconductor 8632
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/54HC00_NS_8632_die_120nmpp.jpg/120px-54HC00_NS_8632_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/99/54HC00_NS_8632_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/54HC00_NS_8632_package_bottom.jpg/120px-54HC00_NS_8632_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8c/54HC00_NS_8632_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/54HC00_NS_8632_package_top.jpg/120px-54HC00_NS_8632_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/f2/54HC00_NS_8632_package_top.jpg)
@@ -191,7 +191,7 @@
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/54LS28_TI_8904_package_bottom.jpg/120px-54LS28_TI_8904_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/69/54LS28_TI_8904_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/54LS28_TI_8904_package_top.jpg/120px-54LS28_TI_8904_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/a2/54LS28_TI_8904_package_top.jpg)
 
-### 54LS37 NS 883
+### 54LS37 National Semiconductor 883
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/54LS37_NS_883_die_120nmpp.jpg/120px-54LS37_NS_883_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b3/54LS37_NS_883_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/54LS37_NS_883_package_bottom.jpg/120px-54LS37_NS_883_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/93/54LS37_NS_883_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/54LS37_NS_883_package_top.jpg/120px-54LS37_NS_883_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8f/54LS37_NS_883_package_top.jpg)
@@ -245,7 +245,7 @@
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/54S30_TI_8140_package_bottom.jpg/120px-54S30_TI_8140_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/27/54S30_TI_8140_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/54S30_TI_8140_package_top.jpg/120px-54S30_TI_8140_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/1d/54S30_TI_8140_package_top.jpg)
 
-### 7400 NS 443
+### 7400 National Semiconductor 443
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/7400_NS_443_die_120nmpp.jpg/120px-7400_NS_443_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/f8/7400_NS_443_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/7400_NS_443_package_bottom.jpg/120px-7400_NS_443_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c1/7400_NS_443_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/7400_NS_443_package_top.jpg/120px-7400_NS_443_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/6e/7400_NS_443_package_top.jpg)
@@ -316,7 +316,7 @@
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/7460_Sylvania_935_package_bottom.jpg/120px-7460_Sylvania_935_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/66/7460_Sylvania_935_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/7460_Sylvania_935_package_top.jpg/120px-7460_Sylvania_935_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/98/7460_Sylvania_935_package_top.jpg)
 
-### 7476 NS B077
+### 7476 National Semiconductor B077
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/7476_NS_B077_annotated.jpg/120px-7476_NS_B077_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/48/7476_NS_B077_annotated.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/7476_NS_B077_annotated_sm.jpg/120px-7476_NS_B077_annotated_sm.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/63/7476_NS_B077_annotated_sm.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/7476_NS_B077.jpg/120px-7476_NS_B077.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/87/7476_NS_B077.jpg)
@@ -353,13 +353,13 @@
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/74F00_Moto_8352_package_bottom.jpg/120px-74F00_Moto_8352_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/36/74F00_Moto_8352_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/74F00_Moto_8352_package_top.jpg/120px-74F00_Moto_8352_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c3/74F00_Moto_8352_package_top.jpg)
 
-### 74F219 NS 8915
+### 74F219 National Semiconductor 8915
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/74F219_NS_8915_delayer_120nmpp.jpg/120px-74F219_NS_8915_delayer_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/07/74F219_NS_8915_delayer_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/74F219_NS_8915_die_120nmpp.jpg/120px-74F219_NS_8915_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/18/74F219_NS_8915_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/74F219_NS_8915_package_bottom.jpg/120px-74F219_NS_8915_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/01/74F219_NS_8915_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/74F219_NS_8915_package_top.jpg/120px-74F219_NS_8915_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/21/74F219_NS_8915_package_top.jpg)
 
-### 74H08 NS 411
+### 74H08 National Semiconductor 411
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/74H08_NS_411_annotated.jpg/120px-74H08_NS_411_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/92/74H08_NS_411_annotated.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/74H08_NS_411.jpg/120px-74H08_NS_411.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/5b/74H08_NS_411.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/74H08_NS_411_package_bottom.jpg/120px-74H08_NS_411_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/76/74H08_NS_411_package_bottom.jpg)
@@ -374,7 +374,7 @@
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/74HC02_Motorola_8302_package_top.jpg/120px-74HC02_Motorola_8302_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/07/74HC02_Motorola_8302_package_top.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/74HC02_Motorola_8302_schematic.png/120px-74HC02_Motorola_8302_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/0/03/74HC02_Motorola_8302_schematic.png)
 
-### 74HC942 NS 9342
+### 74HC942 National Semiconductor 9342
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/74HC942_NS_9342_die_120nmpp.jpg/120px-74HC942_NS_9342_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/a1/74HC942_NS_9342_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/74HC942_NS_9342_die_480nmpp.jpg/120px-74HC942_NS_9342_die_480nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d0/74HC942_NS_9342_die_480nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/74HC942_NS_9342_package_bottom.jpg/120px-74HC942_NS_9342_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/5a/74HC942_NS_9342_package_bottom.jpg)
