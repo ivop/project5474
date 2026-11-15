@@ -25,21 +25,31 @@
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/5406_TI_8615_package_bottom.jpg/120px-5406_TI_8615_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d0/5406_TI_8615_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/5406_TI_8615_package_top.jpg/120px-5406_TI_8615_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b6/5406_TI_8615_package_top.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/5406_TI_8615_schematic.png/120px-5406_TI_8615_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/5/59/5406_TI_8615_schematic.png)
+
+### 5408 NS 9911
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/5408_NS_9911_die_120nmpp.jpg/120px-5408_NS_9911_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/29/5408_NS_9911_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/5408_NS_9911_package_bottom.jpg/120px-5408_NS_9911_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/84/5408_NS_9911_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/5408_NS_9911_package_top.jpg/120px-5408_NS_9911_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/94/5408_NS_9911_package_top.jpg)
+
+### 5410 TI 8850
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/5410_TI_8850_die_120nmpp.jpg/120px-5410_TI_8850_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/96/5410_TI_8850_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/5410_TI_8850_package_bottom.jpg/120px-5410_TI_8850_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/23/5410_TI_8850_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/5410_TI_8850_package_top.jpg/120px-5410_TI_8850_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d7/5410_TI_8850_package_top.jpg)
+
+### 54116 TI 8241
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/54116_TI_8241_die_120nmpp.jpg/120px-54116_TI_8241_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c7/54116_TI_8241_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/54116_TI_8241_package_bottom.jpg/120px-54116_TI_8241_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/eb/54116_TI_8241_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/54116_TI_8241_package_top.jpg/120px-54116_TI_8241_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/01/54116_TI_8241_package_top.jpg)
+
+### 5414 TI 0410
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/5414_TI_0410_annotated.jpg/120px-5414_TI_0410_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d5/5414_TI_0410_annotated.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/5414_TI_0410_annotated_sm.jpg/120px-5414_TI_0410_annotated_sm.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8a/5414_TI_0410_annotated_sm.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/5414_TI_0410.jpg/120px-5414_TI_0410.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/18/5414_TI_0410.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/5414_TI_0410_package_bottom.jpg/120px-5414_TI_0410_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/a8/5414_TI_0410_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/5414_TI_0410_package_top.jpg/120px-5414_TI_0410_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/64/5414_TI_0410_package_top.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/5414_TI_0410_schematic.png/120px-5414_TI_0410_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/e/e3/5414_TI_0410_schematic.png)
+
+### 54163 TI 0423
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/54163_TI_0423_annotated.jpg/120px-54163_TI_0423_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/63/54163_TI_0423_annotated.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/54163_TI_0423_annotated_sm.jpg/120px-54163_TI_0423_annotated_sm.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e2/54163_TI_0423_annotated_sm.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/54163_TI_0423.jpg/120px-54163_TI_0423.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/f8/54163_TI_0423.jpg)
@@ -47,102 +57,162 @@
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/54163_TI_0423_package_top.jpg/120px-54163_TI_0423_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/fb/54163_TI_0423_package_top.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/54163_TI_0423_schematic.png/120px-54163_TI_0423_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/7/7b/54163_TI_0423_schematic.png)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/54163_TI_0423_sm.jpg/120px-54163_TI_0423_sm.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b0/54163_TI_0423_sm.jpg)
+
+### 5420 NS 8830
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/5420_NS_8830_die_120nmpp.jpg/120px-5420_NS_8830_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b3/5420_NS_8830_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/5420_NS_8830_package_bottom.jpg/120px-5420_NS_8830_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/83/5420_NS_8830_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/5420_NS_8830_package_top.jpg/120px-5420_NS_8830_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/21/5420_NS_8830_package_top.jpg)
+
+### 5427 TI 7818
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/5427_TI_7818_die_120nmpp.jpg/120px-5427_TI_7818_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/a0/5427_TI_7818_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/5427_TI_7818_package_bottom.jpg/120px-5427_TI_7818_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/78/5427_TI_7818_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/5427_TI_7818_package_top.jpg/120px-5427_TI_7818_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/23/5427_TI_7818_package_top.jpg)
+
+### 5430 TI 0413
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/5430_TI_0413_annotated.jpg/120px-5430_TI_0413_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c5/5430_TI_0413_annotated.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/5430_TI_0413_die_120nmpp.jpg/120px-5430_TI_0413_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/9b/5430_TI_0413_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/5430_TI_0413_package_bottom.jpg/120px-5430_TI_0413_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/53/5430_TI_0413_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/5430_TI_0413_package_top.jpg/120px-5430_TI_0413_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/54/5430_TI_0413_package_top.jpg)
+
+### 5433 Signetics 8002
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/5433_Signetics_8002_die_120nmpp.jpg/120px-5433_Signetics_8002_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8c/5433_Signetics_8002_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/5433_Signetics_8002_package_bottom.jpg/120px-5433_Signetics_8002_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/0a/5433_Signetics_8002_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/5433_Signetics_8002_package_top.jpg/120px-5433_Signetics_8002_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/9f/5433_Signetics_8002_package_top.jpg)
+
+### 5437 Fairchild 8032
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/5437_Fairchild_8032_die_120nmpp.jpg/120px-5437_Fairchild_8032_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/ba/5437_Fairchild_8032_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/5437_Fairchild_8032_package_bottom.jpg/120px-5437_Fairchild_8032_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/9d/5437_Fairchild_8032_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/5437_Fairchild_8032_package_top.jpg/120px-5437_Fairchild_8032_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/bf/5437_Fairchild_8032_package_top.jpg)
+
+### 5445 TI 0404
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/5445_TI_0404_die_120nmpp.jpg/120px-5445_TI_0404_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/02/5445_TI_0404_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/5445_TI_0404_package_bottom.jpg/120px-5445_TI_0404_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/19/5445_TI_0404_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/5445_TI_0404_package_top.jpg/120px-5445_TI_0404_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/f6/5445_TI_0404_package_top.jpg)
+
+### 5474 TI 0214
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/5474_TI_0214_annotated.jpg/120px-5474_TI_0214_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b8/5474_TI_0214_annotated.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/5474_TI_0214_annotated_sm.jpg/120px-5474_TI_0214_annotated_sm.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/fd/5474_TI_0214_annotated_sm.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/5474_TI_0214.jpg/120px-5474_TI_0214.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/98/5474_TI_0214.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/5474_TI_0214_package_bottom.jpg/120px-5474_TI_0214_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/a0/5474_TI_0214_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/5474_TI_0214_package_top.jpg/120px-5474_TI_0214_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/6e/5474_TI_0214_package_top.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/5474_TI_0214_schematic.png/120px-5474_TI_0214_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/f/f4/5474_TI_0214_schematic.png)
+
+### 5490 TI 7536
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/5490_TI_7536_die_325nmpp.jpg/120px-5490_TI_7536_die_325nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e5/5490_TI_7536_die_325nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/5490_TI_7536_package_bottom.jpg/120px-5490_TI_7536_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/90/5490_TI_7536_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/5490_TI_7536_package_top.jpg/120px-5490_TI_7536_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/34/5490_TI_7536_package_top.jpg)
+
+### 54ALS10 TI 8719
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/54ALS10_TI_8719_die_120nmpp.jpg/120px-54ALS10_TI_8719_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/16/54ALS10_TI_8719_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/54ALS10_TI_8719_package_bottom.jpg/120px-54ALS10_TI_8719_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/0e/54ALS10_TI_8719_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/54ALS10_TI_8719_package_top.jpg/120px-54ALS10_TI_8719_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/08/54ALS10_TI_8719_package_top.jpg)
+
+### 54AS00 TI 8747
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/54AS00_TI_8747_delayer2.jpg/120px-54AS00_TI_8747_delayer2.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/0b/54AS00_TI_8747_delayer2.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/54AS04_TI_8737_die_120nmpp.jpg/120px-54AS04_TI_8737_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/96/54AS04_TI_8737_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/54AS04_TI_8737_package_bottom.jpg/120px-54AS04_TI_8737_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/90/54AS04_TI_8737_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/54AS04_TI_8737_package_top.jpg/120px-54AS04_TI_8737_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/51/54AS04_TI_8737_package_top.jpg)
+
+### 54AS08 TI 8418
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/54AS08_TI_8418_die_120nmpp.jpg/120px-54AS08_TI_8418_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/bf/54AS08_TI_8418_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/54AS08_TI_8418_package_bottom.jpg/120px-54AS08_TI_8418_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/91/54AS08_TI_8418_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/54AS08_TI_8418_package_top.jpg/120px-54AS08_TI_8418_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/f4/54AS08_TI_8418_package_top.jpg)
+
+### 54AS32 TI 8704
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/54AS32_TI_8704_die_120nmpp.jpg/120px-54AS32_TI_8704_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/0b/54AS32_TI_8704_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/54AS32_TI_8704_package_bottom.jpg/120px-54AS32_TI_8704_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/77/54AS32_TI_8704_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/54AS32_TI_8704_package_top.jpg/120px-54AS32_TI_8704_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/63/54AS32_TI_8704_package_top.jpg)
+
+### 54AS867 TI 8748
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/54AS867_TI_8748_die_120nmpp.jpg/120px-54AS867_TI_8748_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/6e/54AS867_TI_8748_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/54AS867_TI_8748_package_bottom.jpg/120px-54AS867_TI_8748_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/66/54AS867_TI_8748_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/54AS867_TI_8748_package_top.jpg/120px-54AS867_TI_8748_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c0/54AS867_TI_8748_package_top.jpg)
+
+### 54HC00 NS 8632
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/54HC00_NS_8632_die_120nmpp.jpg/120px-54HC00_NS_8632_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/99/54HC00_NS_8632_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/54HC00_NS_8632_package_bottom.jpg/120px-54HC00_NS_8632_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8c/54HC00_NS_8632_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/54HC00_NS_8632_package_top.jpg/120px-54HC00_NS_8632_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/f2/54HC00_NS_8632_package_top.jpg)
+
+### 54HC32 RCA 8825
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/54HC32_RCA_8825_die_120nmpp.jpg/120px-54HC32_RCA_8825_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/92/54HC32_RCA_8825_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/54HC32_RCA_8825_package_bottom.jpg/120px-54HC32_RCA_8825_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/91/54HC32_RCA_8825_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/54HC32_RCA_8825_package_top.jpg/120px-54HC32_RCA_8825_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/88/54HC32_RCA_8825_package_top.jpg)
+
+### 54LS02 TI 8410
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/54LS02_TI_8410_annotated.jpg/120px-54LS02_TI_8410_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/65/54LS02_TI_8410_annotated.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/54LS02_TI_8410_delayered.jpg/120px-54LS02_TI_8410_delayered.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/3a/54LS02_TI_8410_delayered.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/54LS02_TI_8410.jpg/120px-54LS02_TI_8410.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/f7/54LS02_TI_8410.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/54LS02_TI_8410_package_bottom.jpg/120px-54LS02_TI_8410_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/7b/54LS02_TI_8410_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/54LS02_TI_8410_package_top.jpg/120px-54LS02_TI_8410_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/f8/54LS02_TI_8410_package_top.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/54LS02_TI_8410_schematic.png/120px-54LS02_TI_8410_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/e/ea/54LS02_TI_8410_schematic.png)
+
+### 54LS123 TI 8443
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/54LS123_TI_8443_die_120nmpp.jpg/120px-54LS123_TI_8443_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/cd/54LS123_TI_8443_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/54LS123_TI_8443_package_bottom.jpg/120px-54LS123_TI_8443_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/93/54LS123_TI_8443_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/54LS123_TI_8443_package_top.jpg/120px-54LS123_TI_8443_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/4a/54LS123_TI_8443_package_top.jpg)
+
+### 54LS170 UNK UNK
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/54LS170_UNK_UNK_die_120nmpp.jpg/120px-54LS170_UNK_UNK_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/1c/54LS170_UNK_UNK_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/54LS170_UNK_UNK_package_bottom.jpg/120px-54LS170_UNK_UNK_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e3/54LS170_UNK_UNK_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/54LS170_UNK_UNK_package_top.jpg/120px-54LS170_UNK_UNK_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8e/54LS170_UNK_UNK_package_top.jpg)
+
+### 54LS253 TI 9421
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/54LS253_TI_9421_die_120nmpp.jpg/120px-54LS253_TI_9421_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c9/54LS253_TI_9421_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/54LS253_TI_9421_package_bottom.jpg/120px-54LS253_TI_9421_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/ae/54LS253_TI_9421_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/54LS253_TI_9421_package_top.jpg/120px-54LS253_TI_9421_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/61/54LS253_TI_9421_package_top.jpg)
+
+### 54LS257 AMD 8044
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/54LS257_AMD_8044_die_120nmpp.jpg/120px-54LS257_AMD_8044_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/94/54LS257_AMD_8044_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/54LS257_AMD_8044_package_bottom.jpg/120px-54LS257_AMD_8044_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b3/54LS257_AMD_8044_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/54LS257_AMD_8044_package_top.jpg/120px-54LS257_AMD_8044_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e9/54LS257_AMD_8044_package_top.jpg)
+
+### 54LS273 Fairchild 8433
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/54LS273_Fairchild_8433_die_120nmpp.jpg/120px-54LS273_Fairchild_8433_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d5/54LS273_Fairchild_8433_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/54LS273_Fairchild_8433_package_bottom.jpg/120px-54LS273_Fairchild_8433_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/9a/54LS273_Fairchild_8433_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/54LS273_Fairchild_8433_package_top.jpg/120px-54LS273_Fairchild_8433_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b5/54LS273_Fairchild_8433_package_top.jpg)
+
+### 54LS283 TI 7927
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/54LS283_TI_7927_die_120nmpp.jpg/120px-54LS283_TI_7927_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/9e/54LS283_TI_7927_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/54LS283_TI_7927_package_bottom.jpg/120px-54LS283_TI_7927_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/0a/54LS283_TI_7927_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/54LS283_TI_7927_package_top.jpg/120px-54LS283_TI_7927_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/80/54LS283_TI_7927_package_top.jpg)
+
+### 54LS28 TI 8904
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/54LS28_TI_8904_die_120nmpp.jpg/120px-54LS28_TI_8904_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/5d/54LS28_TI_8904_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/54LS28_TI_8904_package_bottom.jpg/120px-54LS28_TI_8904_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/69/54LS28_TI_8904_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/54LS28_TI_8904_package_top.jpg/120px-54LS28_TI_8904_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/a2/54LS28_TI_8904_package_top.jpg)
+
+### 54LS37 NS 883
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/54LS37_NS_883_die_120nmpp.jpg/120px-54LS37_NS_883_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b3/54LS37_NS_883_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/54LS37_NS_883_package_bottom.jpg/120px-54LS37_NS_883_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/93/54LS37_NS_883_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/54LS37_NS_883_package_top.jpg/120px-54LS37_NS_883_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8f/54LS37_NS_883_package_top.jpg)
+
+### 54LS42 Motorola 9402
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/54LS42_Moto_9402_die_120nmpp.jpg/120px-54LS42_Moto_9402_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/70/54LS42_Moto_9402_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/54LS42_Moto_9402_package_bottom.jpg/120px-54LS42_Moto_9402_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b4/54LS42_Moto_9402_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/54LS42_Moto_9402_package_top.jpg/120px-54LS42_Moto_9402_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/68/54LS42_Moto_9402_package_top.jpg)
+
+### 54LS592 TI 8814
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/54LS592_TI_8814_die_120nmpp.jpg/120px-54LS592_TI_8814_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e8/54LS592_TI_8814_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/54LS592_TI_8814_package_bottom.jpg/120px-54LS592_TI_8814_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c9/54LS592_TI_8814_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/54LS592_TI_8814_package_interior.jpg/120px-54LS592_TI_8814_package_interior.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/1c/54LS592_TI_8814_package_interior.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/54LS592_TI_8814_package_top.jpg/120px-54LS592_TI_8814_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/43/54LS592_TI_8814_package_top.jpg)
+
+### 54LS688 TI 8741
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/54LS688_TI_8741_die_120nmpp.jpg/120px-54LS688_TI_8741_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/03/54LS688_TI_8741_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/54LS688_TI_8741_package_bottom.jpg/120px-54LS688_TI_8741_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/bf/54LS688_TI_8741_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/54LS688_TI_8741_package_top.jpg/120px-54LS688_TI_8741_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/a5/54LS688_TI_8741_package_top.jpg)
+
+### 54LS95 Motorola 8040
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/54LS95_Moto_8040_die_120nmpp.jpg/120px-54LS95_Moto_8040_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/34/54LS95_Moto_8040_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/54LS95_Moto_8040_package_bottom.jpg/120px-54LS95_Moto_8040_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8e/54LS95_Moto_8040_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/54LS95_Moto_8040_package_top.jpg/120px-54LS95_Moto_8040_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/1f/54LS95_Moto_8040_package_top.jpg)
+
+### 54S00 Signetics 8716
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/54s00-pack_bottom.jpg/120px-54s00-pack_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/cb/54s00-pack_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/54s00-pack_top.jpg/120px-54s00-pack_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b8/54s00-pack_top.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/54S00_Signetics_8716_schematic.png/120px-54S00_Signetics_8716_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/5/56/54S00_Signetics_8716_schematic.png)
+
+### 54S02 TI 8341
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/54S02_TI_8341_annotated.jpg/120px-54S02_TI_8341_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/2e/54S02_TI_8341_annotated.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/54S02_TI_8341_delayer.jpg/120px-54S02_TI_8341_delayer.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d1/54S02_TI_8341_delayer.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/54S02_TI_8341.jpg/120px-54S02_TI_8341.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/2d/54S02_TI_8341.jpg)
@@ -151,12 +221,18 @@
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/54S02_TI_8341_schematic.png/120px-54S02_TI_8341_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/8/81/54S02_TI_8341_schematic.png)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/54S02_TI_8341_transistor_delayered.jpg/120px-54S02_TI_8341_transistor_delayered.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/fb/54S02_TI_8341_transistor_delayered.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/54S02_TI_8341_transistor.jpg/120px-54S02_TI_8341_transistor.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/9e/54S02_TI_8341_transistor.jpg)
+
+### 54S157 Signetics 8014
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/54S157_Signetics_8014_die_120nmpp.jpg/120px-54S157_Signetics_8014_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/61/54S157_Signetics_8014_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/54S157_Signetics_8014_package_bottom.jpg/120px-54S157_Signetics_8014_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e7/54S157_Signetics_8014_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/54S157_Signetics_8014_package_top.jpg/120px-54S157_Signetics_8014_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d5/54S157_Signetics_8014_package_top.jpg)
+
+### 54S30 TI 8140
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/54S30_TI_8140_die_120nmpp.jpg/120px-54S30_TI_8140_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/11/54S30_TI_8140_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/54S30_TI_8140_package_bottom.jpg/120px-54S30_TI_8140_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/27/54S30_TI_8140_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/54S30_TI_8140_package_top.jpg/120px-54S30_TI_8140_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/1d/54S30_TI_8140_package_top.jpg)
+
+### 74......
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/7400_NS_443_die_120nmpp.jpg/120px-7400_NS_443_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/f8/7400_NS_443_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/7400_NS_443_package_bottom.jpg/120px-7400_NS_443_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c1/7400_NS_443_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/7400_NS_443_package_top.jpg/120px-7400_NS_443_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/6e/7400_NS_443_package_top.jpg)
