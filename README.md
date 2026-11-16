@@ -376,15 +376,15 @@
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/54163_TI_0423_schematic.png/120px-54163_TI_0423_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/7/7b/54163_TI_0423_schematic.png)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/54163_TI_0423_sm.jpg/120px-54163_TI_0423_sm.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b0/54163_TI_0423_sm.jpg)
 
+### 74LS164 Motorola 8434
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/74LS164_Moto_8434_die_120nmpp.jpg/120px-74LS164_Moto_8434_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/60/74LS164_Moto_8434_die_120nmpp.jpg)
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/74LS164_Moto_8434_package_bottom.jpg/120px-74LS164_Moto_8434_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/41/74LS164_Moto_8434_package_bottom.jpg)
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/74LS164_Moto_8434_package_top.jpg/120px-74LS164_Moto_8434_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/54/74LS164_Moto_8434_package_top.jpg)
+
 ### 74LS166 Texas Instruments 8122
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/74LS166_TI_8122_die_120nmpp.jpg/120px-74LS166_TI_8122_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/0b/74LS166_TI_8122_die_120nmpp.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/74LS166_TI_8122_package_bottom.jpg/120px-74LS166_TI_8122_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8d/74LS166_TI_8122_package_bottom.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/74LS166_TI_8122_package_top.jpg/120px-74LS166_TI_8122_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/19/74LS166_TI_8122_package_top.jpg)
-
-### 74LS168 Motorola 8434
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/74LS164_Moto_8434_die_120nmpp.jpg/120px-74LS164_Moto_8434_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/60/74LS164_Moto_8434_die_120nmpp.jpg)
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/74LS164_Moto_8434_package_bottom.jpg/120px-74LS164_Moto_8434_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/41/74LS164_Moto_8434_package_bottom.jpg)
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/74LS164_Moto_8434_package_top.jpg/120px-74LS164_Moto_8434_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/54/74LS164_Moto_8434_package_top.jpg)
 
 ### 54LS170 UNK UNK
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/54LS170_UNK_UNK_die_120nmpp.jpg/120px-54LS170_UNK_UNK_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/1c/54LS170_UNK_UNK_die_120nmpp.jpg)
