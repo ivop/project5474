@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NAND
+D Generic NAND gate
+K NAND
+$ENDCMP
+#
+$CMP Q_NPN
+D Transistor NPN (general)
+K npn transistor
+$ENDCMP
+#
+$CMP Q_NPN_BCE
+D Transistor NPN (general)
+K npn transistor
+$ENDCMP
+#
+$CMP Q_NPN_double_emitter
+D Transistor NPN, double emitter (general)
+K npn transistor
+$ENDCMP
+#
+#End Doc Library
