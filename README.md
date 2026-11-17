@@ -81,7 +81,7 @@ ___
 [![](thumbs/120px-54HC00_NS_8632_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/99/54HC00_NS_8632_die_120nmpp.jpg)
 
 ___
-#### 74HCT00 RCA 419
+#### 74HCT00 Radio Corporation of America 419
 [![](thumbs/120px-74HCT00_RCA_419_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/bc/74HCT00_RCA_419_package_top.jpg)
 [![](thumbs/120px-74HCT00_RCA_419_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/02/74HCT00_RCA_419_package_bottom.jpg)
 [![](thumbs/120px-74HCT00_RCA_419_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/4b/74HCT00_RCA_419_die_120nmpp.jpg)
@@ -362,7 +362,7 @@ ___
 [![](thumbs/120px-54AS32_TI_8704_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/0b/54AS32_TI_8704_die_120nmpp.jpg)
 
 ___
-#### 54HC32 RCA 8825
+#### 54HC32 Radio Corporation of America 8825
 [![](thumbs/120px-54HC32_RCA_8825_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/88/54HC32_RCA_8825_package_top.jpg)
 [![](thumbs/120px-54HC32_RCA_8825_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/91/54HC32_RCA_8825_package_bottom.jpg)
 [![](thumbs/120px-54HC32_RCA_8825_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/92/54HC32_RCA_8825_die_120nmpp.jpg)
@@ -458,7 +458,7 @@ ___
 ### 81
 
 ___
-#### 7481 ITT 7238
+#### 7481 International Telephone and Telegraph Corporation 7238
 [![](thumbs/120px-7481_ITT_7238_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/04/7481_ITT_7238_package_top.jpg)
 [![](thumbs/120px-7481_ITT_7238_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/a7/7481_ITT_7238_package_bottom.jpg)
 [![](thumbs/120px-7481_ITT_7238_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/70/7481_ITT_7238_die_120nmpp.jpg)
@@ -653,7 +653,7 @@ ___
 ### 240
 
 ___
-#### 74S240 MMI 8040
+#### 74S240 Monolithic Memories, Inc. 8040
 [![](thumbs/120px-74S240_MMI_8040_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/10/74S240_MMI_8040_package_top.jpg)
 [![](thumbs/120px-74S240_MMI_8040_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/4d/74S240_MMI_8040_package_bottom.jpg)
 [![](thumbs/120px-74S240_MMI_8040_die_325nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d8/74S240_MMI_8040_die_325nmpp.jpg)
@@ -676,7 +676,7 @@ ___
 ### 245
 
 ___
-#### 74HCT245 PH 8949
+#### 74HCT245 Philips 8949
 [![](thumbs/120px-74HCT245_PH_8949_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/77/74HCT245_PH_8949_package_top.jpg)
 [![](thumbs/120px-74HCT245_PH_8949_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e9/74HCT245_PH_8949_package_bottom.jpg)
 [![](thumbs/120px-74HCT245_PH_8949_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/aa/74HCT245_PH_8949_die_120nmpp.jpg)
@@ -694,7 +694,7 @@ ___
 ### 257
 
 ___
-#### 54LS257 AMD 8044
+#### 54LS257 Advanced Micro Devices 8044
 [![](thumbs/120px-54LS257_AMD_8044_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e9/54LS257_AMD_8044_package_top.jpg)
 [![](thumbs/120px-54LS257_AMD_8044_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b3/54LS257_AMD_8044_package_bottom.jpg)
 [![](thumbs/120px-54LS257_AMD_8044_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/94/54LS257_AMD_8044_die_120nmpp.jpg)
@@ -740,7 +740,7 @@ ___
 ### 373
 
 ___
-#### 74S373 MMI 7949
+#### 74S373 Monolithic Memories, Inc. 7949
 [![](thumbs/120px-74S373_MMI_7949_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/44/74S373_MMI_7949_package_top.jpg)
 [![](thumbs/120px-74S373_MMI_7949_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e9/74S373_MMI_7949_package_bottom.jpg)
 [![](thumbs/120px-74S373_MMI_7949_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b0/74S373_MMI_7949_die_120nmpp.jpg)
