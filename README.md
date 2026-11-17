@@ -10,6 +10,7 @@ Revived by Ivo van Poorten, 2026
 
 ___
 ### 00
+( quad 2-input NAND gate )
 
 ___
 #### 5400 National Semiconductor 8838
@@ -94,6 +95,7 @@ ___
 
 ___
 ### 01
+( quad 2-input NAND gate, open-collector )
 
 ___
 #### 74LS01 Texas Instruments 8610
@@ -107,6 +109,7 @@ ___
 
 ___
 ### 02
+( quad 2-input NOR gate )
 
 ___
 #### 54S02 Texas Instruments 8341
@@ -142,6 +145,7 @@ ___
 
 ___
 ### 03
+( quad 2-input NAND gate, open-collector )
 
 ___
 #### 74S03 Texas Instruments 428C
@@ -152,6 +156,7 @@ ___
 
 ___
 ### 04
+( hex inverter gate )
 
 ___
 #### 5404 Texas Instruments 7426
@@ -182,6 +187,7 @@ ___
 
 ___
 ### 05
+( hex inverter gate, open-collector )
 
 ___
 #### 7405 Texas Instruments 7130
@@ -193,6 +199,7 @@ ___
 
 ___
 ### 06
+( hex inverter gate, open-collector )
 
 ___
 #### 5406 Texas Instruments 8615
@@ -206,6 +213,7 @@ ___
 
 ___
 ### 07
+( hex buffer gate, open-collector )
 
 ___
 #### 7407 Stewart-Warner 7405
@@ -215,6 +223,7 @@ ___
 
 ___
 ### 08
+( quad 2-input AND gate )
 
 ___
 #### 5408 National Semiconductor 9911
@@ -249,6 +258,7 @@ ___
 
 ___
 ### 09
+( quad 2-input AND gate, open-collector )
 
 ___
 #### 74LS09 Signetics 8825
@@ -258,6 +268,7 @@ ___
 
 ___
 ### 10
+( triple 3-input NAND gate )
 
 ___
 #### 5410 Texas Instruments 8850
@@ -273,6 +284,7 @@ ___
 
 ___
 ### 11
+( triple 3-input AND gate )
 
 ___
 #### 74S11 SIG 8150
@@ -286,6 +298,7 @@ ___
 
 ___
 ### 13
+( dual 4-input NAND gate, Schmitt-trigger inputs )
 
 ___
 #### 7413 Texas Instruments 7348
@@ -298,6 +311,7 @@ ___
 
 ___
 ### 14
+( hex inverter gate, Schmitt-trigger inputs )
 
 ___
 #### 5414 Texas Instruments 0410
@@ -311,6 +325,7 @@ ___
 
 ___
 ### 20
+( dual 4-input NAND gate )
 
 ___
 #### 5420 National Semiconductor 8830
@@ -320,6 +335,7 @@ ___
 
 ___
 ### 27
+( triple 3-input NOR gate )
 
 ___
 #### 5427 Texas Instruments 7818
@@ -329,6 +345,7 @@ ___
 
 ___
 ### 28
+( quad 2-input NOR gate, driver )
 
 ___
 #### 54LS28 Texas Instruments 8904
@@ -338,6 +355,7 @@ ___
 
 ___
 ### 30
+( single 8-input NAND gate )
 
 ___
 #### 5430 Texas Instruments 0413
@@ -354,6 +372,7 @@ ___
 
 ___
 ### 32
+( quad 2-input OR gate )
 
 ___
 #### 54AS32 Texas Instruments 8704
@@ -369,6 +388,7 @@ ___
 
 ___
 ### 33
+( quad 2-input NOR gate, open-collector driver )
 
 ___
 #### 5433 Signetics 8002
@@ -378,6 +398,7 @@ ___
 
 ___
 ### 37
+( quad 2-input NAND gate, driver )
 
 ___
 #### 5437 Fairchild 8032
@@ -393,6 +414,7 @@ ___
 
 ___
 ### 41
+( BCD to decimal decoder / Nixie tube driver, open-collector )
 
 ___
 #### 7441 UNK UNK
@@ -402,6 +424,7 @@ ___
 
 ___
 ### 42
+( BCD to decimal decoder )
 
 ___
 #### 54LS42 Motorola 9402
@@ -411,6 +434,7 @@ ___
 
 ___
 ### 45
+( BCD to decimal decoder/driver, open-collector )
 
 ___
 #### 5445 Texas Instruments 0404
@@ -420,6 +444,7 @@ ___
 
 ___
 ### 60
+( dual 4-input expander for 74x23, 74x50, 74x53, 74x55 )
 
 ___
 #### 7460 Sylvania 935
@@ -430,6 +455,7 @@ ___
 
 ___
 ### 74
+( dual D positive-edge-triggered flip-flop, asynchronous clear & preset, Q & /Q outputs )
 
 ___
 #### 5474 Texas Instruments 0214
@@ -443,6 +469,7 @@ ___
 
 ___
 ### 76
+( dual J-K flip-flop, asynchronous preset and clear )
 
 ___
 #### 7476 National Semiconductor B077
@@ -456,6 +483,7 @@ ___
 
 ___
 ### 81
+( 16-bit RAM )
 
 ___
 #### 7481 International Telephone and Telegraph Corporation 7238
@@ -468,6 +496,7 @@ ___
 
 ___
 ### 90
+( decade counter (separate divide-by-2 and divide-by-5 sections) )
 
 ___
 #### 5490 Texas Instruments 7536
@@ -483,6 +512,7 @@ ___
 
 ___
 ### 95
+( 4-bit shift register, parallel in, parallel out, serial input )
 
 ___
 #### 54LS95 Motorola 8040
@@ -492,6 +522,7 @@ ___
 
 ___
 ### 116
+( dual 4-bit latch, clear )
 
 ___
 #### 54116 Texas Instruments 8241
@@ -501,6 +532,7 @@ ___
 
 ___
 ### 123
+( dual retriggerable monostable multivibrator, clear )
 
 ___
 #### 54LS123 Texas Instruments 8443
@@ -510,6 +542,7 @@ ___
 
 ___
 ### 125
+( quad bus buffer, negative enable, three-state )
 
 ___
 #### 74125 Texas Instruments 8035
@@ -522,6 +555,7 @@ ___
 
 ___
 ### 141
+( BCD to decimal decoder/driver for cold-cathode indicator / Nixie tube, open-collector )
 
 ___
 #### 74141 Texas Instruments 7437
@@ -536,6 +570,7 @@ ___
 
 ___
 ### 148
+( 8-line to 3-line priority encoder )
 
 ___
 #### 74LS148 Texas Instruments 8048
@@ -548,6 +583,7 @@ ___
 
 ___
 ### 150
+( 16-line to 1-line data selector/multiplexer )
 
 ___
 #### 74150 Texas Instruments 7413
@@ -557,6 +593,7 @@ ___
 
 ___
 ### 157
+( quad 2-line to 1-line data selector/multiplexer, non-inverting outputs )
 
 ___
 #### 54S157 Signetics 8014
@@ -566,6 +603,7 @@ ___
 
 ___
 ### 163
+( synchronous presettable 4-bit binary counter, synchronous clear )
 
 ___
 #### 54163 Texas Instruments 0423
@@ -580,6 +618,7 @@ ___
 
 ___
 ### 164
+( 8-bit serial-in parallel-out (SIPO) shift register, asynchronous clear, not output latch )
 
 ___
 #### 74LS164 Motorola 8434
@@ -589,6 +628,7 @@ ___
 
 ___
 ### 166
+( parallel-load 8-bit shift register )
 
 ___
 #### 74LS166 Texas Instruments 8122
@@ -598,6 +638,7 @@ ___
 
 ___
 ### 170
+( 16-bit register file (4x4), open-collector )
 
 ___
 #### 54LS170 UNK UNK
@@ -607,6 +648,7 @@ ___
 
 ___
 ### 175
+( quad D edge-triggered flip-flop, shared clock and asynchronous clear, Q & /Q outputs )
 
 ___
 #### 74S175 Texas Instruments 7939
@@ -621,6 +663,7 @@ ___
 
 ___
 ### 189
+( 64-bit RAM (16x4), 4 data inputs, 4 inverted data outputs, three-state )
 
 ___
 #### 74LS189 Texas Instruments (FAKE)
@@ -631,6 +674,7 @@ ___
 
 ___
 ### 219
+( 64-bit RAM (16x4), non-inverting outputs, three-state )
 
 ___
 #### 74F219 National Semiconductor 8915
@@ -641,6 +685,7 @@ ___
 
 ___
 ### 221
+( dual monostable multivibrator )
 
 ___
 #### 74LS221 Motorola 8443
@@ -651,6 +696,7 @@ ___
 
 ___
 ### 240
+( octal buffer, inverting outputs, three-state )
 
 ___
 #### 74S240 Monolithic Memories, Inc. 8040
@@ -660,6 +706,7 @@ ___
 
 ___
 ### 244
+( octal buffer, non-inverting outputs, three-state )
 
 ___
 #### 74LS244 Fairchild 8314
@@ -674,6 +721,7 @@ ___
 
 ___
 ### 245
+( octal bus transceiver, non-inverting outputs, three-state )
 
 ___
 #### 74HCT245 Philips 8949
@@ -683,6 +731,7 @@ ___
 
 ___
 ### 253
+( dual 4-line to 1-line data selector/multiplexer, three-state )
 
 ___
 #### 54LS253 Texas Instruments 9421
@@ -692,6 +741,7 @@ ___
 
 ___
 ### 257
+( quad 2-line to 1-line data selector/multiplexer, non-inverting outputs, three-state )
 
 ___
 #### 54LS257 Advanced Micro Devices 8044
@@ -701,6 +751,7 @@ ___
 
 ___
 ### 273
+( 8-bit register, asynchronous clear )
 
 ___
 #### 54LS273 Fairchild 8433
@@ -710,6 +761,7 @@ ___
 
 ___
 ### 274
+( 4-bit by 4-bit binary multiplier, three-state )
 
 ___
 #### 74S274 Texas Instruments 8105
@@ -720,6 +772,7 @@ ___
 
 ___
 ### 283
+( 4-bit binary full adder (has carry in function) )
 
 ___
 #### 54LS283 Texas Instruments 7927
@@ -729,6 +782,7 @@ ___
 
 ___
 ### 362
+( four-phase clock generator/driver for Texas Instruments TMS9900 )
 
 ___
 #### 74LS362 Texas Instruments 518
@@ -738,6 +792,7 @@ ___
 
 ___
 ### 373
+( octal transparent latch, three-state )
 
 ___
 #### 74S373 Monolithic Memories, Inc. 7949
@@ -747,6 +802,7 @@ ___
 
 ___
 ### 390
+( dual 4-bit decade counter, asynchronous clear )
 
 ___
 #### 74390 Texas Instruments 7810
@@ -756,6 +812,7 @@ ___
 
 ___
 ### 592
+( 8-bit binary counter, input registers )
 
 ___
 #### 54LS592 Texas Instruments 8814
@@ -766,6 +823,7 @@ ___
 
 ___
 ### 688
+( 8-bit magnitude comparator, enable )
 
 ___
 #### 54LS688 Texas Instruments 8741
@@ -775,6 +833,7 @@ ___
 
 ___
 ### 867
+( synchronous 8-bit up/down counter, asynchronous clear )
 
 ___
 #### 54AS867 Texas Instruments 8748
@@ -784,6 +843,7 @@ ___
 
 ___
 ### 942
+( 300 baud Bell 103 modem (+/- 5 V supply) )
 
 ___
 #### 74HC942 National Semiconductor 9342
