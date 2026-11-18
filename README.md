@@ -455,7 +455,8 @@ ___
 #### 54LS42 Motorola 9402
 [![](thumbs/120px-54LS42_Moto_9402_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/68/54LS42_Moto_9402_package_top.jpg)
 [![](thumbs/120px-54LS42_Moto_9402_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b4/54LS42_Moto_9402_package_bottom.jpg)
-[![](thumbs/120px-54LS42_Moto_9402_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/70/54LS42_Moto_9402_die_120nmpp.jpg)
+[![](thumbs/120px-54LS42_Moto_9402_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/70/54LS42_Moto_9402_die_120nmpp.jpg)  
+[datasheet](datasheet/54LS42_Motorola_datasheet.pdf)
 
 ___
 ### 45
@@ -465,8 +466,8 @@ ___
 #### 5445 Texas Instruments 0404
 [![](thumbs/120px-5445_TI_0404_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/f6/5445_TI_0404_package_top.jpg)
 [![](thumbs/120px-5445_TI_0404_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/19/5445_TI_0404_package_bottom.jpg)
-[![](thumbs/120px-5445_TI_0404_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/02/5445_TI_0404_die_120nmpp.jpg)
-
+[![](thumbs/120px-5445_TI_0404_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/02/5445_TI_0404_die_120nmpp.jpg)  
+[datasheet](datasheet/5445_TI_datasheet.pdf)
 ___
 ### 60
 ( dual 4-input expander for 74x23, 74x50, 74x53, 74x55 )
