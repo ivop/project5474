@@ -158,7 +158,8 @@ ___
 [![](thumbs/120px-74S03_TI_428C_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/6f/74S03_TI_428C_package_top.jpg)
 [![](thumbs/120px-74S03_TI_428C_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/0b/74S03_TI_428C_package_bottom.jpg)
 [![](thumbs/120px-74S03_TI_428C_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d9/74S03_TI_428C_die_120nmpp.jpg)
-[![](thumbs/120px-74S03_TI_428C_delayer_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/50/74S03_TI_428C_delayer_120nmpp.jpg)
+[![](thumbs/120px-74S03_TI_428C_delayer_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/50/74S03_TI_428C_delayer_120nmpp.jpg)  
+[datasheet](datasheet/74S03_TI_datasheet.pdf)
 
 ___
 ### 04
@@ -168,13 +169,15 @@ ___
 #### 5404 Texas Instruments 7426
 [![](thumbs/120px-5404_TI_7426_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e6/5404_TI_7426_package_top.jpg)
 [![](thumbs/120px-5404_TI_7426_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8d/5404_TI_7426_package_bottom.jpg)
-[![](thumbs/120px-5404_TI_7426_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/46/5404_TI_7426_die_120nmpp.jpg)
+[![](thumbs/120px-5404_TI_7426_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/46/5404_TI_7426_die_120nmpp.jpg)  
+[datasheet](datasheet/5404_TI_datasheet.pdf)
 
 ___
 #### 7404 Texas Instruments 8005
 [![](thumbs/120px-7404_TI_8005_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/07/7404_TI_8005_package_top.jpg)
 [![](thumbs/120px-7404_TI_8005_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/51/7404_TI_8005_package_bottom.jpg)
-[![](thumbs/120px-7404_TI_8005_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d3/7404_TI_8005_die_120nmpp.jpg)
+[![](thumbs/120px-7404_TI_8005_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d3/7404_TI_8005_die_120nmpp.jpg)  
+[datasheet](datasheet/7404_TI_datasheet.pdf)
 
 ___
 #### 74L04 UNK 7608
