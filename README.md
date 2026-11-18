@@ -505,7 +505,7 @@ ___
 [![](thumbs/120px-7476_NS_B077_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/48/7476_NS_B077_annotated.jpg)
 [![](thumbs/120px-7476_NS_B077_annotated_sm.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/63/7476_NS_B077_annotated_sm.jpg)
 [![](thumbs/120px-7476_NS_B077_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/0/09/7476_NS_B077_schematic.png)  
-[KiCad](kicad/7476%20NS%20B077%20schematic) [PDF](pdf/7476_NS_B077_schematic.pdf)
+[KiCad](kicad/7476%20NS%20B077%20schematic) [PDF](pdf/7476_NS_B077_schematic.pdf) [datasheet](datasheet/7476_NS_datasheet.pdf)
 
 ___
 ### 81
@@ -528,7 +528,8 @@ ___
 #### 5490 Texas Instruments 7536
 [![](thumbs/120px-5490_TI_7536_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/34/5490_TI_7536_package_top.jpg)
 [![](thumbs/120px-5490_TI_7536_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/90/5490_TI_7536_package_bottom.jpg)
-[![](thumbs/120px-5490_TI_7536_die_325nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e5/5490_TI_7536_die_325nmpp.jpg)
+[![](thumbs/120px-5490_TI_7536_die_325nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e5/5490_TI_7536_die_325nmpp.jpg)  
+[datasheet](datasheet/5490_TI_datasheet.pdf)
 
 ___
 #### 7490 Stewart-Warner 7142
@@ -544,7 +545,8 @@ ___
 #### 54LS95 Motorola 8040
 [![](thumbs/120px-54LS95_Moto_8040_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/1f/54LS95_Moto_8040_package_top.jpg)
 [![](thumbs/120px-54LS95_Moto_8040_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8e/54LS95_Moto_8040_package_bottom.jpg)
-[![](thumbs/120px-54LS95_Moto_8040_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/34/54LS95_Moto_8040_die_120nmpp.jpg)
+[![](thumbs/120px-54LS95_Moto_8040_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/34/54LS95_Moto_8040_die_120nmpp.jpg)  
+[datasheet](datasheet/54LS95_Motorola_datasheet.pdf)
 
 ___
 ### 116
