@@ -96,7 +96,8 @@ ___
 #### 74AC00 Fairchild 8703
 [![](thumbs/120px-74AC00_F_8703_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/25/74AC00_F_8703_package_top.jpg)
 [![](thumbs/120px-74AC00_F_8703_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/25/74AC00_F_8703_package_bottom.jpg)
-[![](thumbs/120px-74AC00_F_8703_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/4d/74AC00_F_8703_die_120nmpp.jpg)
+[![](thumbs/120px-74AC00_F_8703_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/4d/74AC00_F_8703_die_120nmpp.jpg)  
+[datasheet](datasheet/74AC00_Fairchild_datasheet.pdf)
 
 ___
 ### 01
