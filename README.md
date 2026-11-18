@@ -556,7 +556,8 @@ ___
 #### 54116 Texas Instruments 8241
 [![](thumbs/120px-54116_TI_8241_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/01/54116_TI_8241_package_top.jpg)
 [![](thumbs/120px-54116_TI_8241_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/eb/54116_TI_8241_package_bottom.jpg)
-[![](thumbs/120px-54116_TI_8241_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c7/54116_TI_8241_die_120nmpp.jpg)
+[![](thumbs/120px-54116_TI_8241_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c7/54116_TI_8241_die_120nmpp.jpg)  
+[datasheet](datasheet/54116_TI_datasheet.pdf)
 
 ___
 ### 123
@@ -566,7 +567,8 @@ ___
 #### 54LS123 Texas Instruments 8443
 [![](thumbs/120px-54LS123_TI_8443_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/4a/54LS123_TI_8443_package_top.jpg)
 [![](thumbs/120px-54LS123_TI_8443_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/93/54LS123_TI_8443_package_bottom.jpg)
-[![](thumbs/120px-54LS123_TI_8443_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/cd/54LS123_TI_8443_die_120nmpp.jpg)
+[![](thumbs/120px-54LS123_TI_8443_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/cd/54LS123_TI_8443_die_120nmpp.jpg)  
+[datasheet](datasheet/54LS123_TI_datasheet.pdf)
 
 ___
 ### 125
@@ -579,7 +581,7 @@ ___
 [![](thumbs/120px-74125_TI_8035_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/de/74125_TI_8035_die_120nmpp.jpg)
 [![](thumbs/120px-74125_TI_8035_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/69/74125_TI_8035_annotated.jpg)
 [![](thumbs/120px-74125_TI_8035_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/b/b4/74125_TI_8035_schematic.png)  
-[KiCad](kicad/74125%20TI%208035%20schematic) [PDF](pdf/74125_TI_8035_schematic.pdf)
+[KiCad](kicad/74125%20TI%208035%20schematic) [PDF](pdf/74125_TI_8035_schematic.pdf) [datasheet](datasheet/74125_TI_datasheet.pdf)
 
 ___
 ### 141
