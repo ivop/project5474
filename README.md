@@ -381,13 +381,15 @@ ___
 [![](thumbs/120px-5430_TI_0413_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/54/5430_TI_0413_package_top.jpg)
 [![](thumbs/120px-5430_TI_0413_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/53/5430_TI_0413_package_bottom.jpg)
 [![](thumbs/120px-5430_TI_0413_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/9b/5430_TI_0413_die_120nmpp.jpg)
-[![](thumbs/120px-5430_TI_0413_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c5/5430_TI_0413_annotated.jpg)
+[![](thumbs/120px-5430_TI_0413_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c5/5430_TI_0413_annotated.jpg)  
+[datasheet](datasheet/5430_TI_datasheet.pdf)
 
 ___
 #### 54S30 Texas Instruments 8140
 [![](thumbs/120px-54S30_TI_8140_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/1d/54S30_TI_8140_package_top.jpg)
 [![](thumbs/120px-54S30_TI_8140_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/27/54S30_TI_8140_package_bottom.jpg)
-[![](thumbs/120px-54S30_TI_8140_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/11/54S30_TI_8140_die_120nmpp.jpg)
+[![](thumbs/120px-54S30_TI_8140_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/11/54S30_TI_8140_die_120nmpp.jpg)  
+[datasheet](datasheet/54S30_TI_datasheet.pdf)
 
 ___
 ### 32
@@ -397,7 +399,8 @@ ___
 #### 54AS32 Texas Instruments 8704
 [![](thumbs/120px-54AS32_TI_8704_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/63/54AS32_TI_8704_package_top.jpg)
 [![](thumbs/120px-54AS32_TI_8704_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/77/54AS32_TI_8704_package_bottom.jpg)
-[![](thumbs/120px-54AS32_TI_8704_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/0b/54AS32_TI_8704_die_120nmpp.jpg)
+[![](thumbs/120px-54AS32_TI_8704_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/0b/54AS32_TI_8704_die_120nmpp.jpg)  
+[datasheet](datasheet/54AS32_TI_datasheet.pdf)
 
 ___
 #### 54HC32 Radio Corporation of America 8825
@@ -413,7 +416,8 @@ ___
 #### 5433 Signetics 8002
 [![](thumbs/120px-5433_Signetics_8002_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/9f/5433_Signetics_8002_package_top.jpg)
 [![](thumbs/120px-5433_Signetics_8002_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/0a/5433_Signetics_8002_package_bottom.jpg)
-[![](thumbs/120px-5433_Signetics_8002_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8c/5433_Signetics_8002_die_120nmpp.jpg)
+[![](thumbs/120px-5433_Signetics_8002_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8c/5433_Signetics_8002_die_120nmpp.jpg)  
+[datasheet](datasheet/5433_Signetics_datasheet.pdf)
 
 ___
 ### 37
