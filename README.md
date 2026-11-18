@@ -277,7 +277,8 @@ ___
 #### 74LS09 Signetics 8825
 [![](thumbs/120px-74LS09_Signetics_8825_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d1/74LS09_Signetics_8825_package_top.jpg)
 [![](thumbs/120px-74LS09_Signetics_8825_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/5a/74LS09_Signetics_8825_package_bottom.jpg)
-[![](thumbs/120px-74LS09_Signetics_8825_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/49/74LS09_Signetics_8825_die_120nmpp.jpg)
+[![](thumbs/120px-74LS09_Signetics_8825_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/49/74LS09_Signetics_8825_die_120nmpp.jpg)  
+[datasheet](datasheet/74LS09_Signetics_datasheet.pdf)
 
 ___
 ### 10
@@ -287,13 +288,15 @@ ___
 #### 5410 Texas Instruments 8850
 [![](thumbs/120px-5410_TI_8850_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d7/5410_TI_8850_package_top.jpg)
 [![](thumbs/120px-5410_TI_8850_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/23/5410_TI_8850_package_bottom.jpg)
-[![](thumbs/120px-5410_TI_8850_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/96/5410_TI_8850_die_120nmpp.jpg)
+[![](thumbs/120px-5410_TI_8850_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/96/5410_TI_8850_die_120nmpp.jpg)  
+[datasheet](datasheet/5410_TI_datasheet.pdf)
 
 ___
 #### 54ALS10 Texas Instruments 8719
 [![](thumbs/120px-54ALS10_TI_8719_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/08/54ALS10_TI_8719_package_top.jpg)
 [![](thumbs/120px-54ALS10_TI_8719_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/0e/54ALS10_TI_8719_package_bottom.jpg)
-[![](thumbs/120px-54ALS10_TI_8719_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/16/54ALS10_TI_8719_die_120nmpp.jpg)
+[![](thumbs/120px-54ALS10_TI_8719_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/16/54ALS10_TI_8719_die_120nmpp.jpg)  
+[datasheet](datasheet/54ALS10_TI_datasheet.pdf)
 
 ___
 ### 11
