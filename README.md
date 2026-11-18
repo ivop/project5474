@@ -491,7 +491,7 @@ ___
 [![](thumbs/120px-5474_TI_0214_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b8/5474_TI_0214_annotated.jpg)
 [![](thumbs/120px-5474_TI_0214_annotated_sm.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/fd/5474_TI_0214_annotated_sm.jpg)
 [![](thumbs/120px-5474_TI_0214_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/f/f4/5474_TI_0214_schematic.png)  
-[KiCad](kicad/5474%20TI%200214%20schematic) [PDF](pdf/5474_TI_0214_schematic.pdf)
+[KiCad](kicad/5474%20TI%200214%20schematic) [PDF](pdf/5474_TI_0214_schematic.pdf) [datasheet](datasheet/5474_TI_datasheet.pdf)
 
 ___
 ### 76
