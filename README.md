@@ -427,13 +427,15 @@ ___
 #### 5437 Fairchild 8032
 [![](thumbs/120px-5437_Fairchild_8032_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/bf/5437_Fairchild_8032_package_top.jpg)
 [![](thumbs/120px-5437_Fairchild_8032_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/9d/5437_Fairchild_8032_package_bottom.jpg)
-[![](thumbs/120px-5437_Fairchild_8032_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/ba/5437_Fairchild_8032_die_120nmpp.jpg)
+[![](thumbs/120px-5437_Fairchild_8032_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/ba/5437_Fairchild_8032_die_120nmpp.jpg)  
+[datasheet](datasheet/5437_Fairchild_datasheet.pdf)
 
 ___
 #### 54LS37 National Semiconductor 883
 [![](thumbs/120px-54LS37_NS_883_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8f/54LS37_NS_883_package_top.jpg)
 [![](thumbs/120px-54LS37_NS_883_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/93/54LS37_NS_883_package_bottom.jpg)
-[![](thumbs/120px-54LS37_NS_883_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b3/54LS37_NS_883_die_120nmpp.jpg)
+[![](thumbs/120px-54LS37_NS_883_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b3/54LS37_NS_883_die_120nmpp.jpg)  
+[datasheet](datasheet/54LS37_TI_datasheet.pdf)
 
 ___
 ### 41
