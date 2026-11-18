@@ -19,7 +19,7 @@ ___
 [![](thumbs/120px-National_semiconductor_dm5400j_8838_die_image.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/30/National_semiconductor_dm5400j_8838_die_image.jpg)
 [![](thumbs/120px-National_semiconductor_dm5400j_8838_die_image_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/08/National_semiconductor_dm5400j_8838_die_image_annotated.jpg)
 [![](thumbs/120px-5400_NS_8838_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/c/cb/5400_NS_8838_schematic.png)  
-[KiCad](kicad/5400%20NS%208838%20schematic) [PDF](pdf/National_semiconductor_dm5400j_8838_schematic.pdf)
+[KiCad](kicad/5400%20NS%208838%20schematic) [PDF](pdf/National_semiconductor_dm5400j_8838_schematic.pdf) [datasheet](datasheet/5400_NS_datasheet.pdf)
 
 ___
 #### 5400 Texas Instruments 0421
@@ -29,13 +29,14 @@ ___
 [![](thumbs/120px-5400_TI_0421_delayer_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/df/5400_TI_0421_delayer_120nmpp.jpg)
 [![](thumbs/120px-5400_TI_0421_annotated_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/a2/5400_TI_0421_annotated_120nmpp.jpg)
 [![](thumbs/120px-5400_TI_0421_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/2/23/5400_TI_0421_schematic.png)  
-[KiCad](kicad/5400%20TI%200421%20schematic) [PDF](pdf/5400_TI_0421_schematic.pdf)
+[KiCad](kicad/5400%20TI%200421%20schematic) [PDF](pdf/5400_TI_0421_schematic.pdf) [datasheet](datasheet/5400_TI_datasheet.pdf)
 
 ___
 #### 7400 National Semiconductor 443
 [![](thumbs/120px-7400_NS_443_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/6e/7400_NS_443_package_top.jpg)
 [![](thumbs/120px-7400_NS_443_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c1/7400_NS_443_package_bottom.jpg)
 [![](thumbs/120px-7400_NS_443_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/f8/7400_NS_443_die_120nmpp.jpg)
+[datasheet](datasheet/7400_NS_datasheet.pdf)
 
 ___
 #### 7400 Stewart-Warner 7413
@@ -51,7 +52,7 @@ ___
 [![](thumbs/120px-Signetics_54S00_8716_die_image_delayered.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b4/Signetics_54S00_8716_die_image_delayered.jpg)
 [![](thumbs/120px-Signetics_54S00_8716_die_image_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/15/Signetics_54S00_8716_die_image_annotated.jpg)
 [![](thumbs/120px-54S00_Signetics_8716_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/5/56/54S00_Signetics_8716_schematic.png)  
-[KiCad](kicad/54S00%20SIG%208716%20schematic) [PDF](pdf/Schematic_for_Signetics_54S00_datecode_8716.pdf)
+[KiCad](kicad/54S00%20SIG%208716%20schematic) [PDF](pdf/Schematic_for_Signetics_54S00_datecode_8716.pdf) [datasheet](datasheet/54S00_Signetics_datasheet.pdf)
 
 ___
 #### 54AS00 Texas Instruments 8747
