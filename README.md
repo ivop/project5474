@@ -60,21 +60,24 @@ ___
 [![](thumbs/120px-TI_54AS00_pack_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/6d/TI_54AS00_pack_bottom.jpg)
 [![](thumbs/120px-Texas_Instruments_SN54AS00J_8747_die_image.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c5/Texas_Instruments_SN54AS00J_8747_die_image.jpg)
 [![](thumbs/120px-54AS00_TI_8747_delayer2.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/0b/54AS00_TI_8747_delayer2.jpg)
-[![](thumbs/120px-Texas_Instruments_SN54AS00J_8747_die_image_minus_top_glass.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/4a/Texas_Instruments_SN54AS00J_8747_die_image_minus_top_glass.jpg)
+[![](thumbs/120px-Texas_Instruments_SN54AS00J_8747_die_image_minus_top_glass.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/4a/Texas_Instruments_SN54AS00J_8747_die_image_minus_top_glass.jpg)  
+[datasheet](datasheet/54AS00_TI_datasheet.pdf)
 
 ___
 #### 74F00 Fairchild 8423
 [![](thumbs/120px-74F00_F_8423_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/97/74F00_F_8423_package_top.jpg)
 [![](thumbs/120px-74F00_F_8423_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/aa/74F00_F_8423_package_bottom.jpg)
 [![](thumbs/120px-74F00_F_8423_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/93/74F00_F_8423_die_120nmpp.jpg)
-[![](thumbs/120px-74F00_F_8423_delayer_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/3e/74F00_F_8423_delayer_120nmpp.jpg)
+[![](thumbs/120px-74F00_F_8423_delayer_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/3e/74F00_F_8423_delayer_120nmpp.jpg)  
+[datasheet](datasheet/74F00_Fairchild_datasheet.pdf)
 
 ___
 #### 74F00 Motorola 8352
 [![](thumbs/120px-74F00_Moto_8352_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c3/74F00_Moto_8352_package_top.jpg)
 [![](thumbs/120px-74F00_Moto_8352_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/36/74F00_Moto_8352_package_bottom.jpg)
 [![](thumbs/120px-74F00_Moto_8352_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/4f/74F00_Moto_8352_die_120nmpp.jpg)
-[![](thumbs/120px-74F00_Moto_8352_delayer_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c6/74F00_Moto_8352_delayer_120nmpp.jpg)
+[![](thumbs/120px-74F00_Moto_8352_delayer_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c6/74F00_Moto_8352_delayer_120nmpp.jpg)  
+[datasheet](datasheet/74F00_Motorola_datasheet.pdf)
 
 ___
 #### 54HC00 National Semiconductor 8632
