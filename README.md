@@ -111,7 +111,7 @@ ___
 [![](thumbs/120px-74LS01_TI_8610_delayered.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/7e/74LS01_TI_8610_delayered.jpg)
 [![](thumbs/120px-74LS01_TI_8610_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/df/74LS01_TI_8610_annotated.jpg)
 [![](thumbs/120px-74LS01_TI_8610_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/5/51/74LS01_TI_8610_schematic.png)  
-[KiCad](kicad/74LS01%20TI%208610%20schematic) [PDF](pdf/74LS01_TI_8610_schematic.pdf)
+[KiCad](kicad/74LS01%20TI%208610%20schematic) [PDF](pdf/74LS01_TI_8610_schematic.pdf) [datasheet](datasheet/74LS01_TI_datasheet.pdf)
 
 ___
 ### 02
@@ -127,7 +127,7 @@ ___
 [![](thumbs/120px-54S02_TI_8341_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/8/81/54S02_TI_8341_schematic.png)
 [![](thumbs/120px-54S02_TI_8341_transistor.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/9e/54S02_TI_8341_transistor.jpg)
 [![](thumbs/120px-54S02_TI_8341_transistor_delayered.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/fb/54S02_TI_8341_transistor_delayered.jpg)  
-[KiCad](kicad/54S02%20TI%208341%20schematic) [PDF](pdf/54S02_TI_8341_schematic.pdf)
+[KiCad](kicad/54S02%20TI%208341%20schematic) [PDF](pdf/54S02_TI_8341_schematic.pdf) [datasheet](datasheet/54S02_TI_datasheet.pdf)
 
 ___
 #### 54LS02 Texas Instruments 8410
@@ -137,7 +137,7 @@ ___
 [![](thumbs/120px-54LS02_TI_8410_delayered.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/3a/54LS02_TI_8410_delayered.jpg)
 [![](thumbs/120px-54LS02_TI_8410_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/65/54LS02_TI_8410_annotated.jpg)
 [![](thumbs/120px-54LS02_TI_8410_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/e/ea/54LS02_TI_8410_schematic.png)  
-[KiCad](kicad/54LS02%20TI%208410%20schematic) [PDF](pdf/54LS02_TI_8410_schematic.pdf)
+[KiCad](kicad/54LS02%20TI%208410%20schematic) [PDF](pdf/54LS02_TI_8410_schematic.pdf) [datasheet](datasheet/54LS02_TI_datasheet.pdf)
 
 ___
 #### 74HC02 Motorola 8302
@@ -147,7 +147,7 @@ ___
 [![](thumbs/120px-74HC02_Motorola_8302_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/df/74HC02_Motorola_8302_annotated.jpg)
 [![](thumbs/120px-74HC02_Motorola_8302_annotated_sm.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/6c/74HC02_Motorola_8302_annotated_sm.jpg)
 [![](thumbs/120px-74HC02_Motorola_8302_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/0/03/74HC02_Motorola_8302_schematic.png)  
-[KiCad](kicad/74HC02%20Motorola%208302%20schematic) [PDF](pdf/74HC02_Motorola_8302_schematic.pdf)
+[KiCad](kicad/74HC02%20Motorola%208302%20schematic) [PDF](pdf/74HC02_Motorola_8302_schematic.pdf) [datasheet](datasheet/74HC02_Motorola_datasheet.pdf)
 
 ___
 ### 03
