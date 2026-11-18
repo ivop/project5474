@@ -35,7 +35,7 @@ ___
 #### 7400 National Semiconductor 443
 [![](thumbs/120px-7400_NS_443_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/6e/7400_NS_443_package_top.jpg)
 [![](thumbs/120px-7400_NS_443_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c1/7400_NS_443_package_bottom.jpg)
-[![](thumbs/120px-7400_NS_443_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/f8/7400_NS_443_die_120nmpp.jpg)
+[![](thumbs/120px-7400_NS_443_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/f8/7400_NS_443_die_120nmpp.jpg)  
 [datasheet](datasheet/7400_NS_datasheet.pdf)
 
 ___
