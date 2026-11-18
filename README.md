@@ -435,7 +435,7 @@ ___
 [![](thumbs/120px-54LS37_NS_883_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8f/54LS37_NS_883_package_top.jpg)
 [![](thumbs/120px-54LS37_NS_883_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/93/54LS37_NS_883_package_bottom.jpg)
 [![](thumbs/120px-54LS37_NS_883_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b3/54LS37_NS_883_die_120nmpp.jpg)  
-[datasheet](datasheet/54LS37_TI_datasheet.pdf)
+[datasheet](datasheet/54LS37_NS_datasheet.pdf)
 
 ___
 ### 41
