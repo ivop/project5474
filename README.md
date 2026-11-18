@@ -303,7 +303,7 @@ ___
 ( triple 3-input AND gate )
 
 ___
-#### 74S11 SIG 8150
+#### 74S11 Signetics 8150
 [![](thumbs/120px-74S11_SIG_8150_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/af/74S11_SIG_8150_package_top.jpg)
 [![](thumbs/120px-74S11_SIG_8150_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/ca/74S11_SIG_8150_package_bottom.jpg)
 [![](thumbs/120px-74S11_SIG_8150_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/29/74S11_SIG_8150_die_120nmpp.jpg)
