@@ -337,7 +337,7 @@ ___
 [![](thumbs/120px-5414_TI_0410_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d5/5414_TI_0410_annotated.jpg)
 [![](thumbs/120px-5414_TI_0410_annotated_sm.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8a/5414_TI_0410_annotated_sm.jpg)
 [![](thumbs/120px-5414_TI_0410_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/e/e3/5414_TI_0410_schematic.png)  
-[KiCad](kicad/5414%20TI%200410%20schematic) [PDF](pdf/5414_TI_0410_schematic.pdf)
+[KiCad](kicad/5414%20TI%200410%20schematic) [PDF](pdf/5414_TI_0410_schematic.pdf) [datasheet](datasheet/5414_TI_datasheet.pdf)
 
 ___
 ### 20
@@ -347,7 +347,8 @@ ___
 #### 5420 National Semiconductor 8830
 [![](thumbs/120px-5420_NS_8830_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/21/5420_NS_8830_package_top.jpg)
 [![](thumbs/120px-5420_NS_8830_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/83/5420_NS_8830_package_bottom.jpg)
-[![](thumbs/120px-5420_NS_8830_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b3/5420_NS_8830_die_120nmpp.jpg)
+[![](thumbs/120px-5420_NS_8830_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b3/5420_NS_8830_die_120nmpp.jpg)  
+[datasheet](datasheet/5420_NS_datasheet.pdf)
 
 ___
 ### 27
