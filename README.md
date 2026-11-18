@@ -240,7 +240,8 @@ ___
 #### 5408 National Semiconductor 9911
 [![](thumbs/120px-5408_NS_9911_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/94/5408_NS_9911_package_top.jpg)
 [![](thumbs/120px-5408_NS_9911_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/84/5408_NS_9911_package_bottom.jpg)
-[![](thumbs/120px-5408_NS_9911_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/29/5408_NS_9911_die_120nmpp.jpg)
+[![](thumbs/120px-5408_NS_9911_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/29/5408_NS_9911_die_120nmpp.jpg)  
+[datasheet](datasheet/5408_NS_datasheet.pdf)
 
 ___
 #### 74H08 National Semiconductor 411
@@ -249,7 +250,7 @@ ___
 [![](thumbs/120px-74H08_NS_411.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/5b/74H08_NS_411.jpg)
 [![](thumbs/120px-74H08_NS_411_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/92/74H08_NS_411_annotated.jpg)
 [![](thumbs/120px-74H08_NS_411_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/a/ae/74H08_NS_411_schematic.png)  
-[KiCad](kicad/74H08%20NS%20411%20schematic) [PDF](pdf/74H08_NS_411_schematic.pdf)
+[KiCad](kicad/74H08%20NS%20411%20schematic) [PDF](pdf/74H08_NS_411_schematic.pdf) [datasheet](datasheet/74H08_NS_datasheet.pdf)
 
 ___
 #### 74LS08 Texas Instruments 8022
@@ -259,13 +260,14 @@ ___
 [![](thumbs/120px-74LS08_TI_8022_delayer_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/38/74LS08_TI_8022_delayer_120nmpp.jpg)
 [![](thumbs/120px-74LS08_TI_8022_annotated_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/a4/74LS08_TI_8022_annotated_120nmpp.jpg)
 [![](thumbs/120px-74LS08_TI_8022_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/5/53/74LS08_TI_8022_schematic.png)  
-[KiCad](kicad/74LS08%20TI%208022%20schematic) [PDF](pdf/74LS08_TI_8022_schematic.pdf)
+[KiCad](kicad/74LS08%20TI%208022%20schematic) [PDF](pdf/74LS08_TI_8022_schematic.pdf) [datasheet](datasheet/74LS08_TI_datasheet.pdf)
 
 ___
 #### 54AS08 Texas Instruments 8418
 [![](thumbs/120px-54AS08_TI_8418_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/f4/54AS08_TI_8418_package_top.jpg)
 [![](thumbs/120px-54AS08_TI_8418_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/91/54AS08_TI_8418_package_bottom.jpg)
-[![](thumbs/120px-54AS08_TI_8418_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/bf/54AS08_TI_8418_die_120nmpp.jpg)
+[![](thumbs/120px-54AS08_TI_8418_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/bf/54AS08_TI_8418_die_120nmpp.jpg)  
+[datasheet](datasheet/54AS08_TI_datasheet.pdf)
 
 ___
 ### 09
