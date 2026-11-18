@@ -204,7 +204,8 @@ ___
 [![](thumbs/120px-7405_TI_7130_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/66/7405_TI_7130_package_bottom.jpg)
 [![](thumbs/120px-7405_TI_7130_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/19/7405_TI_7130_die_120nmpp.jpg)
 [![](thumbs/120px-7405_TI_7130_die_240nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8d/7405_TI_7130_die_240nmpp.jpg)
-[![](thumbs/120px-7405_TI_7130_delayer_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/52/7405_TI_7130_delayer_120nmpp.jpg)
+[![](thumbs/120px-7405_TI_7130_delayer_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/52/7405_TI_7130_delayer_120nmpp.jpg)  
+[datasheet](datasheet/7405_TI_datasheet.pdf)
 
 ___
 ### 06
@@ -218,7 +219,7 @@ ___
 [![](thumbs/120px-5406_TI_8615_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/cd/5406_TI_8615_annotated.jpg)
 [![](thumbs/120px-5406_TI_8615_annotated_sm.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/91/5406_TI_8615_annotated_sm.jpg)
 [![](thumbs/120px-5406_TI_8615_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/5/59/5406_TI_8615_schematic.png)  
-[KiCad](kicad/5406%20TI%208615%20schematic) [PDF](pdf/5406_TI_8615_schematic.pdf)
+[KiCad](kicad/5406%20TI%208615%20schematic) [PDF](pdf/5406_TI_8615_schematic.pdf) [datasheet](datasheet/5406_TI_datasheet.pdf)
 
 ___
 ### 07
