@@ -192,7 +192,8 @@ ___
 #### 54AS04 Texas Instruments 8737
 [![](thumbs/120px-54AS04_TI_8737_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/51/54AS04_TI_8737_package_top.jpg)
 [![](thumbs/120px-54AS04_TI_8737_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/90/54AS04_TI_8737_package_bottom.jpg)
-[![](thumbs/120px-54AS04_TI_8737_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/96/54AS04_TI_8737_die_120nmpp.jpg)
+[![](thumbs/120px-54AS04_TI_8737_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/96/54AS04_TI_8737_die_120nmpp.jpg)  
+[datasheet](datasheet/54AS04_TI_datasheet.pdf)
 
 ___
 ### 05
