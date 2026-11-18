@@ -596,7 +596,7 @@ ___
 [![](thumbs/120px-74141_TI_7437_annotated_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b2/74141_TI_7437_annotated_120nmpp.jpg)
 [![](thumbs/120px-74141_TI_7437_annotated_240nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/99/74141_TI_7437_annotated_240nmpp.jpg)
 [![](thumbs/120px-74141_TI_7437_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/f/f8/74141_TI_7437_schematic.png)  
-[KiCad](kicad/74141%20TI%207437%20schematic) [PDF](pdf/74141_TI_7437_schematic.pdf)
+[KiCad](kicad/74141%20TI%207437%20schematic) [PDF](pdf/74141_TI_7437_schematic.pdf) [datasheet](datasheet/74141_TI_datasheet.pdf)
 
 ___
 ### 148
@@ -609,7 +609,7 @@ ___
 [![](thumbs/120px-74LS148_TI_8048_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e1/74LS148_TI_8048_die_120nmpp.jpg)
 [![](thumbs/120px-74LS148_TI_8048_die_120nmpp_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/72/74LS148_TI_8048_die_120nmpp_annotated.jpg)
 [![](thumbs/120px-74LS148_TI_8048_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/3/35/74LS148_TI_8048_schematic.png)  
-[KiCad](kicad/74LS148%20TI%208048%20schematic) [PDF](pdf/74LS148_TI_8048_schematic.pdf)
+[KiCad](kicad/74LS148%20TI%208048%20schematic) [PDF](pdf/74LS148_TI_8048_schematic.pdf) [datasheet](datasheet/74LS148_TI_datasheet.pdf)
 
 ___
 ### 150
@@ -619,7 +619,8 @@ ___
 #### 74150 Texas Instruments 7413
 [![](thumbs/120px-74150_TI_7413_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/2b/74150_TI_7413_package_top.jpg)
 [![](thumbs/120px-74150_TI_7413_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/57/74150_TI_7413_package_bottom.jpg)
-[![](thumbs/120px-74150_TI_7413_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/56/74150_TI_7413_die_120nmpp.jpg)
+[![](thumbs/120px-74150_TI_7413_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/56/74150_TI_7413_die_120nmpp.jpg)  
+[datasheet](datasheet/74150_TI_datasheet.pdf)
 
 ___
 ### 157
@@ -629,7 +630,8 @@ ___
 #### 54S157 Signetics 8014
 [![](thumbs/120px-54S157_Signetics_8014_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d5/54S157_Signetics_8014_package_top.jpg)
 [![](thumbs/120px-54S157_Signetics_8014_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e7/54S157_Signetics_8014_package_bottom.jpg)
-[![](thumbs/120px-54S157_Signetics_8014_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/61/54S157_Signetics_8014_die_120nmpp.jpg)
+[![](thumbs/120px-54S157_Signetics_8014_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/61/54S157_Signetics_8014_die_120nmpp.jpg)  
+[datasheet](datasheet/54S157_Signetics_datasheet.pdf)
 
 ___
 ### 163
