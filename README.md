@@ -310,7 +310,7 @@ ___
 [![](thumbs/120px-74S11_SIG_8150_delayer_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/a6/74S11_SIG_8150_delayer_120nmpp.jpg)
 [![](thumbs/120px-74S11_SIG_8150_annotated_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b1/74S11_SIG_8150_annotated_120nmpp.jpg)
 [![](thumbs/120px-74S11_SIG_8150_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/7/77/74S11_SIG_8150_schematic.png)  
-[KiCad](kicad/74S11%20SIG%208150%20schematic) [PDF](pdf/74S11_SIG_8150_schematic.pdf)
+[KiCad](kicad/74S11%20SIG%208150%20schematic) [PDF](pdf/74S11_SIG_8150_schematic.pdf) [datasheet](datasheet/74S11_Signetics_datasheet.pdf)
 
 ___
 ### 13
@@ -323,7 +323,7 @@ ___
 [![](thumbs/120px-7413_TI_7348_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e9/7413_TI_7348_die_120nmpp.jpg)
 [![](thumbs/120px-7413_TI_7348_die_annotated_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/09/7413_TI_7348_die_annotated_120nmpp.jpg)
 [![](thumbs/120px-7413_TI_7348_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/5/5d/7413_TI_7348_schematic.png)  
-[KiCad](kicad/7413%20TI%207348%20schematic) [PDF](pdf/7413_TI_7348_schematic.pdf)
+[KiCad](kicad/7413%20TI%207348%20schematic) [PDF](pdf/7413_TI_7348_schematic.pdf) [datasheet](datasheet/7413_TI_datasheet.pdf)
 
 ___
 ### 14
