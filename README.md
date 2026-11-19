@@ -775,7 +775,8 @@ ___
 #### 54LS253 Texas Instruments 9421
 [![](thumbs/120px-54LS253_TI_9421_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/61/54LS253_TI_9421_package_top.jpg)
 [![](thumbs/120px-54LS253_TI_9421_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/ae/54LS253_TI_9421_package_bottom.jpg)
-[![](thumbs/120px-54LS253_TI_9421_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c9/54LS253_TI_9421_die_120nmpp.jpg)
+[![](thumbs/120px-54LS253_TI_9421_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c9/54LS253_TI_9421_die_120nmpp.jpg)  
+[datasheet](datasheet/54LS253_TI_datasheet.pdf)
 
 ___
 ### 257
@@ -785,7 +786,8 @@ ___
 #### 54LS257 Advanced Micro Devices 8044
 [![](thumbs/120px-54LS257_AMD_8044_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e9/54LS257_AMD_8044_package_top.jpg)
 [![](thumbs/120px-54LS257_AMD_8044_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b3/54LS257_AMD_8044_package_bottom.jpg)
-[![](thumbs/120px-54LS257_AMD_8044_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/94/54LS257_AMD_8044_die_120nmpp.jpg)
+[![](thumbs/120px-54LS257_AMD_8044_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/94/54LS257_AMD_8044_die_120nmpp.jpg)  
+[datasheet](datasheet/54LS257_AMD_datasheet.pdf)
 
 ___
 ### 273
