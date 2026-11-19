@@ -887,7 +887,8 @@ ___
 #### 54AS867 Texas Instruments 8748
 [![](thumbs/120px-54AS867_TI_8748_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c0/54AS867_TI_8748_package_top.jpg)
 [![](thumbs/120px-54AS867_TI_8748_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/66/54AS867_TI_8748_package_bottom.jpg)
-[![](thumbs/120px-54AS867_TI_8748_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/6e/54AS867_TI_8748_die_120nmpp.jpg)
+[![](thumbs/120px-54AS867_TI_8748_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/6e/54AS867_TI_8748_die_120nmpp.jpg)  
+[datasheet](datasheet/54AS867_TI_datasheet.pdf)
 
 ___
 ### 942
@@ -898,4 +899,5 @@ ___
 [![](thumbs/120px-74HC942_NS_9342_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/11/74HC942_NS_9342_package_top.jpg)
 [![](thumbs/120px-74HC942_NS_9342_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/5a/74HC942_NS_9342_package_bottom.jpg)
 [![](thumbs/120px-74HC942_NS_9342_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/a1/74HC942_NS_9342_die_120nmpp.jpg)
-[![](thumbs/120px-74HC942_NS_9342_die_480nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d0/74HC942_NS_9342_die_480nmpp.jpg)
+[![](thumbs/120px-74HC942_NS_9342_die_480nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d0/74HC942_NS_9342_die_480nmpp.jpg)  
+[datasheet](datasheet/74HC942_NS_datasheet.pdf)
