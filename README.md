@@ -842,7 +842,8 @@ ___
 #### 74S373 Monolithic Memories, Inc. 7949
 [![](thumbs/120px-74S373_MMI_7949_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/44/74S373_MMI_7949_package_top.jpg)
 [![](thumbs/120px-74S373_MMI_7949_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e9/74S373_MMI_7949_package_bottom.jpg)
-[![](thumbs/120px-74S373_MMI_7949_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b0/74S373_MMI_7949_die_120nmpp.jpg)
+[![](thumbs/120px-74S373_MMI_7949_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b0/74S373_MMI_7949_die_120nmpp.jpg)  
+[datasheet](datasheet/74S373_MMI_datasheet.pdf)
 
 ___
 ### 390
@@ -852,7 +853,8 @@ ___
 #### 74390 Texas Instruments 7810
 [![](thumbs/120px-74390_TI_7810_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b0/74390_TI_7810_package_top.jpg)
 [![](thumbs/120px-74390_TI_7810_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e7/74390_TI_7810_package_bottom.jpg)
-[![](thumbs/120px-74390_TI_7810_die_235nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/62/74390_TI_7810_die_235nmpp.jpg)
+[![](thumbs/120px-74390_TI_7810_die_235nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/62/74390_TI_7810_die_235nmpp.jpg)  
+[datasheet](datasheet/74390_TI_datasheet.pdf)
 
 ___
 ### 592
@@ -863,7 +865,8 @@ ___
 [![](thumbs/120px-54LS592_TI_8814_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/43/54LS592_TI_8814_package_top.jpg)
 [![](thumbs/120px-54LS592_TI_8814_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c9/54LS592_TI_8814_package_bottom.jpg)
 [![](thumbs/120px-54LS592_TI_8814_package_interior.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/1c/54LS592_TI_8814_package_interior.jpg)
-[![](thumbs/120px-54LS592_TI_8814_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e8/54LS592_TI_8814_die_120nmpp.jpg)
+[![](thumbs/120px-54LS592_TI_8814_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e8/54LS592_TI_8814_die_120nmpp.jpg)  
+[datasheet](datasheet/54LS592_TI_datasheet.pdf)
 
 ___
 ### 688
@@ -873,7 +876,8 @@ ___
 #### 54LS688 Texas Instruments 8741
 [![](thumbs/120px-54LS688_TI_8741_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/a5/54LS688_TI_8741_package_top.jpg)
 [![](thumbs/120px-54LS688_TI_8741_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/bf/54LS688_TI_8741_package_bottom.jpg)
-[![](thumbs/120px-54LS688_TI_8741_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/03/54LS688_TI_8741_die_120nmpp.jpg)
+[![](thumbs/120px-54LS688_TI_8741_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/03/54LS688_TI_8741_die_120nmpp.jpg)  
+[datasheet](datasheet/54LS688_TI_datasheet.pdf)
 
 ___
 ### 867
