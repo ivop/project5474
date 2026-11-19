@@ -797,7 +797,8 @@ ___
 #### 54LS273 Fairchild 8433
 [![](thumbs/120px-54LS273_Fairchild_8433_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b5/54LS273_Fairchild_8433_package_top.jpg)
 [![](thumbs/120px-54LS273_Fairchild_8433_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/9a/54LS273_Fairchild_8433_package_bottom.jpg)
-[![](thumbs/120px-54LS273_Fairchild_8433_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d5/54LS273_Fairchild_8433_die_120nmpp.jpg)
+[![](thumbs/120px-54LS273_Fairchild_8433_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d5/54LS273_Fairchild_8433_die_120nmpp.jpg)  
+[datasheet](datasheet/54LS273_Fairchild_datasheet.pdf)
 
 ___
 ### 274
@@ -808,7 +809,8 @@ ___
 [![](thumbs/120px-74S274_TI_8105_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8d/74S274_TI_8105_package_top.jpg)
 [![](thumbs/120px-74S274_TI_8105_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b6/74S274_TI_8105_package_bottom.jpg)
 [![](thumbs/120px-74S274_TI_8105_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/7e/74S274_TI_8105_die_120nmpp.jpg)
-[![](thumbs/120px-74S274_TI_8105_die_240nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/49/74S274_TI_8105_die_240nmpp.jpg)
+[![](thumbs/120px-74S274_TI_8105_die_240nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/49/74S274_TI_8105_die_240nmpp.jpg)  
+[datasheet](datasheet/74S274_TI_datasheet.pdf)
 
 ___
 ### 283
@@ -818,7 +820,8 @@ ___
 #### 54LS283 Texas Instruments 7927
 [![](thumbs/120px-54LS283_TI_7927_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/80/54LS283_TI_7927_package_top.jpg)
 [![](thumbs/120px-54LS283_TI_7927_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/0a/54LS283_TI_7927_package_bottom.jpg)
-[![](thumbs/120px-54LS283_TI_7927_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/9e/54LS283_TI_7927_die_120nmpp.jpg)
+[![](thumbs/120px-54LS283_TI_7927_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/9e/54LS283_TI_7927_die_120nmpp.jpg)  
+[datasheet](datasheet/54LS283_TI_datasheet.pdf)
 
 ___
 ### 362
@@ -828,7 +831,8 @@ ___
 #### 74LS362 Texas Instruments 518
 [![](thumbs/120px-74LS362_TI_518_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/a1/74LS362_TI_518_package_top.jpg)
 [![](thumbs/120px-74LS362_TI_518_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8b/74LS362_TI_518_package_bottom.jpg)
-[![](thumbs/120px-74LS362_TI_518_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/dc/74LS362_TI_518_die_120nmpp.jpg)
+[![](thumbs/120px-74LS362_TI_518_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/dc/74LS362_TI_518_die_120nmpp.jpg)  
+[datasheet](datasheet/74LS362_TI_datasheet.pdf)
 
 ___
 ### 373
