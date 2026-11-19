@@ -754,7 +754,7 @@ ___
 [![](thumbs/120px-74LS244_F_8314_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/12/74LS244_F_8314_annotated.jpg)
 [![](thumbs/120px-74LS244_F_8314_annotated_sm.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/6d/74LS244_F_8314_annotated_sm.jpg)
 [![](thumbs/120px-74LS244_F_8314_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/9/9a/74LS244_F_8314_schematic.png)  
-[KiCad](kicad/74LS244%20F%208314%20schematic) [PDF](pdf/74LS244_F_8314_schematic.pdf)
+[KiCad](kicad/74LS244%20F%208314%20schematic) [PDF](pdf/74LS244_F_8314_schematic.pdf) [datasheet](datasheet/74LS244_Fairchild_datasheet.pdf)
 
 ___
 ### 245
@@ -764,7 +764,8 @@ ___
 #### 74HCT245 Philips 8949
 [![](thumbs/120px-74HCT245_PH_8949_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/77/74HCT245_PH_8949_package_top.jpg)
 [![](thumbs/120px-74HCT245_PH_8949_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e9/74HCT245_PH_8949_package_bottom.jpg)
-[![](thumbs/120px-74HCT245_PH_8949_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/aa/74HCT245_PH_8949_die_120nmpp.jpg)
+[![](thumbs/120px-74HCT245_PH_8949_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/aa/74HCT245_PH_8949_die_120nmpp.jpg)  
+[datasheet](datasheet/74HCT245_Philips_datasheet.pdf)
 
 ___
 ### 253
