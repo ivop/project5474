@@ -715,7 +715,8 @@ ___
 [![](thumbs/120px-74F219_NS_8915_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/21/74F219_NS_8915_package_top.jpg)
 [![](thumbs/120px-74F219_NS_8915_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/01/74F219_NS_8915_package_bottom.jpg)
 [![](thumbs/120px-74F219_NS_8915_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/18/74F219_NS_8915_die_120nmpp.jpg)
-[![](thumbs/120px-74F219_NS_8915_delayer_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/07/74F219_NS_8915_delayer_120nmpp.jpg)
+[![](thumbs/120px-74F219_NS_8915_delayer_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/07/74F219_NS_8915_delayer_120nmpp.jpg)  
+[datasheet](datasheet/74F219_NS_datasheet.pdf)
 
 ___
 ### 221
@@ -726,7 +727,8 @@ ___
 [![](thumbs/120px-74LS221_Moto_8443_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/95/74LS221_Moto_8443_package_top.jpg)
 [![](thumbs/120px-74LS221_Moto_8443_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d7/74LS221_Moto_8443_package_bottom.jpg)
 [![](thumbs/120px-74LS221_Moto_8443_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/03/74LS221_Moto_8443_die_120nmpp.jpg)
-[![](thumbs/120px-74LS221_Moto_8443_die_delayered_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/50/74LS221_Moto_8443_die_delayered_120nmpp.jpg)
+[![](thumbs/120px-74LS221_Moto_8443_die_delayered_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/50/74LS221_Moto_8443_die_delayered_120nmpp.jpg)  
+[datasheet](datasheet/74LS221_Motorola_datasheet.pdf)
 
 ___
 ### 240
@@ -736,7 +738,8 @@ ___
 #### 74S240 Monolithic Memories, Inc. 8040
 [![](thumbs/120px-74S240_MMI_8040_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/10/74S240_MMI_8040_package_top.jpg)
 [![](thumbs/120px-74S240_MMI_8040_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/4d/74S240_MMI_8040_package_bottom.jpg)
-[![](thumbs/120px-74S240_MMI_8040_die_325nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d8/74S240_MMI_8040_die_325nmpp.jpg)
+[![](thumbs/120px-74S240_MMI_8040_die_325nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d8/74S240_MMI_8040_die_325nmpp.jpg)  
+[datasheet](datasheet/74S240_MMI_datasheet.pdf)
 
 ___
 ### 244
