@@ -646,7 +646,7 @@ ___
 [![](thumbs/120px-54163_TI_0423_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/63/54163_TI_0423_annotated.jpg)
 [![](thumbs/120px-54163_TI_0423_annotated_sm.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e2/54163_TI_0423_annotated_sm.jpg)
 [![](thumbs/120px-54163_TI_0423_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/7/7b/54163_TI_0423_schematic.png)  
-[KiCad](kicad/54163%20TI%200423%20schematic) [PDF](pdf/54163_TI_0423_schematic.pdf)
+[KiCad](kicad/54163%20TI%200423%20schematic) [PDF](pdf/54163_TI_0423_schematic.pdf) [datasheet](datasheet/54163_TI_datasheet.pdf)
 
 ___
 ### 164
@@ -656,7 +656,8 @@ ___
 #### 74LS164 Motorola 8434
 [![](thumbs/120px-74LS164_Moto_8434_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/54/74LS164_Moto_8434_package_top.jpg)
 [![](thumbs/120px-74LS164_Moto_8434_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/41/74LS164_Moto_8434_package_bottom.jpg)
-[![](thumbs/120px-74LS164_Moto_8434_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/60/74LS164_Moto_8434_die_120nmpp.jpg)
+[![](thumbs/120px-74LS164_Moto_8434_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/60/74LS164_Moto_8434_die_120nmpp.jpg)  
+[datasheet](datasheet/74LS164_Motorola_datasheet.pdf)
 
 ___
 ### 166
@@ -666,7 +667,8 @@ ___
 #### 74LS166 Texas Instruments 8122
 [![](thumbs/120px-74LS166_TI_8122_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/19/74LS166_TI_8122_package_top.jpg)
 [![](thumbs/120px-74LS166_TI_8122_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8d/74LS166_TI_8122_package_bottom.jpg)
-[![](thumbs/120px-74LS166_TI_8122_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/0b/74LS166_TI_8122_die_120nmpp.jpg)
+[![](thumbs/120px-74LS166_TI_8122_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/0b/74LS166_TI_8122_die_120nmpp.jpg)  
+[datasheet](datasheet/74LS166_TI_datasheet.pdf)
 
 ___
 ### 170
@@ -691,7 +693,7 @@ ___
 [![](thumbs/120px-74S175_TI_7939_annotated_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/68/74S175_TI_7939_annotated_120nmpp.jpg)
 [![](thumbs/120px-74S175_TI_7939_annotated_240nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d4/74S175_TI_7939_annotated_240nmpp.jpg)
 [![](thumbs/120px-74S175_TI_7939_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/9/9f/74S175_TI_7939_schematic.png)  
-[KiCad](kicad/74S175%20TI%207939%20schematic) [PDF](pdf/74S175_TI_7939_schematic.pdf)
+[KiCad](kicad/74S175%20TI%207939%20schematic) [PDF](pdf/74S175_TI_7939_schematic.pdf) [datasheet](datasheet/74S175_TI_datasheet.pdf)
 
 ___
 ### 189
