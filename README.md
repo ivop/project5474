@@ -1,8 +1,27 @@
 # Project 54/74
 
-Original by Robert Baruch, 2016-2021  
-Revived by Ivo van Poorten, 2026  
+This project seeks to document 54xx/74xx-series logic chips and subfamilies by imaging and annotating their dies and tracing out their schematics.
+These chips usually have no more than 100 transistors, making them easy to understand.
+
+**Original website by Robert Baruch, 2016-2021**  
+
+All chips were decapsulated, photographed, and, if applicable, traced by Robert Baruch, unless specified otherwise.
+
+**Revived by Ivo van Poorten, 2026-**  
+
+Almost everything has been found by using archive.org, siliconpr0n.org scrape tarball, Wikimedia Commons, and Google search.
+See [missing.txt](missing.txt) for what's still missing.
+Die photograph thumbnails link to (very) large die shots at Wikimedia Commons.
+All manually collected datasheets, KiCad projects, schematic PDFs, and SVG trace files are hosted locally.
+SVG files have been stripped of their embedded die images to keep their file size low.
+The layers are still there and reference ./image1.jpg (and ./image2.jpg if there's a delayered die image layer).
+You can manually download the corresponding files from Wikimedia, rename them, and place them in the same directory as the SVG file.
+I have tried contacting Robert Baruch directly, but I received no response.
+Seeing all his websites disappeared and no updates on YouTube for years made me a bit sad.
+This repo makes it easy again to view all his work.
+
 ![cc-by-sa](cc-by-sa.png)
+
 
 ## Devices
 
