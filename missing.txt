@@ -1,3 +1,3 @@
 5430 - missing schematic PNG, PDF, kicad project
 7460 - missing schematic PNG, PDF, kicad project
-7481 - missing kicad project
+7481 - missing kicad project, missing SVG
