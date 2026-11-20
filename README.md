@@ -11,7 +11,7 @@ All chips were decapsulated, photographed, and, if applicable, traced by Robert 
 
 Almost everything has been found by using archive.org, siliconpr0n.org scrape tarball, Wikimedia Commons, and Google search.
 See [missing.txt](missing.txt) for what's still missing.
-Die photograph thumbnails link to (very) large die shots hosted by Wikimedia Commons.
+Image thumbnails link to (very) large images hosted by Wikimedia Commons.
 All manually collected datasheets, KiCad projects, schematic PDFs, and SVG trace files are hosted locally.
 
 SVG files have been stripped of their embedded die images to keep their file size low.
