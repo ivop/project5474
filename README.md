@@ -19,7 +19,7 @@ ___
 [![](thumbs/120px-National_semiconductor_dm5400j_8838_die_image.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/30/National_semiconductor_dm5400j_8838_die_image.jpg)
 [![](thumbs/120px-National_semiconductor_dm5400j_8838_die_image_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/08/National_semiconductor_dm5400j_8838_die_image_annotated.jpg)
 [![](thumbs/120px-5400_NS_8838_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/c/cb/5400_NS_8838_schematic.png)  
-[KiCad](kicad/5400%20NS%208838%20schematic) [PDF](pdf/National_semiconductor_dm5400j_8838_schematic.pdf) [datasheet](datasheet/5400_NS_datasheet.pdf)
+[KiCad](kicad/5400%20NS%208838%20schematic) [PDF](pdf/National_semiconductor_dm5400j_8838_schematic.pdf) [SVG](svg/5400%20NS%208838.svg) [datasheet](datasheet/5400_NS_datasheet.pdf)
 
 ___
 #### 5400 Texas Instruments 0421
@@ -29,7 +29,7 @@ ___
 [![](thumbs/120px-5400_TI_0421_delayer_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/df/5400_TI_0421_delayer_120nmpp.jpg)
 [![](thumbs/120px-5400_TI_0421_annotated_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/a2/5400_TI_0421_annotated_120nmpp.jpg)
 [![](thumbs/120px-5400_TI_0421_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/2/23/5400_TI_0421_schematic.png)  
-[KiCad](kicad/5400%20TI%200421%20schematic) [PDF](pdf/5400_TI_0421_schematic.pdf) [datasheet](datasheet/5400_TI_datasheet.pdf)
+[KiCad](kicad/5400%20TI%200421%20schematic) [PDF](pdf/5400_TI_0421_schematic.pdf) [SVG](svg/5400%20TI%200421%20annotated%20120nmpp.svg) [datasheet](datasheet/5400_TI_datasheet.pdf)
 
 ___
 #### 7400 National Semiconductor 443
@@ -52,7 +52,7 @@ ___
 [![](thumbs/120px-Signetics_54S00_8716_die_image_delayered.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b4/Signetics_54S00_8716_die_image_delayered.jpg)
 [![](thumbs/120px-Signetics_54S00_8716_die_image_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/15/Signetics_54S00_8716_die_image_annotated.jpg)
 [![](thumbs/120px-54S00_Signetics_8716_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/5/56/54S00_Signetics_8716_schematic.png)  
-[KiCad](kicad/54S00%20SIG%208716%20schematic) [PDF](pdf/Schematic_for_Signetics_54S00_datecode_8716.pdf) [datasheet](datasheet/54S00_Signetics_datasheet.pdf)
+[KiCad](kicad/54S00%20SIG%208716%20schematic) [PDF](pdf/Schematic_for_Signetics_54S00_datecode_8716.pdf) [SVG](svg/54S00%20Signetics%208716.svg) [datasheet](datasheet/54S00_Signetics_datasheet.pdf)
 
 ___
 #### 54AS00 Texas Instruments 8747
@@ -111,7 +111,7 @@ ___
 [![](thumbs/120px-74LS01_TI_8610_delayered.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/7e/74LS01_TI_8610_delayered.jpg)
 [![](thumbs/120px-74LS01_TI_8610_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/df/74LS01_TI_8610_annotated.jpg)
 [![](thumbs/120px-74LS01_TI_8610_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/5/51/74LS01_TI_8610_schematic.png)  
-[KiCad](kicad/74LS01%20TI%208610%20schematic) [PDF](pdf/74LS01_TI_8610_schematic.pdf) [datasheet](datasheet/74LS01_TI_datasheet.pdf)
+[KiCad](kicad/74LS01%20TI%208610%20schematic) [PDF](pdf/74LS01_TI_8610_schematic.pdf) [SVG](svg/74LS01%20TI%208610%20annotated.svg) [datasheet](datasheet/74LS01_TI_datasheet.pdf)
 
 ___
 ### 02
@@ -127,7 +127,7 @@ ___
 [![](thumbs/120px-54S02_TI_8341_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/8/81/54S02_TI_8341_schematic.png)
 [![](thumbs/120px-54S02_TI_8341_transistor.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/9e/54S02_TI_8341_transistor.jpg)
 [![](thumbs/120px-54S02_TI_8341_transistor_delayered.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/fb/54S02_TI_8341_transistor_delayered.jpg)  
-[KiCad](kicad/54S02%20TI%208341%20schematic) [PDF](pdf/54S02_TI_8341_schematic.pdf) [datasheet](datasheet/54S02_TI_datasheet.pdf)
+[KiCad](kicad/54S02%20TI%208341%20schematic) [PDF](pdf/54S02_TI_8341_schematic.pdf) [SVG](svg/54S02%20TI%208341.svg) [datasheet](datasheet/54S02_TI_datasheet.pdf)
 
 ___
 #### 54LS02 Texas Instruments 8410
@@ -137,7 +137,7 @@ ___
 [![](thumbs/120px-54LS02_TI_8410_delayered.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/3a/54LS02_TI_8410_delayered.jpg)
 [![](thumbs/120px-54LS02_TI_8410_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/65/54LS02_TI_8410_annotated.jpg)
 [![](thumbs/120px-54LS02_TI_8410_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/e/ea/54LS02_TI_8410_schematic.png)  
-[KiCad](kicad/54LS02%20TI%208410%20schematic) [PDF](pdf/54LS02_TI_8410_schematic.pdf) [datasheet](datasheet/54LS02_TI_datasheet.pdf)
+[KiCad](kicad/54LS02%20TI%208410%20schematic) [PDF](pdf/54LS02_TI_8410_schematic.pdf) [SVG](svg/54LS02%20TI%208410%20annotated.svg) [datasheet](datasheet/54LS02_TI_datasheet.pdf)
 
 ___
 #### 74HC02 Motorola 8302
@@ -147,7 +147,7 @@ ___
 [![](thumbs/120px-74HC02_Motorola_8302_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/df/74HC02_Motorola_8302_annotated.jpg)
 [![](thumbs/120px-74HC02_Motorola_8302_annotated_sm.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/6c/74HC02_Motorola_8302_annotated_sm.jpg)
 [![](thumbs/120px-74HC02_Motorola_8302_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/0/03/74HC02_Motorola_8302_schematic.png)  
-[KiCad](kicad/74HC02%20Motorola%208302%20schematic) [PDF](pdf/74HC02_Motorola_8302_schematic.pdf) [datasheet](datasheet/74HC02_Motorola_datasheet.pdf)
+[KiCad](kicad/74HC02%20Motorola%208302%20schematic) [PDF](pdf/74HC02_Motorola_8302_schematic.pdf) [SVG](svg/74HC02%20Motorola%208302%20annotated.svg) [datasheet](datasheet/74HC02_Motorola_datasheet.pdf)
 
 ___
 ### 03
@@ -186,7 +186,7 @@ ___
 [![](thumbs/120px-74L04_UNK_7608.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/f5/74L04_UNK_7608.jpg)
 [![](thumbs/120px-74L04_UNK_7608_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/ab/74L04_UNK_7608_annotated.jpg)
 [![](thumbs/120px-74L04_UNK_7608_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/c/cc/74L04_UNK_7608_schematic.png)  
-[KiCad](kicad/74L04%20UNK%207608%20schematic) [PDF](pdf/74L04_UNK_7608_schematic.pdf)
+[KiCad](kicad/74L04%20UNK%207608%20schematic) [PDF](pdf/74L04_UNK_7608_schematic.pdf) [SVG](svg/74L04%20UNK%207608.svg)
 
 ___
 #### 54AS04 Texas Instruments 8737
@@ -220,7 +220,7 @@ ___
 [![](thumbs/120px-5406_TI_8615_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/cd/5406_TI_8615_annotated.jpg)
 [![](thumbs/120px-5406_TI_8615_annotated_sm.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/91/5406_TI_8615_annotated_sm.jpg)
 [![](thumbs/120px-5406_TI_8615_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/5/59/5406_TI_8615_schematic.png)  
-[KiCad](kicad/5406%20TI%208615%20schematic) [PDF](pdf/5406_TI_8615_schematic.pdf) [datasheet](datasheet/5406_TI_datasheet.pdf)
+[KiCad](kicad/5406%20TI%208615%20schematic) [PDF](pdf/5406_TI_8615_schematic.pdf) [SVG](svg/5406%20TI%208615%20annotated.svg) [datasheet](datasheet/5406_TI_datasheet.pdf)
 
 ___
 ### 07
@@ -250,7 +250,7 @@ ___
 [![](thumbs/120px-74H08_NS_411.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/5b/74H08_NS_411.jpg)
 [![](thumbs/120px-74H08_NS_411_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/92/74H08_NS_411_annotated.jpg)
 [![](thumbs/120px-74H08_NS_411_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/a/ae/74H08_NS_411_schematic.png)  
-[KiCad](kicad/74H08%20NS%20411%20schematic) [PDF](pdf/74H08_NS_411_schematic.pdf) [datasheet](datasheet/74H08_NS_datasheet.pdf)
+[KiCad](kicad/74H08%20NS%20411%20schematic) [PDF](pdf/74H08_NS_411_schematic.pdf) [SVG](svg/74H08%20NS%20411.svg) [datasheet](datasheet/74H08_NS_datasheet.pdf)
 
 ___
 #### 74LS08 Texas Instruments 8022
@@ -260,7 +260,7 @@ ___
 [![](thumbs/120px-74LS08_TI_8022_delayer_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/38/74LS08_TI_8022_delayer_120nmpp.jpg)
 [![](thumbs/120px-74LS08_TI_8022_annotated_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/a4/74LS08_TI_8022_annotated_120nmpp.jpg)
 [![](thumbs/120px-74LS08_TI_8022_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/5/53/74LS08_TI_8022_schematic.png)  
-[KiCad](kicad/74LS08%20TI%208022%20schematic) [PDF](pdf/74LS08_TI_8022_schematic.pdf) [datasheet](datasheet/74LS08_TI_datasheet.pdf)
+[KiCad](kicad/74LS08%20TI%208022%20schematic) [PDF](pdf/74LS08_TI_8022_schematic.pdf) [SVG](svg/74LS08%20TI%208022%20annotated%20inkscape.svg) [datasheet](datasheet/74LS08_TI_datasheet.pdf)
 
 ___
 #### 54AS08 Texas Instruments 8418
@@ -310,7 +310,7 @@ ___
 [![](thumbs/120px-74S11_SIG_8150_delayer_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/a6/74S11_SIG_8150_delayer_120nmpp.jpg)
 [![](thumbs/120px-74S11_SIG_8150_annotated_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b1/74S11_SIG_8150_annotated_120nmpp.jpg)
 [![](thumbs/120px-74S11_SIG_8150_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/7/77/74S11_SIG_8150_schematic.png)  
-[KiCad](kicad/74S11%20SIG%208150%20schematic) [PDF](pdf/74S11_SIG_8150_schematic.pdf) [datasheet](datasheet/74S11_Signetics_datasheet.pdf)
+[KiCad](kicad/74S11%20SIG%208150%20schematic) [PDF](pdf/74S11_SIG_8150_schematic.pdf) [SVG](svg/74S11%20SIG%208150%20annotated%20120nmpp.svg) [datasheet](datasheet/74S11_Signetics_datasheet.pdf)
 
 ___
 ### 13
@@ -323,7 +323,7 @@ ___
 [![](thumbs/120px-7413_TI_7348_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e9/7413_TI_7348_die_120nmpp.jpg)
 [![](thumbs/120px-7413_TI_7348_die_annotated_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/09/7413_TI_7348_die_annotated_120nmpp.jpg)
 [![](thumbs/120px-7413_TI_7348_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/5/5d/7413_TI_7348_schematic.png)  
-[KiCad](kicad/7413%20TI%207348%20schematic) [PDF](pdf/7413_TI_7348_schematic.pdf) [datasheet](datasheet/7413_TI_datasheet.pdf)
+[KiCad](kicad/7413%20TI%207348%20schematic) [PDF](pdf/7413_TI_7348_schematic.pdf) [SVG](svg/7413%20TI%207348%20die%20annotated%20120nmpp.svg) [datasheet](datasheet/7413_TI_datasheet.pdf)
 
 ___
 ### 14
@@ -337,7 +337,7 @@ ___
 [![](thumbs/120px-5414_TI_0410_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d5/5414_TI_0410_annotated.jpg)
 [![](thumbs/120px-5414_TI_0410_annotated_sm.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8a/5414_TI_0410_annotated_sm.jpg)
 [![](thumbs/120px-5414_TI_0410_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/e/e3/5414_TI_0410_schematic.png)  
-[KiCad](kicad/5414%20TI%200410%20schematic) [PDF](pdf/5414_TI_0410_schematic.pdf) [datasheet](datasheet/5414_TI_datasheet.pdf)
+[KiCad](kicad/5414%20TI%200410%20schematic) [PDF](pdf/5414_TI_0410_schematic.pdf) [SVG](svg/5414%20TI%200410%20annotated.svg) [datasheet](datasheet/5414_TI_datasheet.pdf)
 
 ___
 ### 20
@@ -382,7 +382,7 @@ ___
 [![](thumbs/120px-5430_TI_0413_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/53/5430_TI_0413_package_bottom.jpg)
 [![](thumbs/120px-5430_TI_0413_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/9b/5430_TI_0413_die_120nmpp.jpg)
 [![](thumbs/120px-5430_TI_0413_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c5/5430_TI_0413_annotated.jpg)  
-[datasheet](datasheet/5430_TI_datasheet.pdf)
+[SVG](svg/5430%20TI%200413%20annotated.svg) [datasheet](datasheet/5430_TI_datasheet.pdf)
 
 ___
 #### 54S30 Texas Instruments 8140
@@ -477,7 +477,8 @@ ___
 [![](thumbs/120px-7460_Sylvania_935_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/98/7460_Sylvania_935_package_top.jpg)
 [![](thumbs/120px-7460_Sylvania_935_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/66/7460_Sylvania_935_package_bottom.jpg)
 [![](thumbs/120px-7460_Sylvania_935_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c1/7460_Sylvania_935_die_120nmpp.jpg)
-[![](thumbs/120px-7460_Sylvania_935_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/df/7460_Sylvania_935_annotated.jpg)
+[![](thumbs/120px-7460_Sylvania_935_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/df/7460_Sylvania_935_annotated.jpg)  
+[SVG](svg/7460%20Sylvania%20935%20annotated.svg)
 
 ___
 ### 74
@@ -491,7 +492,7 @@ ___
 [![](thumbs/120px-5474_TI_0214_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b8/5474_TI_0214_annotated.jpg)
 [![](thumbs/120px-5474_TI_0214_annotated_sm.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/fd/5474_TI_0214_annotated_sm.jpg)
 [![](thumbs/120px-5474_TI_0214_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/f/f4/5474_TI_0214_schematic.png)  
-[KiCad](kicad/5474%20TI%200214%20schematic) [PDF](pdf/5474_TI_0214_schematic.pdf) [datasheet](datasheet/5474_TI_datasheet.pdf)
+[KiCad](kicad/5474%20TI%200214%20schematic) [PDF](pdf/5474_TI_0214_schematic.pdf) [SVG](svg/5474%20TI%200214%20annotated.svg) [datasheet](datasheet/5474_TI_datasheet.pdf)
 
 ___
 ### 76
@@ -505,7 +506,7 @@ ___
 [![](thumbs/120px-7476_NS_B077_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/48/7476_NS_B077_annotated.jpg)
 [![](thumbs/120px-7476_NS_B077_annotated_sm.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/63/7476_NS_B077_annotated_sm.jpg)
 [![](thumbs/120px-7476_NS_B077_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/0/09/7476_NS_B077_schematic.png)  
-[KiCad](kicad/7476%20NS%20B077%20schematic) [PDF](pdf/7476_NS_B077_schematic.pdf) [datasheet](datasheet/7476_NS_datasheet.pdf)
+[KiCad](kicad/7476%20NS%20B077%20schematic) [PDF](pdf/7476_NS_B077_schematic.pdf) [SVG](svg/7476%20NS%20B077%20annotated.svg) [datasheet](datasheet/7476_NS_datasheet.pdf)
 
 ___
 ### 81
@@ -581,7 +582,7 @@ ___
 [![](thumbs/120px-74125_TI_8035_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/de/74125_TI_8035_die_120nmpp.jpg)
 [![](thumbs/120px-74125_TI_8035_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/69/74125_TI_8035_annotated.jpg)
 [![](thumbs/120px-74125_TI_8035_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/b/b4/74125_TI_8035_schematic.png)  
-[KiCad](kicad/74125%20TI%208035%20schematic) [PDF](pdf/74125_TI_8035_schematic.pdf) [datasheet](datasheet/74125_TI_datasheet.pdf)
+[KiCad](kicad/74125%20TI%208035%20schematic) [PDF](pdf/74125_TI_8035_schematic.pdf) [SVG](svg/74125%20TI%208035%20annotated.svg) [datasheet](datasheet/74125_TI_datasheet.pdf)
 
 ___
 ### 141
@@ -596,7 +597,7 @@ ___
 [![](thumbs/120px-74141_TI_7437_annotated_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b2/74141_TI_7437_annotated_120nmpp.jpg)
 [![](thumbs/120px-74141_TI_7437_annotated_240nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/99/74141_TI_7437_annotated_240nmpp.jpg)
 [![](thumbs/120px-74141_TI_7437_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/f/f8/74141_TI_7437_schematic.png)  
-[KiCad](kicad/74141%20TI%207437%20schematic) [PDF](pdf/74141_TI_7437_schematic.pdf) [datasheet](datasheet/74141_TI_datasheet.pdf)
+[KiCad](kicad/74141%20TI%207437%20schematic) [PDF](pdf/74141_TI_7437_schematic.pdf) [SVG](svg/74141%20TI%207437%20annotated%20120nmpp.svg) [datasheet](datasheet/74141_TI_datasheet.pdf)
 
 ___
 ### 148
@@ -609,7 +610,7 @@ ___
 [![](thumbs/120px-74LS148_TI_8048_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e1/74LS148_TI_8048_die_120nmpp.jpg)
 [![](thumbs/120px-74LS148_TI_8048_die_120nmpp_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/72/74LS148_TI_8048_die_120nmpp_annotated.jpg)
 [![](thumbs/120px-74LS148_TI_8048_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/3/35/74LS148_TI_8048_schematic.png)  
-[KiCad](kicad/74LS148%20TI%208048%20schematic) [PDF](pdf/74LS148_TI_8048_schematic.pdf) [datasheet](datasheet/74LS148_TI_datasheet.pdf)
+[KiCad](kicad/74LS148%20TI%208048%20schematic) [PDF](pdf/74LS148_TI_8048_schematic.pdf) [SVG](svg/74LS148%20TI%208048%20die%20120nmpp%20annotated.svg) [datasheet](datasheet/74LS148_TI_datasheet.pdf)
 
 ___
 ### 150
@@ -646,7 +647,7 @@ ___
 [![](thumbs/120px-54163_TI_0423_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/63/54163_TI_0423_annotated.jpg)
 [![](thumbs/120px-54163_TI_0423_annotated_sm.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e2/54163_TI_0423_annotated_sm.jpg)
 [![](thumbs/120px-54163_TI_0423_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/7/7b/54163_TI_0423_schematic.png)  
-[KiCad](kicad/54163%20TI%200423%20schematic) [PDF](pdf/54163_TI_0423_schematic.pdf) [datasheet](datasheet/54163_TI_datasheet.pdf)
+[KiCad](kicad/54163%20TI%200423%20schematic) [PDF](pdf/54163_TI_0423_schematic.pdf) [SVG](svg/54163%20TI%200423%20annotated.svg) [datasheet](datasheet/54163_TI_datasheet.pdf)
 
 ___
 ### 164
@@ -693,7 +694,7 @@ ___
 [![](thumbs/120px-74S175_TI_7939_annotated_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/68/74S175_TI_7939_annotated_120nmpp.jpg)
 [![](thumbs/120px-74S175_TI_7939_annotated_240nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d4/74S175_TI_7939_annotated_240nmpp.jpg)
 [![](thumbs/120px-74S175_TI_7939_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/9/9f/74S175_TI_7939_schematic.png)  
-[KiCad](kicad/74S175%20TI%207939%20schematic) [PDF](pdf/74S175_TI_7939_schematic.pdf) [datasheet](datasheet/74S175_TI_datasheet.pdf)
+[KiCad](kicad/74S175%20TI%207939%20schematic) [PDF](pdf/74S175_TI_7939_schematic.pdf) [SVG](svg/74S175%20TI%207939%20annotated.svg) [datasheet](datasheet/74S175_TI_datasheet.pdf)
 
 ___
 ### 189
@@ -754,7 +755,7 @@ ___
 [![](thumbs/120px-74LS244_F_8314_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/12/74LS244_F_8314_annotated.jpg)
 [![](thumbs/120px-74LS244_F_8314_annotated_sm.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/6d/74LS244_F_8314_annotated_sm.jpg)
 [![](thumbs/120px-74LS244_F_8314_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/9/9a/74LS244_F_8314_schematic.png)  
-[KiCad](kicad/74LS244%20F%208314%20schematic) [PDF](pdf/74LS244_F_8314_schematic.pdf) [datasheet](datasheet/74LS244_Fairchild_datasheet.pdf)
+[KiCad](kicad/74LS244%20F%208314%20schematic) [PDF](pdf/74LS244_F_8314_schematic.pdf) [SVG](svg/74LS244%20F%208314%20annotated.svg) [datasheet](datasheet/74LS244_Fairchild_datasheet.pdf)
 
 ___
 ### 245
