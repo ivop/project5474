@@ -76,9 +76,9 @@ From Robert Baruch:
 
 > Once time is up, I fill the beaker with distilled water, then remove the chip with plastic tweezers. The concentration of hydrochloric acid is now about 0.3%, so I just dump it down the sink and run some water after it. Then I rinse with distilled water over the sink and then rinse with acetone to dry it off. Next, I examine the chip under a microscope to see if I was successful. If not, I go back to etching off the top glass and try again.
 
-Really stay away from using pure HF, unless you are absolutely sure what you are doing. It'll work faster, but is extremely dangerous  because it causes both severe local tissue destruction and life-threatening systemic fluoride poisoning. Unlike many other acids, fluoride ions penetrate deep into tissue and bind calcium and magnesium, which can disrupt heart rhythm and damage bone.
+Really stay away from using pure HF, unless you are absolutely sure what you are doing. It'll work faster, but is extremely dangerous  because it causes both severe local tissue destruction and life-threatening systemic fluoride poisoning. Unlike many other acids, fluoride ions penetrate deep into tissue and bind calcium and magnesium, which can damage bone and disrupt heart rhythm, leading to death.
 
-Using H2O2 + HCl to etch away metal is pretty safe. I have done it multiple times in the past and was my go-to-method for etching PCBs when before Chinese board houses appeared. It's clean. The amount of chlorine gas produced during delayering will be much lower than during the etching of a medium sized PCB. Still, do it outside!
+Using H2O2 + HCl to etch away metal is pretty safe. I have done it multiple times in the past and it was my go-to-method for etching PCBs when before Chinese board houses appeared. It's clean. The amount of chlorine gas produced during delayering will be much lower than during the etching of a medium sized PCB. Still, do it outside!
 
 ___
 ## Annotation
