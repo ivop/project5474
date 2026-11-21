@@ -84,7 +84,7 @@ ___
 ## Annotation
 
 Most pages on decapsulation around the internet focus on MOSFETs, and often specifically CMOS logic.
-When trying to understand Robert's traces, it took me a while to realize that most of the 74xx families (x,L,S,LS) are not build with MOSFETs at all, but they use NPN Bipolar Junction Transistors (BJT). Configured with the base and collector tied together they function like a diode.
+When trying to understand Robert's traces, it took me a while to realize that most of the 74xx families (x,L,S,LS) are not build with MOSFETs at all, but they use NPN [Bipolar Junction Transistors]( https://en.wikipedia.org/wiki/Bipolar_junction_transistor) (BJT). Configured with the base and collector tied together they function like a diode.
 
 Here's both of them captured in the same image (from 5406 TI 8615):
 
