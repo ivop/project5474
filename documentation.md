@@ -28,7 +28,9 @@ Steps:
 
 ## Imaging
 
-For imaging you need a metallurgic microscope with a decent camera attached, or you can use a DLSR camera with a metallurgic lens directly.
+For imaging you need a metallurgic microscope with a decent camera attached, or you can use a DLSR camera with a metallurgic objective directly.
+Budget "1000x" digital microscopes on Amazon and AliExpress will not suffice. They have poor (plastic) lenses, a small sensor (couple of MP if you are lucky)
+and curved view where the edges are blurry, which ruins stitching. They might work for a quick overview, not detailed inspection.
 
 Plan:
 * 10x 0.25 NA or 20x 0.40 NA metallurgic objective with a standard RMS thread (20.32mm)
