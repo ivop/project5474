@@ -13,8 +13,8 @@ ___
 Most methods are described in detail on [the siliconpr0n wiki](https://siliconpr0n.org/wiki/doku.php?id=decap:start).
 Note that many methods are **very dangerous**!
 If you still decide to work with H2SO4 or HNO3, make sure you use a fume hood.
-If you don't have access to one and decide to use strong acids anyway, go outside, and wear a _full face mask with acid gas cartridges_.
-A single drop in your eye may instantly blind you, and breathing in a even a whiff of the fumes can cause severe lung damage.
+If you don't have access to one and decide to use strong acids anyway, go outside, and still wear a _full face mask with acid gas cartridges_.
+A single drop in your eye may instantly blind you, and inhaling even a whiff of the fumes can cause severe lung damage.
 Even if you think you were safe, hours later you can still die of fluid buildup in your lungs (non-cardiogenic pulmonary edema).
 Be very careful!
 
