@@ -83,5 +83,14 @@ Using H2O2 + HCl to etch away metal is pretty safe. I have done it multiple time
 ___
 ## Annotation
 
+Most pages on decapsulation around the internet focus on MOSFETs, and often specifically CMOS logic.
+When trying to understand Robert's traces, it took me a while to realize that most of the 74xx families (x,L,S,LS) are not build with MOSFETs at all, but they use NPN [Bipolar Junction Transistors]( https://en.wikipedia.org/wiki/Bipolar_junction_transistor) (BJT). Configured with the base and collector tied together they function like a diode.
+
+Here's both of them captured in the same image (from 5406 TI 8615):
+
+<img src="BJT-1.png" width=256> &nbsp;&nbsp; <img src="BJT-2.png" width=256> &nbsp;&nbsp; <img src="BJT-3.png" width=256>
+
+Red is an N region and corresponds to the collector. Blue is a P region and corresponds to the base of the transistor. Green is an N region and corresponds to the emitter.
+
 ___
 ## Schematization
