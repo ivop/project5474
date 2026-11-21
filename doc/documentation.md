@@ -1,5 +1,13 @@
 # Reverse Engineering Documentation
 
+1. [Decapsulation](#decapsulation)
+2. [Imaging](#imaging)
+3. [Stitching](#stitching)
+4. [Delayering](#delayering)
+5. [Annotation](#annotation)
+6. [Schematization](#schematization)
+
+___
 ## Decapsulation
 
 Most methods are described in detail on [the siliconpr0n wiki](https://siliconpr0n.org/wiki/doku.php?id=decap:start).
@@ -26,6 +34,7 @@ Steps:
 * Rinse the die in lukewarm aceton. This dissolves the resin.
 * Depending on the amount of resin used, you can re-use it for a second or third decap.
 
+___
 ## Imaging
 
 For imaging you need a metallurgic microscope with a decent camera attached, or you can use a DLSR camera with a metallurgic objective directly.
@@ -41,6 +50,7 @@ Plan:
 * XY-Z micrometer stage
 * Maybe DIY coaxial beam splitter and LED flashlight
 
+___
 ## Stitching
 
 Use Hugin.
@@ -49,11 +59,13 @@ Because the microscope stage moves the flat silicon die beneath a stationary len
 Ensure your microscope tiles have 30% to 50% overlap and fixed manual exposure/white balance so Hugin can match repeating silicon structures.
 
 [Stitching Microscope image using Hugin](https://derekdvleung.wixsite.com/main/post/stitching-microscope-images-using-hugin)
- 
+
+___
 ## Delayering
 
 
-
+___
 ## Annotation
 
+___
 ## Schematization
