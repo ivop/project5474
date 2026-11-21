@@ -34,7 +34,7 @@ ___
 ( quad 2-input NAND gate )
 
 ___
-#### 5400 National Semiconductor 8838
+#### 5400 National Semiconductor 8020
 [![](thumbs/120px-Dm5400j-pack_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/6c/Dm5400j-pack_top.jpg)
 [![](thumbs/120px-Dm5400j-pack_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/7e/Dm5400j-pack_bottom.jpg)
 [![](thumbs/120px-National_semiconductor_dm5400j_8838_die_image.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/30/National_semiconductor_dm5400j_8838_die_image.jpg)
