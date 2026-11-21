@@ -92,5 +92,11 @@ Here's both of them captured in the same image (from 5406 TI 8615):
 
 Red is an N region and corresponds to the collector. Blue is a P region and corresponds to the base of the transistor. Green is an N region and corresponds to the emitter.
 
+Here's a cross-section:
+
+<img src="npn-bjt-cross-section.png" width=256>
+
+Baruch did not specifically draw the n+ region, but if you look closely, it's there in the original image.
+
 ___
 ## Schematization
