@@ -1,22 +1,19 @@
-# Procedure pages
+# Techniques
 
-How a chip goes from package to schematic.
+![A decapsulated ceramic chip, showing the die. The pins have been cut off or pulled off in preparation for imaging.](https://upload.wikimedia.org/wikipedia/commons/c/ce/Decapsulated_ceramic_chip.jpg)
 
-- [Techniques](techniques.md): overview of the whole process
-- [Heat](heat.md): decapsulating ceramic packages with a torch
-- [Delayering](delayering.md): removing glass and metal layers from the die
-- [Annotation](annotation.md): drawing vector annotations on die images
+*A decapsulated ceramic chip, showing the die. The pins have been cut off or pulled off in preparation for imaging.*
 
-## Missing information
+Getting from package to schematic goes something like this:
 
-These steps are referenced in [Techniques](techniques.md), but their pages were not recovered:
+* Decapsulating, either by [heat](heat.md) for ceramic packages, or by hot sulfuric acid for plastic packages.
+* Imaging to photograph the die.
+* Stitching to stitch together the images into one big image.
+* Often, [Delayering](delayering.md) to remove the glass and metal, if they obscure features, followed by another round of imaging.
+* [Annotation](annotation.md) of the images to determine the components and their connections.
+* Schematization, which is just using [KiCad](https://en.wikipedia.org/wiki/KiCad) to draw the schematic.
 
-- Hot sulfuric acid decapsulation (plastic packages): information is missing.
-- Imaging (photographing the die): information is missing.
-- Stitching (combining the images into one big image): information is missing.
-- Schematization (drawing the schematic in KiCad): information is missing.
+## See Also
 
-## Video
-
-- [Five-minute video about reverse-engineering chips](https://www.youtube.com/watch?v=r8Vq5NV4Ens)
-- [Video about heat decapsulation](https://www.youtube.com/watch?v=wnQ8Td1y_dM) (also linked in [Heat](heat.md))
+* My [five-minute video](https://www.youtube.com/watch?v=r8Vq5NV4Ens) about reverse-engineering chips.
+* My [video](https://www.patreon.com/posts/how-i-decap-ics-8670621) about hot acid decapsulation.
