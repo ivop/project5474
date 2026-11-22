@@ -58,11 +58,11 @@ But we can now see a problem: the contact that overlaps the base also overlaps t
 
 Schottky diodes are connected to NPN transistors with their anodes on the base and cathodes on the collector. This is convenient, since the N region forming the transistor's collector is the same as the N region forming the diode's cathode. The combination is a [Schottky transistor](https://en.wikipedia.org/wiki/Schottky_transistor). Such transistors do not go into saturation, and are used as faster logic switches. We annotate the Schottky barrier metal region as white. Because it is difficult to see, we normally set the Schottky layer to 100% opacity.
 
-![Left, the schematic for a Schottky-connected transistor. Right, the symbol for a Schottky transistor.](https://upload.wikimedia.org/wikipedia/commons/2/2f/Schottky_transistor_makeup.jpg)
+[![Left, the schematic for a Schottky-connected transistor. Right, the symbol for a Schottky transistor.](img/Schottky_transistor_makeup.jpeg)](https://upload.wikimedia.org/wikipedia/commons/2/2f/Schottky_transistor_makeup.jpg)
 
 The following image shows the full annotation for the transistor, including the metal layer and the transistor name.
 
-![Die photo of double emitter NPN Schottky transistor in a Signetics 54S00 chip after annotation. Red: collector, blue: base, green: emitters, black: contacts, yellow:metal, white: Schottky barrier.](https://upload.wikimedia.org/wikipedia/commons/d/d9/Die_photo_of_double_emitter_NPN_Schottky_transistor_after_annotation.jpg)
+[![Die photo of double emitter NPN Schottky transistor in a Signetics 54S00 chip after annotation. Red: collector, blue: base, green: emitters, black: contacts, yellow:metal, white: Schottky barrier.](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Die_photo_of_double_emitter_NPN_Schottky_transistor_after_annotation.jpg/250px-Die_photo_of_double_emitter_NPN_Schottky_transistor_after_annotation.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d9/Die_photo_of_double_emitter_NPN_Schottky_transistor_after_annotation.jpg)
 
 ## Diodes
 
