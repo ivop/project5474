@@ -14,13 +14,13 @@ Before seeing how these are solved, let's see what this looks like in a TTL chip
 
 Don't be fooled! This transistor is not meant to amplify. It simply acts as a bunch of diodes. Remember that an NPN transistor is two PN junctions, which are diodes. It's only the shared P region that makes it capable of amplifying, if connected the right way. Here, we stipulate that no current will be sent to the collector, only pulled from it, which reduces the transistor to its component diodes. This double-emitter transistor is actually an NP(NN) junction: it has two emitters inside the base region, each of which forms a PN junction, or a diode.
 
-![Diode equivalent of a double-emitter transistor acting as an AND gate](https://upload.wikimedia.org/wikipedia/commons/9/9e/Bare-transistor-and-diode-equiv.png)
+[![Diode equivalent of a double-emitter transistor acting as an AND gate](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Bare-transistor-and-diode-equiv.png/330px-Bare-transistor-and-diode-equiv.png)](https://upload.wikimedia.org/wikipedia/commons/9/9e/Bare-transistor-and-diode-equiv.png)
 
 It is essentially the same as a diode AND gate, with the exception of an extra diode on the output. Its function and problems do not change.
 
 So now let us amplify the current coming out of the collector. This allows us to use a high value of R1, presenting a high input impedance.
 
-![Double-emitter transistor acting as an AND gate followed by an open collector inverter](https://upload.wikimedia.org/wikipedia/commons/d/d5/Bare-transistor-nand.png)
+[![Double-emitter transistor acting as an AND gate followed by an open collector inverter](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Bare-transistor-nand.png/330px-Bare-transistor-nand.png)](https://upload.wikimedia.org/wikipedia/commons/d/d5/Bare-transistor-nand.png)
 
 Q2 will only be on if current is given to its base, which can only happen when both A and B are connected to VCC (or unconnected). However, no current can flow to the collector of Q2 unless it's hooked up to something! This is an open-collector output. It is essentially a short to ground when Q2 is on, and an open circuit when Q2 is off.
 
@@ -36,6 +36,6 @@ There are many other factors to consider than just the DC response. There are no
 
 Thus, we turn to the *[totem-pole output](https://en.wikipedia.org/wiki/Push%E2%80%93pull_output)* circuit. It requires two opposing signals which can be provided by a modification to Q2 above.
 
-![Simple TTL NAND gate, showing totem-pole output](https://upload.wikimedia.org/wikipedia/commons/d/df/Simple-ttl-nand.png)
+[![Simple TTL NAND gate, showing totem-pole output](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Simple-ttl-nand.png/330px-Simple-ttl-nand.png)](https://upload.wikimedia.org/wikipedia/commons/d/df/Simple-ttl-nand.png)
 
 Q2 is connected in a *phase-splitter* configuration, where it takes its input signal and outputs two opposing signals. The two output transistors, Q3 and Q4, are separated by a diode D1 to prevent both of them from turning on at the same time. They can also be bigger to provide more current capability. This circuit is good at both sourcing and sinking current.
