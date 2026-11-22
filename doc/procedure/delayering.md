@@ -2,7 +2,7 @@
 
 **Delayering** is the process of removing some of the layers from a die so that the layers below can be seen more clearly. Let's take a look at an example, a transistor from a 54S02 chip. On the left is the die immediately after decapping, while on the right is the die after delayering.
 
-![Transistor from a Texas Instruments 54S02 datecode 8341](https://upload.wikimedia.org/wikipedia/commons/9/9e/54S02_TI_8341_transistor.jpg) ![Delayered transistor from a Texas Instruments 54S02 datecode 8341](https://upload.wikimedia.org/wikipedia/commons/f/fb/54S02_TI_8341_transistor_delayered.jpg)
+[![Transistor from a Texas Instruments 54S02 datecode 8341](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/54S02_TI_8341_transistor.jpg/330px-54S02_TI_8341_transistor.jpg?download)](https://upload.wikimedia.org/wikipedia/commons/9/9e/54S02_TI_8341_transistor.jpg) [![Delayered transistor from a Texas Instruments 54S02 datecode 8341](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/54S02_TI_8341_transistor_delayered.jpg/330px-54S02_TI_8341_transistor_delayered.jpg?download)](https://upload.wikimedia.org/wikipedia/commons/f/fb/54S02_TI_8341_transistor_delayered.jpg)
 
 The delayered version shows us an aspect of the base that wasn't apparent in the first image. It's not a simple square, but a kind of T-shape. We might also have been fooled into thinking that the base encompasses the entire large rectangular contact. But we can now see that the contact touches both collector and base, which makes this a [Schottky transistor](https://en.wikipedia.org/wiki/Schottky_transistor). We can see that there's also some kind of indentation in the middle of the transistor. It could be the n+ buried layer.
 
