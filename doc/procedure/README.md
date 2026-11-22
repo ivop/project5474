@@ -12,8 +12,9 @@ Getting from package to schematic goes something like this:
 * Often, [Delayering](delayering.md) to remove the glass and metal, if they obscure features, followed by another round of imaging.
 * [Annotation](annotation.md) of the images to determine the components and their connections.
 * Schematization, which is just using [KiCad](https://en.wikipedia.org/wiki/KiCad) to draw the schematic.
+* [Understanding](understanding.md) the schematic.
+* Useful [databooks](databooks.md) on archive.org.
 
 ## See Also
 
 * My [five-minute video](https://www.youtube.com/watch?v=r8Vq5NV4Ens) about reverse-engineering chips.
-* My [video](https://www.patreon.com/posts/how-i-decap-ics-8670621) about hot acid decapsulation. (_broken, patreon site has also disappeared_)
