@@ -1,6 +1,6 @@
 # Annotation
 
-![Sample annotated die image for the National Semiconductor DM5400J.](https://upload.wikimedia.org/wikipedia/commons/0/08/National_semiconductor_dm5400j_8838_die_image_annotated.jpg)
+[![Sample annotated die image for the National Semiconductor DM5400J.](https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/National_semiconductor_dm5400j_8838_die_image_annotated.jpg/250px-National_semiconductor_dm5400j_8838_die_image_annotated.jpg?download)](https://upload.wikimedia.org/wikipedia/commons/0/08/National_semiconductor_dm5400j_8838_die_image_annotated.jpg)
 
 *Sample annotated die image for the National Semiconductor DM5400J.*
 
@@ -42,7 +42,7 @@ Often annotation begins with finding the **power pins** or with **pin 1**. Somet
 
 Here is an example of an NPN transistor with two emitters from a 54S00 chip. On the left is the die showing the top metal layer, and on the right is the same region [delayered](delayering.md) to show the structure underneath the metal.
 
-![Die photo of double emitter NPN transistor from a Signetics 54S00 chip.](https://upload.wikimedia.org/wikipedia/commons/8/8b/Die_photo_of_double_emitter_NPN_transistor.jpg) ![Die photo of double emitter NPN transistor from a Signetics 54S00 chip after delayering.](https://upload.wikimedia.org/wikipedia/commons/a/a7/Die_photo_of_double_emitter_NPN_transistor_after_delayering.jpg)
+[![Die photo of double emitter NPN transistor from a Signetics 54S00 chip.](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Die_photo_of_double_emitter_NPN_transistor.jpg/250px-Die_photo_of_double_emitter_NPN_transistor.jpg?download)](https://upload.wikimedia.org/wikipedia/commons/8/8b/Die_photo_of_double_emitter_NPN_transistor.jpg) [![Die photo of double emitter NPN transistor from a Signetics 54S00 chip after delayering.](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Die_photo_of_double_emitter_NPN_transistor_after_delayering.jpg/250px-Die_photo_of_double_emitter_NPN_transistor_after_delayering.jpg?download)](https://upload.wikimedia.org/wikipedia/commons/a/a7/Die_photo_of_double_emitter_NPN_transistor_after_delayering.jpg)
 
 The delayered image shows an outer irregularly-shaped region (collector), a square region within (base) and two small square regions inside that (emitters).
 
