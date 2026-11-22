@@ -46,7 +46,7 @@ Here is an example of an NPN transistor with two emitters from a 54S00 chip. On 
 
 The delayered image shows an outer irregularly-shaped region (collector), a square region within (base) and two small square regions inside that (emitters).
 
-![Die photo of double emitter NPN transistor from a Signetics 54S00 chip after delayering and annotation. The outer red region is the collector, the inner blue region is the base, and the two small green inner squares are the emitters.](https://upload.wikimedia.org/wikipedia/commons/2/2f/Die_photo_of_double_emitter_NPN_transistor_after_delayering_and_annotation.jpg)
+[![Die photo of double emitter NPN transistor from a Signetics 54S00 chip after delayering and annotation. The outer red region is the collector, the inner blue region is the base, and the two small green inner squares are the emitters.](img/Die_photo_of_double_emitter_NPN_transistor_after_delayering_and_annotation.jpeg)](https://upload.wikimedia.org/wikipedia/commons/2/2f/Die_photo_of_double_emitter_NPN_transistor_after_delayering_and_annotation.jpg)
 
 If you look carefully at the delayered image, there is actually a faint outline inside the outer region. In practice, we'll include the entire outer region as the collector, because it's not always clear what the faint region represents. It could be an n+ buried layer. Because we don't stain the doped regions, we just don't know and use our best guess.
 
