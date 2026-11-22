@@ -33,7 +33,6 @@ ___
 ### 00
 ( quad 2-input NAND gate )
 
-___
 | | 5400 |
 |---|---|
 | Manufacturer | National Semiconductor |
@@ -46,7 +45,6 @@ ___
 | Images | [![](thumbs/120px-Dm5400j-pack_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/6c/Dm5400j-pack_top.jpg) [![](thumbs/120px-Dm5400j-pack_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/7e/Dm5400j-pack_bottom.jpg) [![](thumbs/120px-National_semiconductor_dm5400j_8838_die_image.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/30/National_semiconductor_dm5400j_8838_die_image.jpg) [![](thumbs/120px-National_semiconductor_dm5400j_8838_die_image_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/08/National_semiconductor_dm5400j_8838_die_image_annotated.jpg) [![](thumbs/120px-5400_NS_8838_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/c/cb/5400_NS_8838_schematic.png) |
 | Files | [KiCad](kicad/5400%20NS%208838%20schematic) [PDF](pdf/National_semiconductor_dm5400j_8838_schematic.pdf) [SVG](svg/5400%20NS%208838.svg) [datasheet](datasheet/5400_NS_datasheet.pdf) |
 
-___
 | | 5400 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -58,7 +56,6 @@ ___
 | Images | [![](thumbs/120px-5400_TI_0421_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/f1/5400_TI_0421_package_top.jpg) [![](thumbs/120px-5400_TI_0421_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/91/5400_TI_0421_package_bottom.jpg) [![](thumbs/120px-5400_TI_0421_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/53/5400_TI_0421_die_120nmpp.jpg) [![](thumbs/120px-5400_TI_0421_delayer_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/df/5400_TI_0421_delayer_120nmpp.jpg) [![](thumbs/120px-5400_TI_0421_annotated_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/a2/5400_TI_0421_annotated_120nmpp.jpg) [![](thumbs/120px-5400_TI_0421_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/2/23/5400_TI_0421_schematic.png) |
 | Files | [KiCad](kicad/5400%20TI%200421%20schematic) [PDF](pdf/5400_TI_0421_schematic.pdf) [SVG](svg/5400%20TI%200421%20annotated%20120nmpp.svg) [datasheet](datasheet/5400_TI_datasheet.pdf) |
 
-___
 | | 7400 |
 |---|---|
 | Manufacturer | National Semiconductor |
@@ -70,7 +67,6 @@ ___
 | Images | [![](thumbs/120px-7400_NS_443_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/6e/7400_NS_443_package_top.jpg) [![](thumbs/120px-7400_NS_443_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c1/7400_NS_443_package_bottom.jpg) [![](thumbs/120px-7400_NS_443_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/f8/7400_NS_443_die_120nmpp.jpg) |
 | Files | [datasheet](datasheet/7400_NS_datasheet.pdf) |
 
-___
 | | 7400 |
 |---|---|
 | Manufacturer | Stewart-Warner |
@@ -81,7 +77,6 @@ ___
 | Bottom Markings | (illegible, but most likely "Philippines") |
 | Images | [![](thumbs/120px-7400_SW_7413_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/9f/7400_SW_7413_package_top.jpg) [![](thumbs/120px-7400_SW_7413_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/7f/7400_SW_7413_package_bottom.jpg) [![](thumbs/120px-7400_SW_7413_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/2e/7400_SW_7413_die_120nmpp.jpg) |
 
-___
 | | 54S00 |
 |---|---|
 | Manufacturer | Signetics |
@@ -93,7 +88,6 @@ ___
 | Images | [![](thumbs/120px-54s00-pack_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b8/54s00-pack_top.jpg) [![](thumbs/120px-54s00-pack_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/cb/54s00-pack_bottom.jpg) [![](thumbs/120px-Signetics_54S00_8716_die_image.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/de/Signetics_54S00_8716_die_image.jpg) [![](thumbs/120px-Signetics_54S00_8716_die_image_delayered.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b4/Signetics_54S00_8716_die_image_delayered.jpg) [![](thumbs/120px-Signetics_54S00_8716_die_image_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/15/Signetics_54S00_8716_die_image_annotated.jpg) [![](thumbs/120px-54S00_Signetics_8716_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/5/56/54S00_Signetics_8716_schematic.png) |
 | Files | [KiCad](kicad/54S00%20SIG%208716%20schematic) [PDF](pdf/Schematic_for_Signetics_54S00_datecode_8716.pdf) [SVG](svg/54S00%20Signetics%208716.svg) [datasheet](datasheet/54S00_Signetics_datasheet.pdf) |
 
-___
 | | 54AS00 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -105,7 +99,6 @@ ___
 | Images | [![](thumbs/120px-TI_54AS00_pack_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/13/TI_54AS00_pack_top.jpg) [![](thumbs/120px-TI_54AS00_pack_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/6d/TI_54AS00_pack_bottom.jpg) [![](thumbs/120px-Texas_Instruments_SN54AS00J_8747_die_image.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c5/Texas_Instruments_SN54AS00J_8747_die_image.jpg) [![](thumbs/120px-54AS00_TI_8747_delayer2.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/0b/54AS00_TI_8747_delayer2.jpg) [![](thumbs/120px-Texas_Instruments_SN54AS00J_8747_die_image_minus_top_glass.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/4a/Texas_Instruments_SN54AS00J_8747_die_image_minus_top_glass.jpg) |
 | Files | [datasheet](datasheet/54AS00_TI_datasheet.pdf) |
 
-___
 | | 74F00 |
 |---|---|
 | Manufacturer | Fairchild |
@@ -116,7 +109,6 @@ ___
 | Images | [![](thumbs/120px-74F00_F_8423_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/97/74F00_F_8423_package_top.jpg) [![](thumbs/120px-74F00_F_8423_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/aa/74F00_F_8423_package_bottom.jpg) [![](thumbs/120px-74F00_F_8423_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/93/74F00_F_8423_die_120nmpp.jpg) [![](thumbs/120px-74F00_F_8423_delayer_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/3e/74F00_F_8423_delayer_120nmpp.jpg) |
 | Files | [datasheet](datasheet/74F00_Fairchild_datasheet.pdf) |
 
-___
 | | 74F00 |
 |---|---|
 | Manufacturer | Motorola |
@@ -128,7 +120,6 @@ ___
 | Images | [![](thumbs/120px-74F00_Moto_8352_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c3/74F00_Moto_8352_package_top.jpg) [![](thumbs/120px-74F00_Moto_8352_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/36/74F00_Moto_8352_package_bottom.jpg) [![](thumbs/120px-74F00_Moto_8352_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/4f/74F00_Moto_8352_die_120nmpp.jpg) [![](thumbs/120px-74F00_Moto_8352_delayer_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c6/74F00_Moto_8352_delayer_120nmpp.jpg) |
 | Files | [datasheet](datasheet/74F00_Motorola_datasheet.pdf) |
 
-___
 | | 54HC00 |
 |---|---|
 | Manufacturer | National Semiconductor |
@@ -139,7 +130,6 @@ ___
 | Bottom Markings | LK3/H / /J2 |
 | Images | [![](thumbs/120px-54HC00_NS_8632_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/f2/54HC00_NS_8632_package_top.jpg) [![](thumbs/120px-54HC00_NS_8632_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8c/54HC00_NS_8632_package_bottom.jpg) [![](thumbs/120px-54HC00_NS_8632_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/99/54HC00_NS_8632_die_120nmpp.jpg) |
 
-___
 | | 74HCT00 |
 |---|---|
 | Manufacturer | Radio Corporation of America |
@@ -151,7 +141,6 @@ ___
 | Images | [![](thumbs/120px-74HCT00_RCA_419_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/bc/74HCT00_RCA_419_package_top.jpg) [![](thumbs/120px-74HCT00_RCA_419_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/02/74HCT00_RCA_419_package_bottom.jpg) [![](thumbs/120px-74HCT00_RCA_419_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/4b/74HCT00_RCA_419_die_120nmpp.jpg) |
 | Files | [datasheet](datasheet/54HC00_RCA_datasheet.pdf) |
 
-___
 | | 74AC00 |
 |---|---|
 | Manufacturer | Fairchild |
@@ -166,7 +155,6 @@ ___
 ### 01
 ( quad 2-input NAND gate, open-collector )
 
-___
 | | 74LS01 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -183,7 +171,6 @@ ___
 ### 02
 ( quad 2-input NOR gate )
 
-___
 | | 54S02 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -196,7 +183,6 @@ ___
 | Images | [![](thumbs/120px-54S02_TI_8341_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/98/54S02_TI_8341_package_top.jpg) [![](thumbs/120px-54S02_TI_8341_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/5c/54S02_TI_8341_package_bottom.jpg) [![](thumbs/120px-54S02_TI_8341.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/2d/54S02_TI_8341.jpg) [![](thumbs/120px-54S02_TI_8341_delayer.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d1/54S02_TI_8341_delayer.jpg) [![](thumbs/120px-54S02_TI_8341_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/2e/54S02_TI_8341_annotated.jpg) [![](thumbs/120px-54S02_TI_8341_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/8/81/54S02_TI_8341_schematic.png) [![](thumbs/120px-54S02_TI_8341_transistor.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/9e/54S02_TI_8341_transistor.jpg) [![](thumbs/120px-54S02_TI_8341_transistor_delayered.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/fb/54S02_TI_8341_transistor_delayered.jpg) |
 | Files | [KiCad](kicad/54S02%20TI%208341%20schematic) [PDF](pdf/54S02_TI_8341_schematic.pdf) [SVG](svg/54S02%20TI%208341.svg) [datasheet](datasheet/54S02_TI_datasheet.pdf) |
 
-___
 | | 54LS02 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -209,7 +195,6 @@ ___
 | Images | [![](thumbs/120px-54LS02_TI_8410_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/f8/54LS02_TI_8410_package_top.jpg) [![](thumbs/120px-54LS02_TI_8410_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/7b/54LS02_TI_8410_package_bottom.jpg) [![](thumbs/120px-54LS02_TI_8410.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/f7/54LS02_TI_8410.jpg) [![](thumbs/120px-54LS02_TI_8410_delayered.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/3a/54LS02_TI_8410_delayered.jpg) [![](thumbs/120px-54LS02_TI_8410_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/65/54LS02_TI_8410_annotated.jpg) [![](thumbs/120px-54LS02_TI_8410_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/e/ea/54LS02_TI_8410_schematic.png) |
 | Files | [KiCad](kicad/54LS02%20TI%208410%20schematic) [PDF](pdf/54LS02_TI_8410_schematic.pdf) [SVG](svg/54LS02%20TI%208410%20annotated.svg) [datasheet](datasheet/54LS02_TI_datasheet.pdf) |
 
-___
 | | 74HC02 |
 |---|---|
 | Manufacturer | Motorola |
@@ -226,7 +211,6 @@ ___
 ### 03
 ( quad 2-input NAND gate, open-collector )
 
-___
 | | 74S03 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -242,7 +226,6 @@ ___
 ### 04
 ( hex inverter gate )
 
-___
 | | 5404 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -254,7 +237,6 @@ ___
 | Images | [![](thumbs/120px-5404_TI_7426_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e6/5404_TI_7426_package_top.jpg) [![](thumbs/120px-5404_TI_7426_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8d/5404_TI_7426_package_bottom.jpg) [![](thumbs/120px-5404_TI_7426_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/46/5404_TI_7426_die_120nmpp.jpg) |
 | Files | [datasheet](datasheet/5404_TI_datasheet.pdf) |
 
-___
 | | 7404 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -266,7 +248,6 @@ ___
 | Images | [![](thumbs/120px-7404_TI_8005_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/07/7404_TI_8005_package_top.jpg) [![](thumbs/120px-7404_TI_8005_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/51/7404_TI_8005_package_bottom.jpg) [![](thumbs/120px-7404_TI_8005_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d3/7404_TI_8005_die_120nmpp.jpg) |
 | Files | [datasheet](datasheet/7404_TI_datasheet.pdf) |
 
-___
 | | 74L04 |
 |---|---|
 | Manufacturer | Unknown |
@@ -278,7 +259,6 @@ ___
 | Images | [![](thumbs/120px-74L04_UNK_7608_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/7c/74L04_UNK_7608_package_top.jpg) [![](thumbs/120px-74L04_UNK_7608_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/0f/74L04_UNK_7608_package_bottom.jpg) [![](thumbs/120px-74L04_UNK_7608.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/f5/74L04_UNK_7608.jpg) [![](thumbs/120px-74L04_UNK_7608_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/ab/74L04_UNK_7608_annotated.jpg) [![](thumbs/120px-74L04_UNK_7608_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/c/cc/74L04_UNK_7608_schematic.png) |
 | Files | [KiCad](kicad/74L04%20UNK%207608%20schematic) [PDF](pdf/74L04_UNK_7608_schematic.pdf) [SVG](svg/74L04%20UNK%207608.svg) |
 
-___
 | | 54AS04 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -294,7 +274,6 @@ ___
 ### 05
 ( hex inverter gate, open-collector )
 
-___
 | | 7405 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -310,7 +289,6 @@ ___
 ### 06
 ( hex inverter gate, open-collector )
 
-___
 | | 5406 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -327,7 +305,6 @@ ___
 ### 07
 ( hex buffer gate, open-collector )
 
-___
 | | 7407 |
 |---|---|
 | Manufacturer | Stewart-Warner |
@@ -342,7 +319,6 @@ ___
 ### 08
 ( quad 2-input AND gate )
 
-___
 | | 5408 |
 |---|---|
 | Manufacturer | National Semiconductor |
@@ -354,7 +330,6 @@ ___
 | Images | [![](thumbs/120px-5408_NS_9911_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/94/5408_NS_9911_package_top.jpg) [![](thumbs/120px-5408_NS_9911_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/84/5408_NS_9911_package_bottom.jpg) [![](thumbs/120px-5408_NS_9911_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/29/5408_NS_9911_die_120nmpp.jpg) |
 | Files | [datasheet](datasheet/5408_NS_datasheet.pdf) |
 
-___
 | | 74H08 |
 |---|---|
 | Manufacturer | National Semiconductor |
@@ -367,7 +342,6 @@ ___
 | Images | [![](thumbs/120px-74H08_NS_411_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8e/74H08_NS_411_package_top.jpg) [![](thumbs/120px-74H08_NS_411_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/76/74H08_NS_411_package_bottom.jpg) [![](thumbs/120px-74H08_NS_411.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/5b/74H08_NS_411.jpg) [![](thumbs/120px-74H08_NS_411_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/92/74H08_NS_411_annotated.jpg) [![](thumbs/120px-74H08_NS_411_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/a/ae/74H08_NS_411_schematic.png) |
 | Files | [KiCad](kicad/74H08%20NS%20411%20schematic) [PDF](pdf/74H08_NS_411_schematic.pdf) [SVG](svg/74H08%20NS%20411.svg) [datasheet](datasheet/74H08_NS_datasheet.pdf) |
 
-___
 | | 74LS08 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -380,7 +354,6 @@ ___
 | Images | [![](thumbs/120px-74LS08_TI_8022_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c8/74LS08_TI_8022_package_top.jpg) [![](thumbs/120px-74LS08_TI_8022_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/0d/74LS08_TI_8022_package_bottom.jpg) [![](thumbs/120px-74LS08_TI_8022_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/77/74LS08_TI_8022_die_120nmpp.jpg) [![](thumbs/120px-74LS08_TI_8022_delayer_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/38/74LS08_TI_8022_delayer_120nmpp.jpg) [![](thumbs/120px-74LS08_TI_8022_annotated_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/a4/74LS08_TI_8022_annotated_120nmpp.jpg) [![](thumbs/120px-74LS08_TI_8022_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/5/53/74LS08_TI_8022_schematic.png) |
 | Files | [KiCad](kicad/74LS08%20TI%208022%20schematic) [PDF](pdf/74LS08_TI_8022_schematic.pdf) [SVG](svg/74LS08%20TI%208022%20annotated%20inkscape.svg) [datasheet](datasheet/74LS08_TI_datasheet.pdf) |
 
-___
 | | 54AS08 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -396,7 +369,6 @@ ___
 ### 09
 ( quad 2-input AND gate, open-collector )
 
-___
 | | 74LS09 |
 |---|---|
 | Manufacturer | Signetics |
@@ -411,7 +383,6 @@ ___
 ### 10
 ( triple 3-input NAND gate )
 
-___
 | | 5410 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -423,7 +394,6 @@ ___
 | Images | [![](thumbs/120px-5410_TI_8850_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d7/5410_TI_8850_package_top.jpg) [![](thumbs/120px-5410_TI_8850_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/23/5410_TI_8850_package_bottom.jpg) [![](thumbs/120px-5410_TI_8850_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/96/5410_TI_8850_die_120nmpp.jpg) |
 | Files | [datasheet](datasheet/5410_TI_datasheet.pdf) |
 
-___
 | | 54ALS10 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -439,7 +409,6 @@ ___
 ### 11
 ( triple 3-input AND gate )
 
-___
 | | 74S11 |
 |---|---|
 | Manufacturer | Signetics |
@@ -456,7 +425,6 @@ ___
 ### 13
 ( dual 4-input NAND gate, Schmitt-trigger inputs )
 
-___
 | | 7413 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -473,7 +441,6 @@ ___
 ### 14
 ( hex inverter gate, Schmitt-trigger inputs )
 
-___
 | | 5414 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -488,7 +455,6 @@ ___
 ### 20
 ( dual 4-input NAND gate )
 
-___
 | | 5420 |
 |---|---|
 | Manufacturer | National Semiconductor |
@@ -503,7 +469,6 @@ ___
 ### 27
 ( triple 3-input NOR gate )
 
-___
 | | 5427 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -519,7 +484,6 @@ ___
 ### 28
 ( quad 2-input NOR gate, driver )
 
-___
 | | 54LS28 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -534,7 +498,6 @@ ___
 ### 30
 ( single 8-input NAND gate )
 
-___
 | | 5430 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -545,7 +508,6 @@ ___
 | Images | [![](thumbs/120px-5430_TI_0413_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/54/5430_TI_0413_package_top.jpg) [![](thumbs/120px-5430_TI_0413_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/53/5430_TI_0413_package_bottom.jpg) [![](thumbs/120px-5430_TI_0413_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/9b/5430_TI_0413_die_120nmpp.jpg) [![](thumbs/120px-5430_TI_0413_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c5/5430_TI_0413_annotated.jpg) |
 | Files | [SVG](svg/5430%20TI%200413%20annotated.svg) [datasheet](datasheet/5430_TI_datasheet.pdf) |
 
-___
 | | 54S30 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -561,7 +523,6 @@ ___
 ### 32
 ( quad 2-input OR gate )
 
-___
 | | 54AS32 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -573,7 +534,6 @@ ___
 | Images | [![](thumbs/120px-54AS32_TI_8704_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/63/54AS32_TI_8704_package_top.jpg) [![](thumbs/120px-54AS32_TI_8704_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/77/54AS32_TI_8704_package_bottom.jpg) [![](thumbs/120px-54AS32_TI_8704_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/0b/54AS32_TI_8704_die_120nmpp.jpg) |
 | Files | [datasheet](datasheet/54AS32_TI_datasheet.pdf) |
 
-___
 | | 54HC32 |
 |---|---|
 | Manufacturer | Radio Corporation of America |
@@ -588,7 +548,6 @@ ___
 ### 33
 ( quad 2-input NOR gate, open-collector driver )
 
-___
 | | 5433 |
 |---|---|
 | Manufacturer | Signetics |
@@ -604,7 +563,6 @@ ___
 ### 37
 ( quad 2-input NAND gate, driver )
 
-___
 | | 5437 |
 |---|---|
 | Manufacturer | Fairchild |
@@ -615,7 +573,6 @@ ___
 | Images | [![](thumbs/120px-5437_Fairchild_8032_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/bf/5437_Fairchild_8032_package_top.jpg) [![](thumbs/120px-5437_Fairchild_8032_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/9d/5437_Fairchild_8032_package_bottom.jpg) [![](thumbs/120px-5437_Fairchild_8032_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/ba/5437_Fairchild_8032_die_120nmpp.jpg) |
 | Files | [datasheet](datasheet/5437_Fairchild_datasheet.pdf) |
 
-___
 | | 54LS37 |
 |---|---|
 | Manufacturer | National Semiconductor |
@@ -631,7 +588,6 @@ ___
 ### 41
 ( BCD to decimal decoder / Nixie tube driver, open-collector )
 
-___
 | | 7441 |
 |---|---|
 | Manufacturer | Unknown |
@@ -644,7 +600,6 @@ ___
 ### 42
 ( BCD to decimal decoder )
 
-___
 | | 54LS42 |
 |---|---|
 | Manufacturer | Motorola |
@@ -659,7 +614,6 @@ ___
 ### 45
 ( BCD to decimal decoder/driver, open-collector )
 
-___
 | | 5445 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -674,7 +628,6 @@ ___
 ### 60
 ( dual 4-input expander for 74x23, 74x50, 74x53, 74x55 )
 
-___
 | | 7460 |
 |---|---|
 | Manufacturer | Sylvania |
@@ -689,7 +642,6 @@ ___
 ### 74
 ( dual D positive-edge-triggered flip-flop, asynchronous clear & preset, Q & /Q outputs )
 
-___
 | | 5474 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -705,7 +657,6 @@ ___
 ### 76
 ( dual J-K flip-flop, asynchronous preset and clear )
 
-___
 | | 7476 |
 |---|---|
 | Manufacturer | National Semiconductor |
@@ -721,7 +672,6 @@ ___
 ### 81
 ( 16-bit RAM )
 
-___
 | | 7481 |
 |---|---|
 | Manufacturer | International Telephone and Telegraph Corporation |
@@ -737,7 +687,6 @@ ___
 ### 90
 ( decade counter (separate divide-by-2 and divide-by-5 sections) )
 
-___
 | | 5490 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -749,7 +698,6 @@ ___
 | Images | [![](thumbs/120px-5490_TI_7536_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/34/5490_TI_7536_package_top.jpg) [![](thumbs/120px-5490_TI_7536_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/90/5490_TI_7536_package_bottom.jpg) [![](thumbs/120px-5490_TI_7536_die_325nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e5/5490_TI_7536_die_325nmpp.jpg) |
 | Files | [datasheet](datasheet/5490_TI_datasheet.pdf) |
 
-___
 | | 7490 |
 |---|---|
 | Manufacturer | Stewart-Warner |
@@ -763,7 +711,6 @@ ___
 ### 95
 ( 4-bit shift register, parallel in, parallel out, serial input )
 
-___
 | | 54LS95 |
 |---|---|
 | Manufacturer | Motorola |
@@ -779,7 +726,6 @@ ___
 ### 116
 ( dual 4-bit latch, clear )
 
-___
 | | 54116 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -795,7 +741,6 @@ ___
 ### 123
 ( dual retriggerable monostable multivibrator, clear )
 
-___
 | | 54LS123 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -811,7 +756,6 @@ ___
 ### 125
 ( quad bus buffer, negative enable, three-state )
 
-___
 | | 74125 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -828,7 +772,6 @@ ___
 ### 141
 ( BCD to decimal decoder/driver for cold-cathode indicator / Nixie tube, open-collector )
 
-___
 | | 74141 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -845,7 +788,6 @@ ___
 ### 148
 ( 8-line to 3-line priority encoder )
 
-___
 | | 74LS148 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -861,7 +803,6 @@ ___
 ### 150
 ( 16-line to 1-line data selector/multiplexer )
 
-___
 | | 74150 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -877,7 +818,6 @@ ___
 ### 157
 ( quad 2-line to 1-line data selector/multiplexer, non-inverting outputs )
 
-___
 | | 54S157 |
 |---|---|
 | Manufacturer | Signetics |
@@ -893,7 +833,6 @@ ___
 ### 163
 ( synchronous presettable 4-bit binary counter, synchronous clear )
 
-___
 | | 54163 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -909,7 +848,6 @@ ___
 ### 164
 ( 8-bit serial-in parallel-out (SIPO) shift register, asynchronous clear, not output latch )
 
-___
 | | 74LS164 |
 |---|---|
 | Manufacturer | Motorola |
@@ -925,7 +863,6 @@ ___
 ### 166
 ( parallel-load 8-bit shift register )
 
-___
 | | 74LS166 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -940,7 +877,6 @@ ___
 ### 170
 ( 16-bit register file (4x4), open-collector )
 
-___
 | | 54LS170 |
 |---|---|
 | Manufacturer | Unknown |
@@ -954,7 +890,6 @@ ___
 ### 175
 ( quad D edge-triggered flip-flop, shared clock and asynchronous clear, Q & /Q outputs )
 
-___
 | | 74S175 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -971,7 +906,6 @@ ___
 ### 189
 ( 64-bit RAM (16x4), 4 data inputs, 4 inverted data outputs, three-state )
 
-___
 | | 74LS189 (FAKE) |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -981,7 +915,6 @@ ___
 ### 219
 ( 64-bit RAM (16x4), non-inverting outputs, three-state )
 
-___
 | | 74F219 |
 |---|---|
 | Manufacturer | National Semiconductor |
@@ -996,7 +929,6 @@ ___
 ### 221
 ( dual monostable multivibrator )
 
-___
 | | 74LS221 |
 |---|---|
 | Manufacturer | Motorola |
@@ -1012,7 +944,6 @@ ___
 ### 240
 ( octal buffer, inverting outputs, three-state )
 
-___
 | | 74S240 |
 |---|---|
 | Manufacturer | Monolithic Memories, Inc. |
@@ -1028,7 +959,6 @@ ___
 ### 244
 ( octal buffer, non-inverting outputs, three-state )
 
-___
 | | 74LS244 |
 |---|---|
 | Manufacturer | Fairchild |
@@ -1043,7 +973,6 @@ ___
 ### 245
 ( octal bus transceiver, non-inverting outputs, three-state )
 
-___
 | | 74HCT245 |
 |---|---|
 | Manufacturer | Philips |
@@ -1058,7 +987,6 @@ ___
 ### 253
 ( dual 4-line to 1-line data selector/multiplexer, three-state )
 
-___
 | | 54LS253 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -1074,7 +1002,6 @@ ___
 ### 257
 ( quad 2-line to 1-line data selector/multiplexer, non-inverting outputs, three-state )
 
-___
 | | 54LS257 |
 |---|---|
 | Manufacturer | Advanced Micro Devices |
@@ -1090,7 +1017,6 @@ ___
 ### 273
 ( 8-bit register, asynchronous clear )
 
-___
 | | 54LS273 |
 |---|---|
 | Manufacturer | Fairchild |
@@ -1105,7 +1031,6 @@ ___
 ### 274
 ( 4-bit by 4-bit binary multiplier, three-state )
 
-___
 | | 74S274 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -1121,7 +1046,6 @@ ___
 ### 283
 ( 4-bit binary full adder (has carry in function) )
 
-___
 | | 54LS283 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -1137,7 +1061,6 @@ ___
 ### 362
 ( four-phase clock generator/driver for Texas Instruments TMS9900 )
 
-___
 | | 74LS362 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -1152,7 +1075,6 @@ ___
 ### 373
 ( octal transparent latch, three-state )
 
-___
 | | 74S373 |
 |---|---|
 | Manufacturer | Monolithic Memories, Inc. |
@@ -1168,7 +1090,6 @@ ___
 ### 390
 ( dual 4-bit decade counter, asynchronous clear )
 
-___
 | | 74390 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -1184,7 +1105,6 @@ ___
 ### 592
 ( 8-bit binary counter, input registers )
 
-___
 | | 54LS592 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -1200,7 +1120,6 @@ ___
 ### 688
 ( 8-bit magnitude comparator, enable )
 
-___
 | | 54LS688 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -1216,7 +1135,6 @@ ___
 ### 867
 ( synchronous 8-bit up/down counter, asynchronous clear )
 
-___
 | | 54AS867 |
 |---|---|
 | Manufacturer | Texas Instruments |
@@ -1232,7 +1150,6 @@ ___
 ### 942
 ( 300 baud Bell 103 modem (+/- 5 V supply) )
 
-___
 | | 74HC942 |
 |---|---|
 | Manufacturer | National Semiconductor |
