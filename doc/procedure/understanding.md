@@ -28,7 +28,7 @@ We could pull the collector up with a resistor to VCC, and this resistor can be 
 
 Let's wire this up in [LTspice](https://en.wikipedia.org/wiki/LTspice) using 2N3904 transistors and see what the analog response is.
 
-![LTspice inverter simulation](images/Ltspice-nand-1.jpg)
+( _Ltspice-nand-1.jpg is missing_ )
 
 In detail, the output crosses the input at around 0.75v. The output's minimum value is about 0.055v. The transition is also fairly sharp. So what's the problem? Why isn't this circuit used in the 7400 NAND gate chip?
 
