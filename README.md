@@ -3,6 +3,8 @@
 This project seeks to document 54xx/74xx-series logic chips and subfamilies by imaging and annotating their dies and tracing out their schematics.
 These chips usually have no more than 100 transistors, making them easy to understand.
 
+![cc-by-sa](cc-by-sa.png)
+
 **Original website by Robert C. Baruch, 2016-2021**  
 
 All chips were decapsulated, photographed, and, if applicable, traced by Robert C. Baruch, unless specified otherwise.
@@ -22,7 +24,9 @@ I have tried contacting Robert Baruch directly, but I received no response.
 Seeing all his websites disappeared and no updates on YouTube for years made me a bit sad.
 This repo makes it easy again to browse all his work in one place.
 
-![cc-by-sa](cc-by-sa.png)
+Here's what was recoverable of [Robert Baruch's notes](doc/procedure).
+
+And here are some of my own [musings on reverse engineering](doc).
 
 ___
 ## Devices
