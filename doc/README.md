@@ -63,22 +63,11 @@ Ensure your microscope tiles have 30% to 50% overlap and fixed manual exposure/w
 ___
 ## Delayering
 
-From Robert Baruch:
-
-> Delayering is the process of removing some of the layers from a die so that the layers below can be seen more clearly.
-> The first step is to **remove the top glass**. I use Armour Etch, which is a glass etchant available at my local art supply store. It comes as a white paste. It is normally used by applying a stencil to a sheet of glass, then spreading the paste around and letting it sit for a few minutes. Then the whole thing can be rinsed with water, and you have a nice frosted pattern on your glass. The way it works is by hydrofluoric acid (HF) reacting with glass (SiO2) to form silicon tetrafluoride gas (SiF4) and water. From glass to gas!
-
-> The stuff in Armour Etch is one step away from HF and also less concentrated, which makes it moderately safer to handle. You still don't want to get this stuff on your hands, but given that it's sold at art supply stores, it can't be too dangerous. Also, the amount of SiF4 gas released is small, considering we're dealing with a very small die.
-
-> I put a dab of Armour Etch with a cotton swab on the die, then let it sit for five minutes. Key to this is gently agitating the drop with the cotton swab every 30 seconds or so just to ensure the die is always exposed to fresh etchant. Not rubbing the die, but just moving the gel around. Then, I rinse with distilled water over the sink and then rinse with acetone to dry it off. Note that the amount of time varies, and five minutes is a minimum. Sometimes even twenty minutes or more must be used, depending on the thickness of the glass. Only examination afterwards with a microscope will let you know. Agitation doesn't have to be every 30 seconds, but try for at least five or six times over the course of delayering.
-
-> Once the top glass is removed, we can remove the metal layer. So far I have been successful with a solution of six parts of 3% hydrogen peroxide (H2O2) with one part 32% hydrochloric acid (HCl). I put the chip in a small beaker, add the hydrogen peroxide, then add the hydrochloric acid. Then I let it sit for fifteen minutes. I might swirl the beaker around about halfway through. Note that this releases chlorine gas, so do this outside or under a fume hood or in a fume chamber. 
-
-> Once time is up, I fill the beaker with distilled water, then remove the chip with plastic tweezers. The concentration of hydrochloric acid is now about 0.3%, so I just dump it down the sink and run some water after it. Then I rinse with distilled water over the sink and then rinse with acetone to dry it off. Next, I examine the chip under a microscope to see if I was successful. If not, I go back to etching off the top glass and try again.
+Check Robert Baruch's notes on [delayering](procedure/delayering.md)
 
 Really stay away from using pure HF, unless you are absolutely sure what you are doing. It'll work faster, but is extremely dangerous  because it causes both severe local tissue destruction and life-threatening systemic fluoride poisoning. Unlike many other acids, fluoride ions penetrate deep into tissue and bind calcium and magnesium, which can damage bone and disrupt heart rhythm, leading to death.
 
-Using H2O2 + HCl to etch away metal is pretty safe. I have done it multiple times in the past and it was my go-to-method for etching PCBs when before Chinese board houses appeared. It's clean. The amount of chlorine gas produced during delayering will be much lower than during the etching of a medium sized PCB. Still, do it outside!
+Using H2O2 + HCl to etch away metal is pretty safe. I have done it multiple times in the past and it was my go-to-method for etching PCBs before Chinese board houses appeared. It's clean. The amount of chlorine gas produced during delayering will be much lower than during the etching of a medium sized PCB. Still, do it outside!
 
 ___
 ## Annotation
