@@ -1,6 +1,6 @@
 # Techniques
 
-![A decapsulated ceramic chip, showing the die. The pins have been cut off or pulled off in preparation for imaging.](https://upload.wikimedia.org/wikipedia/commons/c/ce/Decapsulated_ceramic_chip.jpg)
+[![A decapsulated ceramic chip, showing the die. The pins have been cut off or pulled off in preparation for imaging.](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Decapsulated_ceramic_chip.jpg/330px-Decapsulated_ceramic_chip.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/ce/Decapsulated_ceramic_chip.jpg)
 
 *A decapsulated ceramic chip, showing the die. The pins have been cut off or pulled off in preparation for imaging.*
 
@@ -16,4 +16,4 @@ Getting from package to schematic goes something like this:
 ## See Also
 
 * My [five-minute video](https://www.youtube.com/watch?v=r8Vq5NV4Ens) about reverse-engineering chips.
-* My [video](https://www.patreon.com/posts/how-i-decap-ics-8670621) about hot acid decapsulation.
+* My [video](https://www.patreon.com/posts/how-i-decap-ics-8670621) about hot acid decapsulation. (_broken, patreon site has also disappeared_)
