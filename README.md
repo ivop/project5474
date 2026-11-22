@@ -611,6 +611,7 @@ ___
 | Decap Date | 2018-01-01 |
 | Package | Ceramic |
 | Top Markings | [Logo]SN54LS42J / KKEV9402 / KOREA |
+| IC Donated By | Mark Jeronimus |
 | Images | [![](thumbs/120px-54LS42_Moto_9402_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/68/54LS42_Moto_9402_package_top.jpg) [![](thumbs/120px-54LS42_Moto_9402_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b4/54LS42_Moto_9402_package_bottom.jpg) [![](thumbs/120px-54LS42_Moto_9402_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/70/54LS42_Moto_9402_die_120nmpp.jpg) |
 | Files | [datasheet](datasheet/54LS42_Motorola_datasheet.pdf) |
 
@@ -699,6 +700,7 @@ ___
 | Package | Ceramic |
 | Top Markings | T7536 / [Logo] / SN5490AJ |
 | Bottom Markings | 90BC 138T |
+| IC Donated By | Mark Jeronimus |
 | Images | [![](thumbs/120px-5490_TI_7536_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/34/5490_TI_7536_package_top.jpg) [![](thumbs/120px-5490_TI_7536_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/90/5490_TI_7536_package_bottom.jpg) [![](thumbs/120px-5490_TI_7536_die_325nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e5/5490_TI_7536_die_325nmpp.jpg) |
 | Files | [datasheet](datasheet/5490_TI_datasheet.pdf) |
 
@@ -709,6 +711,7 @@ ___
 | Decap Date | 2018-08-05 |
 | Package | Ceramic |
 | Top Markings | [Pin 1 marker] -T / SW / 7490 J / 7142 |
+| IC Donated By | Mark Jeronimus |
 | Images | [![](thumbs/120px-7490_SW_7142_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/9a/7490_SW_7142_package_top.jpg) [![](thumbs/120px-7490_SW_7142_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/02/7490_SW_7142_package_bottom.jpg) [![](thumbs/120px-7490_SW_7142_die_325nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/f1/7490_SW_7142_die_325nmpp.jpg) |
 
 ___
@@ -860,6 +863,7 @@ ___
 | Package | Plastic |
 | Top Markings | SN74LS164N / [Logo] RQ8434G |
 | Bottom Markings | ANJ / MALAYSIA / RHCAR / LS164 |
+| IC Donated By | Mark Jeronimus |
 | Images | [![](thumbs/120px-74LS164_Moto_8434_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/54/74LS164_Moto_8434_package_top.jpg) [![](thumbs/120px-74LS164_Moto_8434_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/41/74LS164_Moto_8434_package_bottom.jpg) [![](thumbs/120px-74LS164_Moto_8434_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/60/74LS164_Moto_8434_die_120nmpp.jpg) |
 | Files | [datasheet](datasheet/74LS164_Motorola_datasheet.pdf) |
 
@@ -941,6 +945,7 @@ ___
 | Package | Ceramic |
 | Top Markings | SN74LS221J / [Logo] 8443 |
 | Bottom Markings | PHIL / RLPCF |
+| IC Donated By | Mark Jeronimus |
 | Images | [![](thumbs/120px-74LS221_Moto_8443_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/95/74LS221_Moto_8443_package_top.jpg) [![](thumbs/120px-74LS221_Moto_8443_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d7/74LS221_Moto_8443_package_bottom.jpg) [![](thumbs/120px-74LS221_Moto_8443_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/03/74LS221_Moto_8443_die_120nmpp.jpg) [![](thumbs/120px-74LS221_Moto_8443_die_delayered_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/50/74LS221_Moto_8443_die_delayered_120nmpp.jpg) |
 | Files | [datasheet](datasheet/74LS221_Motorola_datasheet.pdf) |
 
@@ -956,6 +961,7 @@ ___
 | Package | Ceramic |
 | Top Markings | [Logo] SN74S240J / 8040 |
 | Bottom Markings | S240A |
+| IC Donated By | Mark Jeronimus |
 | Images | [![](thumbs/120px-74S240_MMI_8040_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/10/74S240_MMI_8040_package_top.jpg) [![](thumbs/120px-74S240_MMI_8040_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/4d/74S240_MMI_8040_package_bottom.jpg) [![](thumbs/120px-74S240_MMI_8040_die_325nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d8/74S240_MMI_8040_die_325nmpp.jpg) |
 | Files | [datasheet](datasheet/74S240_MMI_datasheet.pdf) |
 
@@ -984,6 +990,7 @@ ___
 | Decap Date | 2017-05-27 |
 | Package | Plastic |
 | Top Markings | [Logo] PC74HCT245P / 654650T / HSS8949 B Y |
+| IC Donated By | Mark Jeronimus |
 | Images | [![](thumbs/120px-74HCT245_PH_8949_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/77/74HCT245_PH_8949_package_top.jpg) [![](thumbs/120px-74HCT245_PH_8949_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e9/74HCT245_PH_8949_package_bottom.jpg) [![](thumbs/120px-74HCT245_PH_8949_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/aa/74HCT245_PH_8949_die_120nmpp.jpg) |
 | Files | [datasheet](datasheet/74HCT245_Philips_datasheet.pdf) |
 
@@ -999,6 +1006,7 @@ ___
 | Package | Ceramic |
 | Top Markings | 2DAS 9421 / TAIWAN [Logo] / [Pin 1 marker]SN54LS253J |
 | Bottom Markings | MBM |
+| IC Donated By | Mark Jeronimus |
 | Images | [![](thumbs/120px-54LS253_TI_9421_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/61/54LS253_TI_9421_package_top.jpg) [![](thumbs/120px-54LS253_TI_9421_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/ae/54LS253_TI_9421_package_bottom.jpg) [![](thumbs/120px-54LS253_TI_9421_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c9/54LS253_TI_9421_die_120nmpp.jpg) |
 | Files | [datasheet](datasheet/54LS253_TI_datasheet.pdf) |
 
@@ -1102,6 +1110,7 @@ ___
 | Package | Plastic |
 | Top Markings | Z7810 / [Logo] / SN74390N |
 | Bottom Markings | 74390 / BRAZIL / E |
+| IC Donated By | Mark Jeronimus |
 | Images | [![](thumbs/120px-74390_TI_7810_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b0/74390_TI_7810_package_top.jpg) [![](thumbs/120px-74390_TI_7810_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/e7/74390_TI_7810_package_bottom.jpg) [![](thumbs/120px-74390_TI_7810_die_235nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/62/74390_TI_7810_die_235nmpp.jpg) |
 | Files | [datasheet](datasheet/74390_TI_datasheet.pdf) |
 
