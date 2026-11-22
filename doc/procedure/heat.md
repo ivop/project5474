@@ -8,5 +8,4 @@ Heat can be used for decapping ceramic packages. I use a [MAPP gas](https://en.w
 
 ## Useful guides and references
 
-* [Blog post](http://www.halfbakedmaker.org/blog/hot-acid-decap) (_broken, halfbakedmaker.org disappeared, too_)
 * [Video](https://www.youtube.com/watch?v=wnQ8Td1y_dM)
