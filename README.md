@@ -146,7 +146,7 @@ ___
 | Date Code | 419 |
 | Decap Date | 2017-08-19 |
 | Package | Plastic |
-| Top Markings | CD74HCT00E / RCA H 491 |
+| Top Markings | CD74HCT00E / RCA H 419 |
 | Bottom Markings | 7AHER / B7300 |
 | Images | [![](thumbs/120px-74HCT00_RCA_419_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/bc/74HCT00_RCA_419_package_top.jpg) [![](thumbs/120px-74HCT00_RCA_419_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/02/74HCT00_RCA_419_package_bottom.jpg) [![](thumbs/120px-74HCT00_RCA_419_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/4b/74HCT00_RCA_419_die_120nmpp.jpg) |
 | Files | [datasheet](datasheet/54HC00_RCA_datasheet.pdf) |
@@ -358,7 +358,7 @@ ___
 | | 74H08 |
 |---|---|
 | Manufacturer | National Semiconductor |
-| Date Code | (8)411 |
+| Date Code | 411 |
 | Decap Date | 2017-03-28 |
 | Transistor Count | 28 |
 | Package | Plastic |
@@ -592,7 +592,7 @@ ___
 | | 5433 |
 |---|---|
 | Manufacturer | Signetics |
-| Date Code | 8022 |
+| Date Code | 8002 |
 | Decap Date | 2017-10-28 |
 | Package | Ceramic |
 | Top Markings | S5433F 8002E / [Logo] 883B |
@@ -917,7 +917,7 @@ ___
 | Decap Date | 2017-10-21 |
 | Package | Plastic |
 | Top Markings | SN74LS164N / [Logo] RQ8434G |
-| Bottom Markings | ANJ / MAYLASIA / RHCAR / LS164 |
+| Bottom Markings | ANJ / MALAYSIA / RHCAR / LS164 |
 | Images | [![](thumbs/120px-74LS164_Moto_8434_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/54/74LS164_Moto_8434_package_top.jpg) [![](thumbs/120px-74LS164_Moto_8434_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/41/74LS164_Moto_8434_package_bottom.jpg) [![](thumbs/120px-74LS164_Moto_8434_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/60/74LS164_Moto_8434_die_120nmpp.jpg) |
 | Files | [datasheet](datasheet/74LS164_Motorola_datasheet.pdf) |
 
@@ -1003,7 +1003,7 @@ ___
 | Date Code | 8443 |
 | Decap Date | 2018-11-17 |
 | Package | Ceramic |
-| Top Markings | SN74LS211J / [Logo] 8443 |
+| Top Markings | SN74LS221J / [Logo] 8443 |
 | Bottom Markings | PHIL / RLPCF |
 | Images | [![](thumbs/120px-74LS221_Moto_8443_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/95/74LS221_Moto_8443_package_top.jpg) [![](thumbs/120px-74LS221_Moto_8443_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d7/74LS221_Moto_8443_package_bottom.jpg) [![](thumbs/120px-74LS221_Moto_8443_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/03/74LS221_Moto_8443_die_120nmpp.jpg) [![](thumbs/120px-74LS221_Moto_8443_die_delayered_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/50/74LS221_Moto_8443_die_delayered_120nmpp.jpg) |
 | Files | [datasheet](datasheet/74LS221_Motorola_datasheet.pdf) |
