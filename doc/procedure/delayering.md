@@ -29,10 +29,10 @@ Once time is up, I fill the beaker with distilled water, then remove the chip wi
 
 Next, I examine the chip under a microscope to see if I was successful. If not, I go back to etching off the top glass and try again. Below is an incomplete glass etch, which resulted in some of the metal layer being completely unaffected.
 
-![Incomplete removal of the top glass layer on an integrated circuit die.](https://upload.wikimedia.org/wikipedia/commons/7/70/Incomplete_top_glass_etch.jpg)
+[![Incomplete removal of the top glass layer on an integrated circuit die.](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Incomplete_top_glass_etch.jpg/330px-Incomplete_top_glass_etch.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/70/Incomplete_top_glass_etch.jpg)
 
 ## Removing the rest of the glass
 
 Once the metal is gone, there will be glass under where the metal was. I do another run of Armour Etch to get rid of this glass. This may require several runs, depending on the thickness of the glass. Below is another incomplete glass etch. More time in Armour Etch resulted in a perfect delayered die.
 
-![Incomplete etching of the last glass layers on an integrated circuit die.](https://upload.wikimedia.org/wikipedia/commons/1/16/Incomplete_bottom_glass_etch.jpg)
+[![Incomplete etching of the last glass layers on an integrated circuit die.](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Incomplete_bottom_glass_etch.jpg/330px-Incomplete_bottom_glass_etch.jpg)](https://upload.wikimedia.org/wikipedia/commons/1/16/Incomplete_bottom_glass_etch.jpg)
