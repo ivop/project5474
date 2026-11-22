@@ -5,3 +5,4 @@ LTspice simulation of NAND
 Patreon video on decapsulation
 halfbakedmaker.org blog post on acid decap
 notes on sulfuric acid, imaging, stitching, and schematization
+Max Poliakovski 7400NS443 svgz and schematic zips

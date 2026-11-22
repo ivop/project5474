@@ -79,6 +79,7 @@ ___
 | Package | Plastic |
 | Top Markings | SW 7400-N / 7413 |
 | Bottom Markings | (illegible, but most likely "Philippines") |
+| IC Donated By | Ken Shirriff |
 | Images | [![](thumbs/120px-7400_SW_7413_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/9f/7400_SW_7413_package_top.jpg) [![](thumbs/120px-7400_SW_7413_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/7f/7400_SW_7413_package_bottom.jpg) [![](thumbs/120px-7400_SW_7413_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/2e/7400_SW_7413_die_120nmpp.jpg) |
 
 | | 54S00 |
@@ -260,6 +261,7 @@ ___
 | Transistor Count | 24 |
 | Package | Ceramic |
 | Top Markings | 74L04J / 7608 |
+| IC Donated By | Ken Shirriff |
 | Images | [![](thumbs/120px-74L04_UNK_7608_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/7c/74L04_UNK_7608_package_top.jpg) [![](thumbs/120px-74L04_UNK_7608_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/0f/74L04_UNK_7608_package_bottom.jpg) [![](thumbs/120px-74L04_UNK_7608.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/f5/74L04_UNK_7608.jpg) [![](thumbs/120px-74L04_UNK_7608_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/ab/74L04_UNK_7608_annotated.jpg) [![](thumbs/120px-74L04_UNK_7608_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/c/cc/74L04_UNK_7608_schematic.png) |
 | Files | [KiCad](kicad/74L04%20UNK%207608%20schematic) [PDF](pdf/74L04_UNK_7608_schematic.pdf) [SVG](svg/74L04%20UNK%207608.svg) |
 
@@ -317,6 +319,7 @@ ___
 | Package | Plastic |
 | Top Markings | SW / 7407-N / 7405 |
 | Bottom Markings | ASSY / PHILIPPINES |
+| IC Donated By | Ken Shirriff |
 | Images | [![](thumbs/120px-7407_SW_7405_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/01/7407_SW_7405_package_top.jpg) [![](thumbs/120px-7407_SW_7405_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/2a/7407_SW_7405_package_bottom.jpg) [![](thumbs/120px-7407_SW_7405_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/cc/7407_SW_7405_die_120nmpp.jpg) |
 
 ___
@@ -355,6 +358,7 @@ ___
 | Package | Ceramic |
 | Top Markings | TAIWAN 8022 BG / [Logo] / 1 SN74LS08J |
 | Bottom Markings | P33 |
+| IC Donated By | Ken Shirriff |
 | Images | [![](thumbs/120px-74LS08_TI_8022_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c8/74LS08_TI_8022_package_top.jpg) [![](thumbs/120px-74LS08_TI_8022_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/0d/74LS08_TI_8022_package_bottom.jpg) [![](thumbs/120px-74LS08_TI_8022_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/77/74LS08_TI_8022_die_120nmpp.jpg) [![](thumbs/120px-74LS08_TI_8022_delayer_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/38/74LS08_TI_8022_delayer_120nmpp.jpg) [![](thumbs/120px-74LS08_TI_8022_annotated_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/a4/74LS08_TI_8022_annotated_120nmpp.jpg) [![](thumbs/120px-74LS08_TI_8022_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/5/53/74LS08_TI_8022_schematic.png) |
 | Files | [KiCad](kicad/74LS08%20TI%208022%20schematic) [PDF](pdf/74LS08_TI_8022_schematic.pdf) [SVG](svg/74LS08%20TI%208022%20annotated%20inkscape.svg) [datasheet](datasheet/74LS08_TI_datasheet.pdf) |
 
@@ -598,6 +602,7 @@ ___
 | Date Code | Unknown |
 | Decap Date | 2017-10-22 |
 | Package | Plastic |
+| IC Donated By | Ken Shirriff |
 | Images | [![](thumbs/120px-7441_Unk_Unk_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/ce/7441_Unk_Unk_package_top.jpg) [![](thumbs/120px-7441_Unk_Unk_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/26/7441_Unk_Unk_package_bottom.jpg) [![](thumbs/120px-7441_Unk_Unk_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/d6/7441_Unk_Unk_die_120nmpp.jpg) |
 
 ___
@@ -670,6 +675,7 @@ ___
 | Transistor Count | 42 |
 | Package | Ceramic |
 | Top Markings | [Logo] JM385107 / 00204BEB 7547 / 27014 U.S.A. / (vertical)1526 / (superimposed)7476 / (superimposed)B077 |
+| IC Donated By | Ken Shirriff |
 | Images | [![](thumbs/120px-7476_NS_B077_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/06/7476_NS_B077_package_top.jpg) [![](thumbs/120px-7476_NS_B077_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/ad/7476_NS_B077_package_bottom.jpg) [![](thumbs/120px-7476_NS_B077.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/87/7476_NS_B077.jpg) [![](thumbs/120px-7476_NS_B077_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/48/7476_NS_B077_annotated.jpg) [![](thumbs/120px-7476_NS_B077_annotated_sm.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/63/7476_NS_B077_annotated_sm.jpg) [![](thumbs/120px-7476_NS_B077_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/0/09/7476_NS_B077_schematic.png) |
 | Files | [KiCad](kicad/7476%20NS%20B077%20schematic) [PDF](pdf/7476_NS_B077_schematic.pdf) [SVG](svg/7476%20NS%20B077%20annotated.svg) [datasheet](datasheet/7476_NS_datasheet.pdf) |
 
@@ -685,6 +691,7 @@ ___
 | Transistor Count | 48 |
 | Package | Plastic |
 | Top Markings | ITT / 7841N / 7238 |
+| IC Donated By | Ken Shirriff |
 | Images | [![](thumbs/120px-7481_ITT_7238_package_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/04/7481_ITT_7238_package_top.jpg) [![](thumbs/120px-7481_ITT_7238_package_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/a7/7481_ITT_7238_package_bottom.jpg) [![](thumbs/120px-7481_ITT_7238_die_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/70/7481_ITT_7238_die_120nmpp.jpg) [![](thumbs/120px-7481_ITT_7238_die_annotated_120nmpp.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/5c/7481_ITT_7238_die_annotated_120nmpp.jpg) [![](thumbs/120px-7481_ITT_7238_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/5/5d/7481_ITT_7238_schematic.png) |
 | Files | [PDF](pdf/7481_ITT_7238_schematic.pdf) |
 
