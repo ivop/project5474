@@ -85,7 +85,7 @@ Here's a cross-section:
 
 <img src="npn-bjt-cross-section.png" width=256>
 
-Baruch did not specifically draw the n+ region, but if you look closely, it's there in the original image.
+Baruch did not specifically draw the n+ region under the collector, but if you look closely, it's there in the original image.
 
 ___
 ## Schematization
