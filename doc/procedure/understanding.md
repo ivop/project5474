@@ -4,13 +4,13 @@ Certainly we can turn an [annotated die](annotation.md) into a schematic and cal
 
 To start our understanding of TTL, we will first start with [Diode logic](https://en.wikipedia.org/wiki/Diode_logic). Diode logic was used extensively in mid-20th century circuits to create cheap gates from cheap diodes. They come in two flavors, an AND gate and an OR gate. We will only look at the AND gate, since that is what TTL is based off of.
 
-![Diode-logic AND gate](https://upload.wikimedia.org/wikipedia/commons/d/dc/Diode-and.png)
+[![Diode-logic AND gate](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Diode-and.png/330px-Diode-and.png)](https://upload.wikimedia.org/wikipedia/commons/d/dc/Diode-and.png)
 
 If we consider VCC to be positive and to represent "1", while ground to represent "0", we can see that if either A or B is grounded, the output X will be one diode drop above ground. If both A and B are connected to VCC (or left unconnected), X will be pulled to VCC through R1. Since both inputs must be 1 for the output to be 1, this is an AND gate. It's not a very good one, though. If we connect an input to something that pulls down weakly, it could be overwhelmed by the current flowing from VCC, through R1, the diode, and the input. If we increase R1 to some unobjectionable value, the drive capability of X is reduced. Also, the diode drop causes a 0 output to be represented by about 0.7v rather than 0v, and this would just add up with more stages.
 
 Before seeing how these are solved, let's see what this looks like in a TTL chip.
 
-![Double-emitter transistor acting as an AND gate](https://upload.wikimedia.org/wikipedia/commons/1/1b/Bare-transistor-and.png)
+[![Double-emitter transistor acting as an AND gate](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Bare-transistor-and.png/330px-Bare-transistor-and.png)](https://upload.wikimedia.org/wikipedia/commons/1/1b/Bare-transistor-and.png)
 
 Don't be fooled! This transistor is not meant to amplify. It simply acts as a bunch of diodes. Remember that an NPN transistor is two PN junctions, which are diodes. It's only the shared P region that makes it capable of amplifying, if connected the right way. Here, we stipulate that no current will be sent to the collector, only pulled from it, which reduces the transistor to its component diodes. This double-emitter transistor is actually an NP(NN) junction: it has two emitters inside the base region, each of which forms a PN junction, or a diode.
 
