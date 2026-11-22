@@ -34,13 +34,16 @@ ___
 ( quad 2-input NAND gate )
 
 ___
-#### 5400 National Semiconductor 8020
-[![](thumbs/120px-Dm5400j-pack_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/6c/Dm5400j-pack_top.jpg)
-[![](thumbs/120px-Dm5400j-pack_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/7e/Dm5400j-pack_bottom.jpg)
-[![](thumbs/120px-National_semiconductor_dm5400j_8838_die_image.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/30/National_semiconductor_dm5400j_8838_die_image.jpg)
-[![](thumbs/120px-National_semiconductor_dm5400j_8838_die_image_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/08/National_semiconductor_dm5400j_8838_die_image_annotated.jpg)
-[![](thumbs/120px-5400_NS_8838_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/c/cb/5400_NS_8838_schematic.png)  
-[KiCad](kicad/5400%20NS%208838%20schematic) [PDF](pdf/National_semiconductor_dm5400j_8838_schematic.pdf) [SVG](svg/5400%20NS%208838.svg) [datasheet](datasheet/5400_NS_datasheet.pdf)
+| | 5400 |
+|---|---|
+| Manufacturer | National Semiconductor |
+| Date Code | 8020 |
+| Decap Date | 2017-03-04 |
+| Transistor Count | 16 |
+| Package | Ceramic |
+| Top Markings | [Logo] 8020 / DM5400J/8838 |
+| Images | [![](thumbs/120px-Dm5400j-pack_top.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/6c/Dm5400j-pack_top.jpg) [![](thumbs/120px-Dm5400j-pack_bottom.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/7e/Dm5400j-pack_bottom.jpg) [![](thumbs/120px-National_semiconductor_dm5400j_8838_die_image.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/30/National_semiconductor_dm5400j_8838_die_image.jpg) [![](thumbs/120px-National_semiconductor_dm5400j_8838_die_image_annotated.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/08/National_semiconductor_dm5400j_8838_die_image_annotated.jpg) [![](thumbs/120px-5400_NS_8838_schematic.png)](https://upload.wikimedia.org/wikipedia/commons/c/cb/5400_NS_8838_schematic.png) |
+| Files | [KiCad](kicad/5400%20NS%208838%20schematic) [PDF](pdf/National_semiconductor_dm5400j_8838_schematic.pdf) [SVG](svg/5400%20NS%208838.svg) [datasheet](datasheet/5400_NS_datasheet.pdf) |
 
 ___
 #### 5400 Texas Instruments 0421
