@@ -16,14 +16,14 @@ The stuff in Armour Etch is one step away from HF and also less concentrated, wh
 
 I put a dab of Armour Etch with a cotton swab on the die, then let it sit for five minutes. Key to this is gently agitating the drop with the cotton swab every 30 seconds or so just to ensure the die is always exposed to fresh etchant. Not rubbing the die, but just moving the gel around. Then, I rinse with distilled water over the sink and then rinse with acetone to dry it off. Note that the amount of time varies, and five minutes is a minimum. Sometimes even twenty minutes or more must be used, depending on the thickness of the glass. Only examination afterwards with a microscope will let you know. Agitation doesn't have to be every 30 seconds, but try for at least five or six times over the course of delayering.
 
-![Etching the top glass layer of an integrated circuit with Armour Etch](https://upload.wikimedia.org/wikipedia/commons/9/9f/Etching_the_top_glass_layer_of_an_integrated_circuit_with_Armour_Etch.jpg)
+[![Etching the top glass layer of an integrated circuit with Armour Etch](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Etching_the_top_glass_layer_of_an_integrated_circuit_with_Armour_Etch.jpg/250px-Etching_the_top_glass_layer_of_an_integrated_circuit_with_Armour_Etch.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/9f/Etching_the_top_glass_layer_of_an_integrated_circuit_with_Armour_Etch.jpg)
 
 ## Removing the metal layer
 
 Once the top glass is removed, we can remove the metal layer. So far I have been successful with a solution of six parts of 3% [hydrogen peroxide](https://en.wikipedia.org/wiki/hydrogen_peroxide)
 (H<sub>2</sub>O<sub>2</sub>) with one part 32% [hydrochloric acid](https://en.wikipedia.org/wiki/hydrochloric_acid) (HCl). I put the chip in a small beaker, add the hydrogen peroxide, then add the hydrochloric acid. Then I let it sit for fifteen minutes. I might swirl the beaker around about halfway through. Note that this releases chlorine gas, so do this outside or under a fume hood or in a fume chamber.
 
-![Removing the metal layer from an integrated circuit using a solution of 6 parts 3% hydrogen peroxide to one part 32% hydrochloric acid in a small teflon beaker.](https://upload.wikimedia.org/wikipedia/commons/5/54/Removing_the_metal_layer_from_an_integrated_circuit.jpg)
+[![Removing the metal layer from an integrated circuit using a solution of 6 parts 3% hydrogen peroxide to one part 32% hydrochloric acid in a small teflon beaker.](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Removing_the_metal_layer_from_an_integrated_circuit.jpg/250px-Removing_the_metal_layer_from_an_integrated_circuit.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/54/Removing_the_metal_layer_from_an_integrated_circuit.jpg)
 
 Once time is up, I fill the beaker with distilled water, then remove the chip with plastic tweezers. The concentration of hydrochloric acid is now about 0.3%, so I just dump it down the sink and run some water after it. Then I rinse with distilled water over the sink and then rinse with acetone to dry it off.
 
