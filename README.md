@@ -1,9 +1,9 @@
-# <img src="5474logo.jpg" width=96> Project 54/74
+# <img src="doc/5474logo.jpg" width=96> Project 54/74
 
 This project seeks to document 54xx/74xx-series logic chips and subfamilies by imaging and annotating their dies and tracing out their schematics.
 These chips usually have no more than 100 transistors, making them easy to understand.
 
-![cc-by-sa](cc-by-sa.png)
+![cc-by-sa](doc/cc-by-sa.png)
 
 **Original website by Robert C. Baruch, 2016-2021**  
 
