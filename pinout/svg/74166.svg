@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="290" viewBox="0 0 280.4 290.0" font-family="Latin Modern Mono, DejaVu Sans Mono, FreeMono, Courier, monospace">
+<path d="M95.2,12 H126.2 A14,14 0 0 0 154.2,12 H185.2 V278 H95.2 Z" fill="none" stroke="#000" stroke-width="2.5"/>
+<text transform="translate(140.2,145.0) rotate(-90)" text-anchor="middle" dominant-baseline="central" font-size="26.0" font-weight="bold" fill="#000">74166</text>
+<rect x="83.2" y="31.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="103.2" y="44" font-size="12" fill="#000">1</text>
+<text x="75.2" y="45" font-size="15" font-weight="normal" fill="#000" text-anchor="end">SER</text>
+<rect x="83.2" y="61.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="103.2" y="74" font-size="12" fill="#000">2</text>
+<text x="75.2" y="75" font-size="15" font-weight="normal" fill="#000" text-anchor="end">A</text>
+<rect x="83.2" y="91.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="103.2" y="104" font-size="12" fill="#000">3</text>
+<text x="75.2" y="105" font-size="15" font-weight="normal" fill="#000" text-anchor="end">B</text>
+<rect x="83.2" y="121.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="103.2" y="134" font-size="12" fill="#000">4</text>
+<text x="75.2" y="135" font-size="15" font-weight="normal" fill="#000" text-anchor="end">C</text>
+<rect x="83.2" y="151.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="103.2" y="164" font-size="12" fill="#000">5</text>
+<text x="75.2" y="165" font-size="15" font-weight="normal" fill="#000" text-anchor="end">D</text>
+<rect x="83.2" y="181.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="103.2" y="194" font-size="12" fill="#000">6</text>
+<text x="75.2" y="195" font-size="15" font-weight="normal" fill="#000" text-anchor="end">CLK INH</text>
+<rect x="83.2" y="211.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="103.2" y="224" font-size="12" fill="#000">7</text>
+<text x="75.2" y="225" font-size="15" font-weight="normal" fill="#000" text-anchor="end">CLK</text>
+<rect x="83.2" y="241.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="103.2" y="254" font-size="12" fill="#000">8</text>
+<text x="75.2" y="255" font-size="15" font-weight="bold" fill="#000" text-anchor="end">GND</text>
+<rect x="185.2" y="241.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="177.2" y="254" font-size="12" fill="#000" text-anchor="end">9</text>
+<text x="205.2" y="255" font-size="15" font-weight="normal" fill="#000" text-anchor="start">CLR</text>
+<line x1="205.2" y1="240.0" x2="232.3" y2="240.0" stroke="#000" stroke-width="1.4"/>
+<rect x="185.2" y="211.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="177.2" y="224" font-size="12" fill="#000" text-anchor="end">10</text>
+<text x="205.2" y="225" font-size="15" font-weight="normal" fill="#000" text-anchor="start">E</text>
+<rect x="185.2" y="181.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="177.2" y="194" font-size="12" fill="#000" text-anchor="end">11</text>
+<text x="205.2" y="195" font-size="15" font-weight="normal" fill="#000" text-anchor="start">F</text>
+<rect x="185.2" y="151.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="177.2" y="164" font-size="12" fill="#000" text-anchor="end">12</text>
+<text x="205.2" y="165" font-size="15" font-weight="normal" fill="#000" text-anchor="start">G</text>
+<rect x="185.2" y="121.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="177.2" y="134" font-size="12" fill="#000" text-anchor="end">13</text>
+<text x="205.2" y="135" font-size="15" font-weight="normal" fill="#000" text-anchor="start">QH</text>
+<rect x="185.2" y="91.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="177.2" y="104" font-size="12" fill="#000" text-anchor="end">14</text>
+<text x="205.2" y="105" font-size="15" font-weight="normal" fill="#000" text-anchor="start">H</text>
+<rect x="185.2" y="61.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="177.2" y="74" font-size="12" fill="#000" text-anchor="end">15</text>
+<text x="205.2" y="75" font-size="15" font-weight="normal" fill="#000" text-anchor="start">SH/LD</text>
+<rect x="185.2" y="31.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="177.2" y="44" font-size="12" fill="#000" text-anchor="end">16</text>
+<text x="205.2" y="45" font-size="15" font-weight="bold" fill="#000" text-anchor="start">VCC</text>
+</svg>

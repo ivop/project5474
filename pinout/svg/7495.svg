@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="461" height="260" viewBox="0 0 461.0 260.0" font-family="Latin Modern Mono, DejaVu Sans Mono, FreeMono, Courier, monospace">
+<path d="M185.5,12 H216.5 A14,14 0 0 0 244.5,12 H275.5 V248 H185.5 Z" fill="none" stroke="#000" stroke-width="2.5"/>
+<text transform="translate(230.5,130.0) rotate(-90)" text-anchor="middle" dominant-baseline="central" font-size="26.0" font-weight="bold" fill="#000">7495</text>
+<rect x="173.5" y="31.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="193.5" y="44" font-size="12" fill="#000">1</text>
+<text x="165.5" y="45" font-size="15" font-weight="normal" fill="#000" text-anchor="end">SER</text>
+<rect x="173.5" y="61.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="193.5" y="74" font-size="12" fill="#000">2</text>
+<text x="165.5" y="75" font-size="15" font-weight="normal" fill="#000" text-anchor="end">A</text>
+<rect x="173.5" y="91.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="193.5" y="104" font-size="12" fill="#000">3</text>
+<text x="165.5" y="105" font-size="15" font-weight="normal" fill="#000" text-anchor="end">B</text>
+<rect x="173.5" y="121.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="193.5" y="134" font-size="12" fill="#000">4</text>
+<text x="165.5" y="135" font-size="15" font-weight="normal" fill="#000" text-anchor="end">C</text>
+<rect x="173.5" y="151.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="193.5" y="164" font-size="12" fill="#000">5</text>
+<text x="165.5" y="165" font-size="15" font-weight="normal" fill="#000" text-anchor="end">D</text>
+<rect x="173.5" y="181.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="193.5" y="194" font-size="12" fill="#000">6</text>
+<text x="165.5" y="195" font-size="15" font-weight="normal" fill="#000" text-anchor="end">MODE</text>
+<rect x="173.5" y="211.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="193.5" y="224" font-size="12" fill="#000">7</text>
+<text x="165.5" y="225" font-size="15" font-weight="bold" fill="#000" text-anchor="end">GND</text>
+<rect x="275.5" y="211.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="267.5" y="224" font-size="12" fill="#000" text-anchor="end">8</text>
+<text x="295.5" y="225" font-size="15" font-weight="normal" fill="#000" text-anchor="start">CLK2 / LSH / Load</text>
+<rect x="275.5" y="181.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="267.5" y="194" font-size="12" fill="#000" text-anchor="end">9</text>
+<text x="295.5" y="195" font-size="15" font-weight="normal" fill="#000" text-anchor="start">CLK1 / RSH</text>
+<rect x="275.5" y="151.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="267.5" y="164" font-size="12" fill="#000" text-anchor="end">10</text>
+<text x="295.5" y="165" font-size="15" font-weight="normal" fill="#000" text-anchor="start">QD</text>
+<rect x="275.5" y="121.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="267.5" y="134" font-size="12" fill="#000" text-anchor="end">11</text>
+<text x="295.5" y="135" font-size="15" font-weight="normal" fill="#000" text-anchor="start">QC</text>
+<rect x="275.5" y="91.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="267.5" y="104" font-size="12" fill="#000" text-anchor="end">12</text>
+<text x="295.5" y="105" font-size="15" font-weight="normal" fill="#000" text-anchor="start">QB</text>
+<rect x="275.5" y="61.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="267.5" y="74" font-size="12" fill="#000" text-anchor="end">13</text>
+<text x="295.5" y="75" font-size="15" font-weight="normal" fill="#000" text-anchor="start">QA</text>
+<rect x="275.5" y="31.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="267.5" y="44" font-size="12" fill="#000" text-anchor="end">14</text>
+<text x="295.5" y="45" font-size="15" font-weight="bold" fill="#000" text-anchor="start">VCC</text>
+</svg>

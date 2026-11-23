@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="208" height="260" viewBox="0 0 208.2 260.0" font-family="Latin Modern Mono, DejaVu Sans Mono, FreeMono, Courier, monospace">
+<path d="M59.1,12 H90.1 A14,14 0 0 0 118.1,12 H149.1 V248 H59.1 Z" fill="none" stroke="#000" stroke-width="2.5"/>
+<text transform="translate(104.1,130.0) rotate(-90)" text-anchor="middle" dominant-baseline="central" font-size="26.0" font-weight="bold" fill="#000">7410</text>
+<rect x="47.1" y="31.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="67.1" y="44" font-size="12" fill="#000">1</text>
+<text x="39.1" y="45" font-size="15" font-weight="normal" fill="#000" text-anchor="end">1A</text>
+<rect x="47.1" y="61.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="67.1" y="74" font-size="12" fill="#000">2</text>
+<text x="39.1" y="75" font-size="15" font-weight="normal" fill="#000" text-anchor="end">1B</text>
+<rect x="47.1" y="91.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="67.1" y="104" font-size="12" fill="#000">3</text>
+<text x="39.1" y="105" font-size="15" font-weight="normal" fill="#000" text-anchor="end">2A</text>
+<rect x="47.1" y="121.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="67.1" y="134" font-size="12" fill="#000">4</text>
+<text x="39.1" y="135" font-size="15" font-weight="normal" fill="#000" text-anchor="end">2B</text>
+<rect x="47.1" y="151.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="67.1" y="164" font-size="12" fill="#000">5</text>
+<text x="39.1" y="165" font-size="15" font-weight="normal" fill="#000" text-anchor="end">2C</text>
+<rect x="47.1" y="181.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="67.1" y="194" font-size="12" fill="#000">6</text>
+<text x="39.1" y="195" font-size="15" font-weight="normal" fill="#000" text-anchor="end">2Y</text>
+<rect x="47.1" y="211.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="67.1" y="224" font-size="12" fill="#000">7</text>
+<text x="39.1" y="225" font-size="15" font-weight="bold" fill="#000" text-anchor="end">GND</text>
+<rect x="149.1" y="211.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="141.1" y="224" font-size="12" fill="#000" text-anchor="end">8</text>
+<text x="169.1" y="225" font-size="15" font-weight="normal" fill="#000" text-anchor="start">3Y</text>
+<rect x="149.1" y="181.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="141.1" y="194" font-size="12" fill="#000" text-anchor="end">9</text>
+<text x="169.1" y="195" font-size="15" font-weight="normal" fill="#000" text-anchor="start">3A</text>
+<rect x="149.1" y="151.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="141.1" y="164" font-size="12" fill="#000" text-anchor="end">10</text>
+<text x="169.1" y="165" font-size="15" font-weight="normal" fill="#000" text-anchor="start">3B</text>
+<rect x="149.1" y="121.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="141.1" y="134" font-size="12" fill="#000" text-anchor="end">11</text>
+<text x="169.1" y="135" font-size="15" font-weight="normal" fill="#000" text-anchor="start">3C</text>
+<rect x="149.1" y="91.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="141.1" y="104" font-size="12" fill="#000" text-anchor="end">12</text>
+<text x="169.1" y="105" font-size="15" font-weight="normal" fill="#000" text-anchor="start">1Y</text>
+<rect x="149.1" y="61.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="141.1" y="74" font-size="12" fill="#000" text-anchor="end">13</text>
+<text x="169.1" y="75" font-size="15" font-weight="normal" fill="#000" text-anchor="start">1C</text>
+<rect x="149.1" y="31.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="141.1" y="44" font-size="12" fill="#000" text-anchor="end">14</text>
+<text x="169.1" y="45" font-size="15" font-weight="bold" fill="#000" text-anchor="start">VCC</text>
+</svg>

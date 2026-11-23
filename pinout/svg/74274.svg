@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="298" height="350" viewBox="0 0 298.5 350.0" font-family="Latin Modern Mono, DejaVu Sans Mono, FreeMono, Courier, monospace">
+<path d="M104.2,12 H135.2 A14,14 0 0 0 163.2,12 H194.2 V338 H104.2 Z" fill="none" stroke="#000" stroke-width="2.5"/>
+<text transform="translate(149.2,175.0) rotate(-90)" text-anchor="middle" dominant-baseline="central" font-size="26.0" font-weight="bold" fill="#000">74274</text>
+<rect x="92.2" y="31.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="112.2" y="44" font-size="12" fill="#000">1</text>
+<text x="84.2" y="45" font-size="15" font-weight="normal" fill="#000" text-anchor="end">A2^n</text>
+<rect x="92.2" y="61.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="112.2" y="74" font-size="12" fill="#000">2</text>
+<text x="84.2" y="75" font-size="15" font-weight="normal" fill="#000" text-anchor="end">A2^n+1</text>
+<rect x="92.2" y="91.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="112.2" y="104" font-size="12" fill="#000">3</text>
+<text x="84.2" y="105" font-size="15" font-weight="normal" fill="#000" text-anchor="end">A2^n+2</text>
+<rect x="92.2" y="121.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="112.2" y="134" font-size="12" fill="#000">4</text>
+<text x="84.2" y="135" font-size="15" font-weight="normal" fill="#000" text-anchor="end">A2^n+3</text>
+<rect x="92.2" y="151.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="112.2" y="164" font-size="12" fill="#000">5</text>
+<text x="84.2" y="165" font-size="15" font-weight="normal" fill="#000" text-anchor="end">B2^n</text>
+<rect x="92.2" y="181.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="112.2" y="194" font-size="12" fill="#000">6</text>
+<text x="84.2" y="195" font-size="15" font-weight="normal" fill="#000" text-anchor="end">A*B2^n</text>
+<rect x="92.2" y="211.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="112.2" y="224" font-size="12" fill="#000">7</text>
+<text x="84.2" y="225" font-size="15" font-weight="normal" fill="#000" text-anchor="end">A*B2^n+1</text>
+<rect x="92.2" y="241.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="112.2" y="254" font-size="12" fill="#000">8</text>
+<text x="84.2" y="255" font-size="15" font-weight="normal" fill="#000" text-anchor="end">A*B2^n+2</text>
+<rect x="92.2" y="271.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="112.2" y="284" font-size="12" fill="#000">9</text>
+<text x="84.2" y="285" font-size="15" font-weight="normal" fill="#000" text-anchor="end">A*B2^n+3</text>
+<rect x="92.2" y="301.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="112.2" y="314" font-size="12" fill="#000">10</text>
+<text x="84.2" y="315" font-size="15" font-weight="bold" fill="#000" text-anchor="end">GND</text>
+<rect x="194.2" y="301.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="186.2" y="314" font-size="12" fill="#000" text-anchor="end">11</text>
+<text x="214.2" y="315" font-size="15" font-weight="normal" fill="#000" text-anchor="start">A*B2^n+4</text>
+<rect x="194.2" y="271.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="186.2" y="284" font-size="12" fill="#000" text-anchor="end">12</text>
+<text x="214.2" y="285" font-size="15" font-weight="normal" fill="#000" text-anchor="start">A*B2^n+5</text>
+<rect x="194.2" y="241.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="186.2" y="254" font-size="12" fill="#000" text-anchor="end">13</text>
+<text x="214.2" y="255" font-size="15" font-weight="normal" fill="#000" text-anchor="start">A*B2^n+6</text>
+<rect x="194.2" y="211.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="186.2" y="224" font-size="12" fill="#000" text-anchor="end">14</text>
+<text x="214.2" y="225" font-size="15" font-weight="normal" fill="#000" text-anchor="start">A*B2^n+7</text>
+<rect x="194.2" y="181.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="186.2" y="194" font-size="12" fill="#000" text-anchor="end">15</text>
+<text x="214.2" y="195" font-size="15" font-weight="normal" fill="#000" text-anchor="start">G1</text>
+<line x1="214.2" y1="180.0" x2="232.3" y2="180.0" stroke="#000" stroke-width="1.4"/>
+<rect x="194.2" y="151.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="186.2" y="164" font-size="12" fill="#000" text-anchor="end">16</text>
+<text x="214.2" y="165" font-size="15" font-weight="normal" fill="#000" text-anchor="start">G2</text>
+<line x1="214.2" y1="150.0" x2="232.3" y2="150.0" stroke="#000" stroke-width="1.4"/>
+<rect x="194.2" y="121.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="186.2" y="134" font-size="12" fill="#000" text-anchor="end">17</text>
+<text x="214.2" y="135" font-size="15" font-weight="normal" fill="#000" text-anchor="start">B2^n+1</text>
+<rect x="194.2" y="91.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="186.2" y="104" font-size="12" fill="#000" text-anchor="end">18</text>
+<text x="214.2" y="105" font-size="15" font-weight="normal" fill="#000" text-anchor="start">B2^n+2</text>
+<rect x="194.2" y="61.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="186.2" y="74" font-size="12" fill="#000" text-anchor="end">19</text>
+<text x="214.2" y="75" font-size="15" font-weight="normal" fill="#000" text-anchor="start">B2^n+3</text>
+<rect x="194.2" y="31.0" width="12" height="18" fill="none" stroke="#000" stroke-width="2"/>
+<text x="186.2" y="44" font-size="12" fill="#000" text-anchor="end">20</text>
+<text x="214.2" y="45" font-size="15" font-weight="bold" fill="#000" text-anchor="start">VCC</text>
+</svg>
