@@ -12,7 +12,7 @@ All chips were decapsulated, photographed, and, if applicable, traced by Robert 
 **Revived by Ivo van Poorten, 2026-**  
 
 Almost everything has been found by using archive.org, siliconpr0n.org scrape tarball, Wikimedia Commons, and Google search.
-See [missing.txt](missing.txt) for what's still missing.
+See [doc/missing.txt](doc/missing.txt) for what's still missing.
 Image thumbnails link to (very) large images hosted by Wikimedia Commons.
 All manually collected datasheets, KiCad projects, schematic PDFs, and SVG trace files are hosted locally.
 
