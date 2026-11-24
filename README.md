@@ -28,6 +28,10 @@ Here's what was recoverable of [Robert Baruch's notes](doc/procedure).
 
 And here are some of my own [musings on reverse engineering](doc).
 
+Recent additions:
+* new pinout diagrams
+* 7405 TI 7130 annotation plus schematic
+
 ## Devices
 
 [00](devices/00.md) - quad 2-input NAND gate  
