@@ -93,5 +93,16 @@ An example of my 5420 NS 8830 annotation:
 
 Maroon (dark red) is the n-well, bright red is the n+ collector region. Blue is the p-well, which is the base of the transistor, and green are four n+ emitter regions.
 
+Diodes are not necessarily a full transistor with base and collector tied together. Below is a separate p-well to create a P-N junction. The n+ region is shared with the transistor:
+
+<img src="BJT+Diode-1.png" width=256> &nbsp;&nbsp; <img src="BJT+Diode-2.png" width=256> &nbsp;&nbsp; <img src="BJT+Diode-3.png" width=256>
+
+In the 5420 die, resistors are formed as p-type diffusions inside an n-type region (epitaxial island).
+For clarity, they are drawn in brown here, though physically they use the exact same lightly p-doped diffusion layer as the NPN transistor bases.
+
+<img src="Resistors.png" width=256>
+
+In other IC processes, diffused resistors can also be formed by an n-doped diffusion inside a p-well or directly within a p-type substrate.
+
 ___
 ## Schematization
