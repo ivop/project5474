@@ -31,6 +31,7 @@ And here are some of my own [musings on reverse engineering](doc).
 Recent additions:
 * new pinout diagrams
 * 7405 TI 7130 annotation plus schematic
+* 5420 NS 8830 annotation plus schematic
 
 ## Devices
 
