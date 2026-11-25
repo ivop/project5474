@@ -87,5 +87,11 @@ Here's a cross-section:
 
 Baruch did not specifically draw the n+ region under the collector, but if you look closely, it's there in the original image.
 
+An example of my 5420 NS 8830 annotation:
+
+<img src="BJT4-1.png" width=256> &nbsp;&nbsp; <img src="BJT4-2.png" width=256> &nbsp;&nbsp; <img src="BJT4-3.png" width=256>
+
+Maroon (dark red) is the n-well, bright red is the n+ collector region. Blue is the p-well, which is the base of the transistor, and green are four n+ emitter regions.
+
 ___
 ## Schematization
