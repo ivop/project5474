@@ -29,9 +29,9 @@ Here's what was recoverable of [Robert Baruch's notes](doc/procedure).
 And here are some of my own [musings on reverse engineering](doc).
 
 Recent additions:
-* new pinout diagrams
-* 7405 TI 7130 annotation plus schematic
-* 5420 NS 8830 annotation plus schematic
+* [new pinout diagrams](devices/pinout)
+* [7405 TI 7130 annotation plus schematic](devices/05.md)
+* [5420 NS 8830 annotation plus schematic](devices/20.md)
 
 ## Devices
 
